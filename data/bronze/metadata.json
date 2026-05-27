@@ -1,0 +1,7 @@
+{
+    "arquivo": "data.csv",
+    "fonte_original": "https://www.kaggle.com/datasets/alistairking/public-company-esg-ratings-dataset",
+    "data_ingestao": "2026-05-26T22:38:56.999270",
+    "md5_hash": "68848e9627b67d88c8839c9a24e70049",
+    "metodo": "Kaggle API"
+}

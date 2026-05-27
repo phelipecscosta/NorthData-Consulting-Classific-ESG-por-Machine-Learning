@@ -43,7 +43,7 @@ O dataset está organizado em 4 grupos naturais e uma coluna de controle:
 | 7 | `logo` | URL da imagem do logotipo oficial da empresa. | `str` | URL válida (`https://...`) | Endereço web válido ou nulo |
 | 8 | `weburl` | URL do site oficial da empresa. | `str` | URL válida (`https://...`) | Endereço web válido ou nulo |
 
-> **Observação:** estas colunas não serão utilizadas na modelagem de Machine Learning. Podem ser úteis para exibição no dashboard.
+> **Observação:** Estas colunas não serão utilizadas na modelagem de Machine Learning. Podem ser úteis para exibição no dashboard.
 
 ---
 
@@ -77,7 +77,7 @@ Classificações categóricas derivadas dos scores numéricos. Representam a mes
 | 19 | `total_grade` | Nota ESG geral da empresa em formato de letra. Derivada do `total_score`. | `str` | Letra única ou com modificador | `A`, `A-`, `B`, `B-`, `C`, `C-`, `D`, `D-` |
 | 20 | `total_level` | Classificação textual do nível ESG geral correspondente ao grade total. | `str` | Texto em inglês | `Leader`, `Average`, `Laggard` |
 
-> **Redundância intencional:** grades e levels são derivados dos scores. Na modelagem, evitar usar scores e grades simultaneamente como features para não introduzir **data leakage** (vazamento de informação).
+> **Redundância:** grades e levels são derivados dos scores. Na modelagem, evitar usar scores e grades simultaneamente como features para não introduzir **data leakage** (vazamento de informação).
 
 ---
 
@@ -87,7 +87,7 @@ Classificações categóricas derivadas dos scores numéricos. Representam a mes
 |---|---|---|---|---|---|
 | 21 | `last_processing_date` | Data em que os dados da empresa foram processados/atualizados pela última vez na fonte. | `str` | `YYYY-MM-DD` | Datas válidas no formato ISO 8601 |
 
-> **Nota:** esta coluna deve ser convertida para o tipo `datetime` durante o pré-processamento (camada Silver).
+> **Nota:** Esta coluna deve ser convertida para o tipo `datetime` durante o pré-processamento (camada Silver).
 
 ---
 
@@ -97,7 +97,7 @@ Classificações categóricas derivadas dos scores numéricos. Representam a mes
 |---|---|
 | **ESG** | Environmental, Social and Governance — critérios usados para avaliar práticas sustentáveis e éticas de empresas |
 | **Score** | Pontuação numérica bruta de desempenho |
-| **Grade** | Nota em formato de letra derivada do score (similar a notas escolares) |
+| **Grade** | Nota em formato de letra derivada do score, podendo ter até 3 caracteres iguais |
 | **Level** | Classificação qualitativa: Leader (líder), Average (mediano), Laggard (retardatário) |
 | **Leader** | Empresa com desempenho ESG acima da média do mercado |
 | **Average** | Empresa com desempenho ESG dentro da média do mercado |

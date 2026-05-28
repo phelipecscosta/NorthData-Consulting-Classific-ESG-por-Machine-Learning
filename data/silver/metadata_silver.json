@@ -1,0 +1,13 @@
+{
+    "arquivo": "data_silver.csv",
+    "origem": "D:\\Trabalho\\Ciência de Dados\\Material\\Projetos III\\NorthData-Consulting-Classific-ESG-por-Machine-Learning\\data\\bronze\\data.csv",
+    "data_processo": "2026-05-27T23:05:35.672048",
+    "md5_hash": "5efb2e300ff56effd8ebbec1a7ec311b",
+    "etapas_aplicadas": [
+        "Descarte de colunas: logo, weburl, currency, exchange",
+        "Normalização de nomes de setores em industry",
+        "Preenchimento de nulos em industry via yfinance",
+        "Conversão de last_processing_date para datetime",
+        "Exportação para data/silver/data_silver.csv"
+    ]
+}

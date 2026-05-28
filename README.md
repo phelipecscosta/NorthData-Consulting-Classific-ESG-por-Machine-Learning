@@ -205,5 +205,14 @@ No terminal, execute o script de ingestão:
 python src/ingest_data.py
 ```
 
+## FASE II - Transformando os Dados para Silver
+
+No terminal, execute o script de transformação silver:
+
+```
+ python src/silver_transform.py
+```
+
+
 # Nosso site
 **Google site:** https://sites.google.com/cesar.school/projetos3-edenred *(em revisão)*

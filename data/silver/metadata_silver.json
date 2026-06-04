@@ -1,13 +1,14 @@
 {
     "arquivo": "data_silver.csv",
     "origem": "D:\\Trabalho\\Ciência de Dados\\Material\\Projetos III\\NorthData-Consulting-Classific-ESG-por-Machine-Learning\\data\\bronze\\data.csv",
-    "data_processo": "2026-05-27T23:05:35.672048",
-    "md5_hash": "5efb2e300ff56effd8ebbec1a7ec311b",
+    "data_processo": "2026-05-30T12:15:19.600348",
+    "md5_hash": "845048e3428f38960a63638b4bf037cb",
     "etapas_aplicadas": [
         "Descarte de colunas: logo, weburl, currency, exchange",
-        "Normalização de nomes de setores em industry",
-        "Preenchimento de nulos em industry via yfinance",
-        "Conversão de last_processing_date para datetime",
+        "Normalização de nomes de setores em industry (47 → 43)",
+        "Preenchimento de nulos em industry: 9 via imputação manual por CIK (Financial Services) + busca via yfinance",
+        "Conversão de last_processing_date para datetime (formato %d-%m-%Y)",
+        "Reordenamento semântico das colunas",
         "Exportação para data/silver/data_silver.csv"
     ]
 }

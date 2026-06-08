@@ -213,6 +213,44 @@ No terminal, execute o script de transformação silver:
  python src/silver_transform.py
 ```
 
+## FASE III - Transformando os Dados para Gold (necessário na primeira vez)
+python src/build_gold.py
+
+## FASE IV Iniciar o dashboard
+```
+streamlit run app/Home.py
+```
+
+## FASE V - Rodar com Docker
+
+```bash
+# 1. Construir a imagem
+docker build -t esg-dashboard .
+
+# 2. Rodar o container
+docker run -p 8501:8501 esg-dashboard
+
+# 3. Acessar no browser
+# http://localhost:8501
+```
+
+## Fluxo do tradutor
+
+```
+Dataset cliente (PT-BR)
+    → src/translator.py → entrada EN → modelo ML → scores EN
+        → src/translator.py → resultado PT-BR
+            → data/gold/new_companies.csv → dashboard PT-BR
+
+
+## Modelos MLflow
+
+Os modelos precisam estar disponíveis no diretório `mlruns/`.
+Os run_ids configurados em `app/pages/04_previsao.py` devem existir.
+Se os run_ids mudarem, atualizar o dicionário `RUN_IDS` no arquivo.
+
+
+
 
 # Nosso site
 **Google site:** https://sites.google.com/cesar.school/projetos3-edenred *(em revisão)*

@@ -1,0 +1,54 @@
+# ============================================================
+# docker-compose.yml — REFERÊNCIA FUTURA (não usado na entrega)
+# ============================================================
+# Este arquivo mostra como evoluir para dois serviços separados:
+# - streamlit: a aplicação principal (porta 8501)
+# - mlflow:    o servidor de tracking do MLflow (porta 5000)
+#
+# Para usar no futuro:
+#   docker compose up --build
+# ============================================================
+
+version: "3.9"
+
+services:
+
+  # ── Serviço principal: Streamlit ────────────────────────────
+  streamlit:
+    build: .
+    ports:
+      - "8501:8501"         # host:container
+    volumes:
+      # Monta a pasta de dados como volume para persistir previsões
+      # mesmo que o container seja recriado
+      - ./data:/app/data
+      # Monta mlruns para o Streamlit ler os modelos do host
+      - ./mlruns:/app/mlruns
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+      - MLFLOW_ALLOW_FILE_STORE=true
+    depends_on:
+      - mlflow
+    restart: unless-stopped
+
+  # ── Serviço secundário: MLflow UI ───────────────────────────
+  mlflow:
+    image: python:3.11-slim
+    working_dir: /mlflow
+    volumes:
+      - ./mlruns:/mlflow/mlruns
+    ports:
+      - "5000:5000"
+    command: >
+      bash -c "pip install mlflow --quiet &&
+               mlflow server
+               --backend-store-uri file:///mlflow/mlruns
+               --host 0.0.0.0
+               --port 5000"
+    environment:
+      - MLFLOW_ALLOW_FILE_STORE=true
+    restart: unless-stopped
+
+# ── Volume nomeado para persistência ───────────────────────────
+volumes:
+  mlruns_data:

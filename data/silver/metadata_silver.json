@@ -1,14 +1,19 @@
 {
     "arquivo": "data_silver.csv",
     "origem": "D:\\Trabalho\\Ciência de Dados\\Material\\Projetos III\\NorthData-Consulting-Classific-ESG-por-Machine-Learning\\data\\bronze\\data.csv",
-    "data_processo": "2026-05-30T12:15:19.600348",
-    "md5_hash": "845048e3428f38960a63638b4bf037cb",
+    "data_processo": "2026-06-07T14:35:28.321390",
+    "md5_hash": "f6ba460133c0da39d6520029ce7a8679",
     "etapas_aplicadas": [
-        "Descarte de colunas: logo, weburl, currency, exchange",
+        "Descarte de colunas: logo, weburl, currency",
+        "Reordenamento parcial de colunas",
         "Normalização de nomes de setores em industry (47 → 43)",
         "Preenchimento de nulos em industry: 9 via imputação manual por CIK (Financial Services) + busca via yfinance",
         "Conversão de last_processing_date para datetime (formato %d-%m-%Y)",
-        "Reordenamento semântico das colunas",
+        "CIK padronizado para 10 dígitos com zero-padding (padrão SEC)",
+        "Ticker padronizado para letras maiúsculas",
+        "Exchange convertida para siglas: NYSE e NASDAQ",
+        "Enriquecimento com company_size_revenue_2021.csv: colunas revenue_M e employees adicionadas via join por CIK",
+        "Ordem final das colunas aplicada",
         "Exportação para data/silver/data_silver.csv"
     ]
 }

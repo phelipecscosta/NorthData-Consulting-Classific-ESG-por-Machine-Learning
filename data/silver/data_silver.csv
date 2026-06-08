@@ -1,723 +1,723 @@
-cik,ticker,name,industry,environment_grade,environment_level,environment_score,social_grade,social_level,social_score,governance_grade,governance_level,governance_score,total_grade,total_level,total_score,last_processing_date
-1744489,dis,Walt Disney Co,Media,A,High,510,BB,Medium,316,BB,Medium,321,BBB,High,1147,2022-04-19
-1467858,gm,General Motors Co,Automobiles,A,High,510,BB,Medium,303,B,Medium,255,BBB,High,1068,2022-04-17
-277135,gww,WW Grainger Inc,Trading Companies and Distributors,B,Medium,255,BB,Medium,385,B,Medium,240,BB,Medium,880,2022-04-19
-851968,mhk,Mohawk Industries Inc,Consumer products,A,High,570,B,Medium,298,BB,Medium,303,BBB,High,1171,2022-04-18
-1335258,lyv,Live Nation Entertainment Inc,Media,BBB,High,492,BB,Medium,310,B,Medium,250,BBB,High,1052,2022-04-18
-1300514,lvs,Las Vegas Sands Corp,Hotels Restaurants and Leisure,A,High,547,BB,Medium,318,BB,Medium,313,BBB,High,1178,2022-04-18
-21076,clx,Clorox Co,Consumer products,A,High,560,BB,Medium,350,BB,Medium,345,A,High,1255,2022-04-16
-1420529,aacg,ATA Creativity Global,Diversified Consumer Services,B,Medium,203,B,Medium,200,B,Medium,205,B,Medium,608,2022-07-01
-6201,aal,American Airlines Group Inc,Airlines,B,Medium,270,B,Medium,211,B,Medium,265,B,Medium,746,2022-04-16
-8177,aame,Atlantic American Corp,Insurance,B,Medium,220,B,Medium,221,BB,Medium,300,B,Medium,741,2022-04-16
-1158114,aaoi,Applied Optoelectronics Inc,Communications,BB,Medium,311,B,Medium,256,B,Medium,218,BB,Medium,785,2022-04-16
-824142,aaon,Aaon Inc,Building,A,High,500,BB,Medium,300,B,Medium,223,BBB,High,1023,2022-04-16
-320193,aapl,Apple Inc,Technology,BB,Medium,355,B,Medium,281,B,Medium,255,BB,Medium,891,2022-04-16
-943034,aatc,Autoscope Technologies Corp,Electrical Equipment,BBB,High,410,B,Medium,286,B,Medium,240,BBB,High,936,2022-06-11
-1135185,aaww,Atlas Air Worldwide Holdings Inc,Logistics and Transportation,A,High,520,B,Medium,243,B,Medium,237,BBB,High,1000,2022-04-16
-1844817,aaci,Armada Acquisition Corp I,Financial Services,B,Medium,205,B,Medium,200,B,Medium,200,B,Medium,605,2022-06-20
-1422142,aadi,Aadi Bioscience Inc,Biotechnology,B,Medium,200,B,Medium,201,B,Medium,203,B,Medium,604,2022-06-11
-318306,abeo,Abeona Therapeutics Inc,Biotechnology,B,Medium,205,BB,Medium,306,BB,Medium,310,BB,Medium,821,2022-04-16
-1559720,abnb,Airbnb Inc,Hotels Restaurants and Leisure,A,High,505,A,High,570,BBB,High,400,A,High,1475,2022-06-10
-907654,abio,ARCA Biopharma Inc,Biotechnology,B,Medium,200,B,Medium,222,B,Medium,290,B,Medium,712,2022-04-16
-815094,abmd,ABIOMED Inc,Health Care,A,High,500,BB,Medium,324,BB,Medium,305,BBB,High,1129,2022-04-16
-1576885,abos,Acumen Pharmaceuticals Inc,Biotechnology,B,Medium,205,B,Medium,201,B,Medium,200,B,Medium,606,2022-06-11
-1672688,absi,Absci Corp,Life Sciences Tools and Services,B,Medium,205,B,Medium,224,B,Medium,230,B,Medium,659,2022-06-11
-1642081,abtx,Allegiance Bancshares Inc,Banking,B,Medium,298,BB,Medium,300,BB,Medium,300,BB,Medium,898,2022-04-16
-1447028,abus,Arbutus Biopharma Corp,Biotechnology,B,Medium,203,B,Medium,204,BB,Medium,338,B,Medium,745,2022-04-16
-1173313,abvc,ABVC Biopharma Inc,Biotechnology,B,Medium,220,B,Medium,212,B,Medium,205,B,Medium,637,2022-06-11
-1070494,acad,ACADIA Pharmaceuticals Inc,Biotechnology,B,Medium,230,B,Medium,230,BB,Medium,305,BB,Medium,765,2022-04-16
-1914023,acac,Acri Capital Acquisition Corp,Financial Services,B,Medium,200,B,Medium,205,BB,Medium,300,B,Medium,705,2022-06-10
-1481646,accd,Accolade Inc,Health Care,B,Medium,255,B,Medium,254,B,Medium,235,B,Medium,744,2022-06-10
-1720580,acet,Adicet Bio Inc,Biotechnology,B,Medium,215,B,Medium,211,BB,Medium,305,B,Medium,731,2022-04-16
-1703057,abcl,Abcellera Biologics Inc,Life Sciences Tools and Services,A,High,540,BB,Medium,354,BB,Medium,345,A,High,1239,2022-06-10
-351569,abcb,Ameris Bancorp,Banking,B,Medium,290,BB,Medium,300,B,Medium,250,BB,Medium,840,2022-04-16
-1813658,acev,ACE Convergence Acquisition Corp,Financial Services,B,Medium,225,B,Medium,211,B,Medium,215,B,Medium,651,2022-06-10
-1830749,achl,Achilles Therapeutics PLC,Biotechnology,B,Medium,230,B,Medium,288,B,Medium,285,BB,Medium,803,2022-06-10
-1520697,achc,Acadia Healthcare Company Inc,Health Care,BB,Medium,330,B,Medium,231,B,Medium,220,BB,Medium,781,2022-04-16
-935036,aciw,ACI Worldwide Inc,Technology,A,High,500,BB,Medium,327,BB,Medium,300,BBB,High,1127,2022-04-16
-1113232,acls,Axcelis Technologies Inc,Semiconductors,A,High,515,BB,Medium,306,B,Medium,260,BBB,High,1081,2022-04-16
-1651625,aciu,AC Immune SA,Biotechnology,B,Medium,250,B,Medium,296,BB,Medium,305,BB,Medium,851,2022-04-16
-949858,achv,Achieve Life Sciences Inc,Biotechnology,B,Medium,215,B,Medium,222,BB,Medium,305,B,Medium,742,2022-06-10
-1680062,acmr,ACM Research Inc,Semiconductors,BBB,High,410,B,Medium,232,BB,Medium,325,BBB,High,967,2022-06-10
-1008848,acor,Acorda Therapeutics Inc,Biotechnology,B,Medium,230,BB,Medium,307,BB,Medium,310,BB,Medium,847,2022-04-16
-715579,acnb,ACNB Corp,Banking,B,Medium,220,B,Medium,219,B,Medium,215,B,Medium,654,2022-04-16
-1557746,acrs,Aclaris Therapeutics Inc,Pharmaceuticals,B,Medium,230,B,Medium,207,B,Medium,220,B,Medium,657,2022-04-16
-1427925,acrx,AcelRx Pharmaceuticals Inc,Pharmaceuticals,B,Medium,200,B,Medium,237,BB,Medium,300,B,Medium,737,2022-04-16
-1823529,act,Enact Holdings Inc,Financial Services,A,High,540,BB,Medium,328,BB,Medium,315,BBB,High,1183,2022-04-20
-934549,actg,Acacia Research Corp,Financial Services,B,Medium,200,B,Medium,200,B,Medium,275,B,Medium,675,2022-04-16
-1637873,acva,ACV Auctions Inc,Commercial Services and Supplies,B,Medium,235,B,Medium,262,BB,Medium,315,BB,Medium,812,2022-06-10
-1818838,adag,Adagene Inc,Biotechnology,B,Medium,295,BB,Medium,301,BB,Medium,305,BBB,High,901,2022-06-10
-1736243,acxp,Acurx Pharmaceuticals Inc,Biotechnology,B,Medium,235,BB,Medium,301,BB,Medium,305,BB,Medium,841,2022-06-11
-796343,adbe,Adobe Inc,Technology,B,Medium,200,B,Medium,221,B,Medium,200,B,Medium,621,2022-04-16
-1621227,adap,Adaptimmune Therapeutics PLC,Biotechnology,BB,Medium,365,B,Medium,283,BB,Medium,305,BBB,High,953,2022-04-16
-1368514,adma,ADMA Biologics Inc,Biotechnology,B,Medium,240,B,Medium,264,BB,Medium,320,BB,Medium,824,2022-04-16
-1515156,ades,Advanced Emissions Solutions Inc,Chemicals,B,Medium,205,B,Medium,201,BB,Medium,300,B,Medium,706,2022-04-16
-6281,adi,Analog Devices Inc,Semiconductors,BB,Medium,350,BB,Medium,318,BB,Medium,300,BBB,High,968,2022-04-16
-1513525,adil,Adial Pharmaceuticals Inc,Pharmaceuticals,B,Medium,200,B,Medium,203,BB,Medium,300,B,Medium,703,2022-06-10
-887247,admp,Adamis Pharmaceuticals Corp,Pharmaceuticals,B,Medium,285,B,Medium,204,B,Medium,215,B,Medium,704,2022-04-16
-1069308,acer,Acer Therapeutics Inc,Pharmaceuticals,B,Medium,223,B,Medium,291,BB,Medium,310,BB,Medium,824,2022-06-10
-1824884,adoc,Edoc Acquisition Corp,Financial Services,B,Medium,215,BB,Medium,301,BB,Medium,300,BB,Medium,816,2022-04-16
-1468328,adus,Addus Homecare Corp,Health Care,B,Medium,210,B,Medium,215,B,Medium,218,B,Medium,643,2022-04-16
-947484,acgl,Arch Capital Group Ltd,Insurance,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
-1478320,adpt,Adaptive Biotechnologies Corp,Life Sciences Tools and Services,B,Medium,260,BB,Medium,348,B,Medium,260,BB,Medium,868,2022-04-16
-769397,adsk,Autodesk Inc,Technology,A,High,555,BB,Medium,304,BB,Medium,310,BBB,High,1169,2022-04-16
-8670,adp,Automatic Data Processing Inc,Technology,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-07-25
-1726711,adtx,Aditxt Inc,Biotechnology,B,Medium,210,B,Medium,224,BB,Medium,305,B,Medium,739,2022-06-10
-1776661,adv,Advantage Solutions Inc,Media,A,High,515,B,Medium,269,BB,Medium,328,BBB,High,1112,2022-04-20
-1501756,advm,Adverum Biotechnologies Inc,Biotechnology,B,Medium,262,BB,Medium,321,B,Medium,235,BB,Medium,818,2022-04-16
-1040470,aehr,Aehr Test Systems,Semiconductors,B,Medium,290,B,Medium,262,BB,Medium,300,BB,Medium,852,2022-04-16
-1470683,aehl,Antelope Enterprise Holdings Ltd,Building,B,Medium,238,B,Medium,237,BB,Medium,325,BB,Medium,800,2022-06-10
-1750106,aei,Alset Ehome International Inc,Real Estate,A,High,520,B,Medium,207,B,Medium,210,BBB,High,937,2022-04-20
-927003,aeis,Advanced Energy Industries Inc,Electrical Equipment,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
-4904,aep,American Electric Power Company Inc,Utilities,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-20
-882291,aemd,Aethlon Medical Inc,Health Care,B,Medium,200,B,Medium,262,BB,Medium,315,BB,Medium,777,2022-04-16
-1708341,aese,Allied Esports Entertainment Inc,Hotels Restaurants and Leisure,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-06-10
-1362190,aeye,AudioEye Inc,Technology,B,Medium,235,BB,Medium,301,BB,Medium,308,BB,Medium,844,2022-04-16
-1337553,aeri,Aerie Pharmaceuticals Inc,Pharmaceuticals,A,High,500,B,Medium,264,BB,Medium,310,BBB,High,1074,2022-04-16
-874292,aey,ADDvantage Technologies Group Inc,Electrical Equipment,B,Medium,235,B,Medium,234,BB,Medium,300,BB,Medium,769,2022-04-16
-1841661,afaq,AF Acquisition Corp,Financial Services,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-06-21
-1608390,afmd,Affimed NV,Biotechnology,BB,Medium,368,BB,Medium,304,BB,Medium,310,BBB,High,982,2022-04-16
-1822523,afcg,AFC Gamma Inc,Real Estate,B,Medium,255,B,Medium,204,B,Medium,226,B,Medium,685,2022-06-10
-1823406,afbi,Affinity Bancshares Inc,Banking,B,Medium,200,B,Medium,207,B,Medium,200,B,Medium,607,2022-06-10
-1820953,afrm,Affirm Holdings Inc,Technology,B,Medium,225,BB,Medium,335,BB,Medium,335,BB,Medium,895,2022-06-10
-1522860,afib,Acutus Medical Inc,Health Care,B,Medium,205,B,Medium,211,B,Medium,235,B,Medium,651,2022-06-10
-1098972,agen,Agenus Inc,Biotechnology,B,Medium,290,B,Medium,245,BB,Medium,300,BB,Medium,835,2022-04-16
-1771007,afya,Afya Ltd,Diversified Consumer Services,B,Medium,290,B,Medium,203,B,Medium,205,B,Medium,698,2022-06-10
-1592016,agfs,AgroFresh Solutions Inc,Chemicals,A,High,500,BB,Medium,301,B,Medium,275,BBB,High,1076,2022-04-16
-1800637,agfy,Agrify Corp,Machinery,A,High,540,BB,Medium,361,BB,Medium,305,A,High,1206,2022-06-10
-1790625,agil,AgileThought Inc,Technology,BB,Medium,340,B,Medium,299,BB,Medium,305,BBB,High,944,2022-06-11
-1705402,agmh,AGM Group Holdings Inc,Financial Services,B,Medium,205,B,Medium,204,B,Medium,210,B,Medium,619,2022-06-10
-1439222,agio,Agios Pharmaceuticals Inc,Biotechnology,A,High,520,BB,Medium,303,BB,Medium,325,BBB,High,1148,2022-04-16
-1636282,agle,Aeglea Bio Therapeutics Inc,Biotechnology,B,Medium,205,B,Medium,223,B,Medium,200,B,Medium,628,2022-09-16
-1423689,agnc,AGNC Investment Corp,Real Estate,BB,Medium,382,B,Medium,242,BB,Medium,305,BBB,High,929,2022-04-16
-1826397,agri,AgriFORCE Growing Systems Ltd,Food Products,A,High,510,B,Medium,248,BB,Medium,305,BBB,High,1063,2022-06-11
-1261249,agrx,Agile Therapeutics Inc,Pharmaceuticals,B,Medium,240,B,Medium,203,B,Medium,260,B,Medium,703,2022-04-16
-78749,agys,Agilysys Inc,Technology,A,High,500,BB,Medium,303,BB,Medium,300,BBB,High,1103,2022-04-16
-1273636,agtc,Applied Genetic Technologies Corp,Biotechnology,B,Medium,235,BB,Medium,323,BB,Medium,305,BB,Medium,863,2022-04-16
-1725255,ahco,Adapthealth Corp,Health Care,B,Medium,210,B,Medium,211,B,Medium,235,B,Medium,656,2022-06-10
-874710,ahpi,Allied Healthcare Products Inc,Health Care,B,Medium,210,B,Medium,228,BB,Medium,325,BB,Medium,763,2022-04-16
-1882963,aib,AIB Acquisition Corp,Technology,B,Medium,215,B,Medium,227,BB,Medium,300,B,Medium,742,2022-05-24
-926282,adtn,ADTRAN Inc,Communications,A,High,510,BB,Medium,308,BB,Medium,300,BBB,High,1118,2022-04-16
-1744494,adn,Advent Technologies Holdings Inc,Electrical Equipment,B,Medium,250,B,Medium,203,B,Medium,220,B,Medium,673,2022-04-20
-12239,aiki,Aikido Pharma Inc,Biotechnology,B,Medium,200,B,Medium,235,B,Medium,205,B,Medium,640,2022-06-10
-1826574,akic,Sports Ventures Acquisition Corp,Financial Services,B,Medium,200,B,Medium,205,B,Medium,230,B,Medium,635,2022-06-11
-1667011,aip,Arteris Inc,Technology,A,High,500,B,Medium,286,BB,Medium,300,BBB,High,1086,2022-06-07
-1744659,akro,Akero Therapeutics Inc,Biotechnology,B,Medium,250,B,Medium,246,BB,Medium,305,BB,Medium,801,2022-06-10
-353184,airt,Air T Inc,Logistics and Transportation,B,Medium,234,B,Medium,210,BB,Medium,325,BB,Medium,769,2022-04-16
-1374535,aimc,Altra Industrial Motion Corp,Machinery,A,High,525,BB,Medium,315,BB,Medium,305,BBB,High,1145,2022-04-16
-1517022,akba,Akebia Therapeutics Inc,Biotechnology,B,Medium,200,B,Medium,218,B,Medium,215,B,Medium,633,2022-04-16
-1272842,airg,Airgain Inc,Electrical Equipment,A,High,500,BB,Medium,300,BB,Medium,330,BBB,High,1130,2022-04-16
-1870940,airs,Airsculpt Technologies Inc,Health Care,B,Medium,210,B,Medium,201,B,Medium,205,B,Medium,616,2022-06-11
-1086222,akam,Akamai Technologies Inc,Technology,A,High,515,BB,Medium,341,BB,Medium,305,BBB,High,1161,2022-04-16
-1776197,aku,Akumin Inc,Health Care,BBB,High,455,BB,Medium,347,BB,Medium,300,BBB,High,1102,2022-04-21
-1722271,akus,Akouos Inc,Biotechnology,B,Medium,205,B,Medium,221,B,Medium,295,B,Medium,721,2022-06-10
-1584754,akts,Akoustis Technologies Inc,Electrical Equipment,B,Medium,222,BB,Medium,302,BBB,High,428,BBB,High,952,2022-04-16
-1541157,aktx,Akari Therapeutics PLC,Pharmaceuticals,B,Medium,225,B,Medium,216,BB,Medium,305,B,Medium,746,2022-04-16
-1322505,albo,Albireo Pharma Inc,Biotechnology,A,High,500,BB,Medium,300,BB,Medium,310,BBB,High,1110,2022-06-10
-1711933,akya,Akoya Biosciences Inc,Life Sciences Tools and Services,A,High,512,BB,Medium,303,B,Medium,215,BBB,High,1030,2022-06-10
-3545,alco,Alico Inc,Food Products,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
-1341235,aldx,Aldeyra Therapeutics Inc,Biotechnology,B,Medium,231,B,Medium,261,B,Medium,235,B,Medium,727,2022-04-16
-1653087,alec,Alector Inc,Biotechnology,B,Medium,240,B,Medium,277,BB,Medium,300,BB,Medium,817,2022-06-10
-866291,algm,Allegro Microsystems Inc,Semiconductors,A,High,542,BB,Medium,314,B,Medium,250,BBB,High,1106,2022-06-10
-1833908,alf,Alfi Inc,Technology,B,Medium,225,B,Medium,260,BB,Medium,315,BB,Medium,800,2022-06-11
-1097149,algn,Align Technology Inc,Health Care,B,Medium,235,B,Medium,285,B,Medium,255,BB,Medium,775,2022-04-16
-1799448,algs,Aligos Therapeutics Inc,Biotechnology,B,Medium,210,B,Medium,222,B,Medium,235,B,Medium,667,2022-06-10
-1832466,alhc,Alignment Healthcare LLC,Healthcare,B,Medium,210,BB,Medium,302,B,Medium,256,BB,Medium,768,2022-06-10
-1520262,alks,Alkermes Plc,Biotechnology,BBB,High,415,BB,Medium,302,BB,Medium,333,BBB,High,1050,2022-04-16
-1267602,alim,Alimera Sciences Inc,Pharmaceuticals,B,Medium,220,B,Medium,228,B,Medium,243,B,Medium,691,2022-04-16
-1362468,algt,Allegiant Travel Co,Airlines,B,Medium,287,B,Medium,208,B,Medium,248,B,Medium,743,2022-04-16
-1757143,aih,Aesthetic Medical International Holdings Group Ltd,Health Care,B,Medium,220,B,Medium,250,BB,Medium,300,BB,Medium,770,2022-06-10
-1529274,alkt,Alkami Technology Inc,Technology,B,Medium,280,BB,Medium,305,B,Medium,260,BB,Medium,845,2022-06-10
-1178670,alny,Alnylam Pharmaceuticals Inc,Biotechnology,BB,Medium,331,BB,Medium,346,BB,Medium,325,BBB,High,1002,2022-04-16
-1365767,allt,Allot Ltd,Technology,A,High,508,BB,Medium,324,BB,Medium,310,BBB,High,1142,2022-04-16
-1737287,allo,Allogene Therapeutics Inc,Biotechnology,A,High,535,BB,Medium,324,BB,Medium,305,BBB,High,1164,2022-06-10
-6951,amat,Applied Materials Inc,Semiconductors,A,High,525,BB,Medium,317,BB,Medium,300,BBB,High,1142,2022-04-16
-2488,amd,Advanced Micro Devices Inc,Semiconductors,B,Medium,200,B,Medium,208,B,Medium,200,B,Medium,608,2022-04-16
-718877,atvi,Activision Blizzard Inc,Media,B,Medium,280,BB,Medium,347,BB,Medium,330,BBB,High,957,2022-04-16
-1730168,avgo,Broadcom Inc,Semiconductors,B,Medium,210,B,Medium,212,B,Medium,200,B,Medium,622,2022-04-16
-1013462,anss,ANSYS Inc,Technology,A,High,580,BB,Medium,337,B,Medium,285,A,High,1202,2022-04-16
-1018724,amzn,Amazon.com Inc,Retail,AA,Excellent,668,BB,Medium,305,BBB,High,460,A,High,1433,2022-04-16
-1711012,aihs,Senmiao Technology Ltd,Financial Services,B,Medium,220,B,Medium,203,B,Medium,200,B,Medium,623,2022-06-10
-1841666,apa,APA Corp (US),Energy,A,High,510,BB,Medium,316,BB,Medium,325,BBB,High,1151,2022-04-16
-875045,biib,Biogen Inc,Biotechnology,BB,Medium,380,BB,Medium,303,BB,Medium,364,BBB,High,1047,2022-04-16
-1075531,bkng,Booking Holdings Inc,Hotels Restaurants and Leisure,A,High,558,BB,Medium,306,BB,Medium,310,BBB,High,1174,2022-06-10
-813672,cdns,Cadence Design Systems Inc,Technology,A,High,500,BB,Medium,308,B,Medium,295,BBB,High,1103,2022-04-16
-1402057,cdw,CDW Corp,Electrical Equipment,B,Medium,225,B,Medium,209,B,Medium,200,B,Medium,634,2022-04-16
-1043277,chrw,CH Robinson Worldwide Inc,Logistics and Transportation,A,High,575,BB,Medium,330,BB,Medium,338,A,High,1243,2022-04-16
-20286,cinf,Cincinnati Financial Corp,Insurance,B,Medium,235,B,Medium,275,B,Medium,250,BB,Medium,760,2022-04-16
-1091667,chtr,Charter Communications Inc,Media,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
-1166691,cmcsa,Comcast Corp,Media,A,High,507,BB,Medium,343,BB,Medium,315,BBB,High,1165,2022-04-16
-900075,cprt,Copart Inc,Commercial Services and Supplies,B,Medium,270,B,Medium,204,B,Medium,205,B,Medium,679,2022-04-16
-909832,cost,Costco Wholesale Corp,Retail,A,High,537,BB,Medium,306,B,Medium,225,BBB,High,1068,2022-04-16
-277948,csx,CSX Corp,Road and Rail,A,High,510,BB,Medium,310,BB,Medium,325,BBB,High,1145,2022-04-17
-1058290,ctsh,Cognizant Technology Solutions Corp,Technology,AA,Excellent,605,BB,Medium,365,BB,Medium,300,A,High,1270,2022-04-16
-1156375,cme,CME Group Inc,Financial Services,BB,Medium,375,B,Medium,237,B,Medium,200,BB,Medium,812,2022-07-26
-858877,csco,Cisco Systems Inc,Communications,B,Medium,280,B,Medium,234,B,Medium,220,B,Medium,734,2022-06-11
-723254,ctas,Cintas Corp,Commercial Services and Supplies,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
-877890,ctxs,Citrix Systems Inc,Technology,A,High,530,BB,Medium,305,BB,Medium,305,BBB,High,1140,2022-04-16
-1590895,czr,Caesars Entertainment Inc,Hotels Restaurants and Leisure,B,Medium,265,B,Medium,228,B,Medium,200,B,Medium,693,2022-04-16
-1001082,dish,DISH Network Corp,Media,B,Medium,210,B,Medium,263,B,Medium,205,B,Medium,678,2022-04-17
-935703,dltr,Dollar Tree Inc,Retail,B,Medium,235,B,Medium,208,B,Medium,215,B,Medium,658,2022-04-17
-1093557,dxcm,Dexcom Inc,Health Care,B,Medium,215,B,Medium,236,B,Medium,215,B,Medium,666,2022-04-17
-712515,ea,Electronic Arts Inc,Media,BB,Medium,360,BB,Medium,300,B,Medium,225,BB,Medium,885,2022-04-17
-352541,lnt,Alliant Energy Corp,Utilities,A,High,519,BB,Medium,307,BB,Medium,300,BBB,High,1126,2022-04-16
-1539838,fang,Diamondback Energy Inc,Energy,A,High,513,B,Medium,271,BB,Medium,300,BBB,High,1084,2022-04-17
-1065088,ebay,eBay Inc,Retail,A,High,500,BB,Medium,302,BB,Medium,305,BBB,High,1107,2022-04-17
-1065696,lkq,LKQ Corp,Distributors,A,High,515,BB,Medium,300,BB,Medium,305,BBB,High,1120,2022-04-18
-1652044,googl,Alphabet Inc,Media,B,Medium,295,BB,Medium,362,BB,Medium,355,BBB,High,1012,2022-04-30
-1048286,mar,Marriott International Inc,Hotels Restaurants and Leisure,B,Medium,215,B,Medium,200,B,Medium,215,B,Medium,630,2022-04-18
-827054,mchp,Microchip Technology Inc,Semiconductors,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
-707549,lrcx,Lam Research Corp,Semiconductors,A,High,510,BB,Medium,325,BB,Medium,315,BBB,High,1150,2022-04-18
-1103982,mdlz,Mondelez International Inc,Food Products,A,High,520,BB,Medium,307,BB,Medium,300,BBB,High,1127,2022-04-18
-1326801,meta,Meta Platforms Inc,Media,B,Medium,205,B,Medium,232,B,Medium,215,B,Medium,652,2022-04-22
-1278021,mktx,Marketaxess Holdings Inc,Financial Services,B,Medium,230,B,Medium,213,B,Medium,210,B,Medium,653,2022-04-18
-865752,mnst,Monster Beverage Corp,Beverages,A,High,515,BB,Medium,344,BB,Medium,300,BBB,High,1159,2022-04-18
-1682852,mrna,Moderna Inc,Biotechnology,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
-891103,mtch,Match Group Inc,Media,B,Medium,245,BB,Medium,389,BB,Medium,311,BBB,High,945,2022-04-18
-1280452,mpwr,Monolithic Power Systems Inc,Semiconductors,BB,Medium,330,B,Medium,287,B,Medium,235,BB,Medium,852,2022-04-18
-789019,msft,Microsoft Corp,Technology,AA,Excellent,715,BBB,High,443,BB,Medium,375,A,High,1533,2022-04-27
-723125,mu,Micron Technology Inc,Semiconductors,A,High,530,BB,Medium,330,BB,Medium,300,BBB,High,1160,2022-04-18
-1120193,ndaq,Nasdaq Inc,Financial Services,A,High,505,BB,Medium,310,BB,Medium,300,BBB,High,1115,2022-04-18
-849399,nlok,NortonLifeLock Inc,Technology,A,High,505,BB,Medium,315,BB,Medium,305,BBB,High,1125,2022-06-10
-73124,ntrs,Northern Trust Corp,Financial Services,B,Medium,250,B,Medium,226,B,Medium,225,B,Medium,701,2022-04-18
-814453,nwl,Newell Brands Inc,Consumer products,A,High,525,BB,Medium,303,BB,Medium,315,BBB,High,1143,2022-04-18
-1045810,nvda,NVIDIA Corp,Semiconductors,BB,Medium,323,BB,Medium,301,B,Medium,275,BB,Medium,899,2022-04-18
-1564824,allk,Allakos Inc,Biotechnology,B,Medium,200,B,Medium,273,BB,Medium,300,BB,Medium,773,2022-06-10
-1564708,nwsa,News Corp,Media,A,High,509,BB,Medium,300,BB,Medium,300,BBB,High,1109,2022-04-18
-878927,odfl,Old Dominion Freight Line Inc,Road and Rail,BBB,High,467,BBB,High,423,B,Medium,280,BBB,High,1170,2022-04-18
-75362,pcar,Paccar Inc,Machinery,A,High,568,BB,Medium,343,BB,Medium,305,A,High,1216,2022-04-18
-1413447,nxpi,NXP Semiconductors NV,Semiconductors,A,High,505,BB,Medium,329,BB,Medium,305,BBB,High,1139,2022-04-18
-898173,orly,O'Reilly Automotive Inc,Retail,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
-723531,payx,Paychex Inc,Technology,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-07-26
-1126328,pfg,Principal Financial Group Inc,Insurance,A,High,555,BB,Medium,320,BB,Medium,300,BBB,High,1175,2022-04-18
-745732,rost,Ross Stores Inc,Retail,BB,Medium,375,BB,Medium,325,BB,Medium,300,BBB,High,1000,2022-04-19
-1034054,sbac,SBA Communications Corp,Real Estate,B,Medium,250,B,Medium,251,B,Medium,215,B,Medium,716,2022-04-19
-804328,qcom,Qualcomm Inc,Semiconductors,BBB,High,409,BB,Medium,300,BB,Medium,300,BBB,High,1009,2022-04-19
-945841,pool,Pool Corp,Distributors,A,High,525,BB,Medium,306,BB,Medium,313,BBB,High,1144,2022-04-18
-77476,pep,PepsiCo Inc,Beverages,AA,Excellent,719,BB,Medium,340,BB,Medium,358,A,High,1417,2022-04-18
-829224,sbux,Starbucks Corp,Hotels Restaurants and Leisure,BBB,High,475,BB,Medium,385,B,Medium,295,BBB,High,1155,2022-04-19
-910606,reg,Regency Centers Corp,Real Estate,A,High,575,BB,Medium,372,BB,Medium,365,A,High,1312,2022-04-19
-1604778,qrvo,Qorvo Inc,Semiconductors,A,High,535,BB,Medium,310,BB,Medium,305,BBB,High,1150,2022-04-19
-857005,ptc,PTC Inc,Technology,A,High,550,BB,Medium,302,BB,Medium,308,BBB,High,1160,2022-04-19
-921738,penn,PENN Entertainment Inc,Hotels Restaurants and Leisure,BB,Medium,371,BB,Medium,300,B,Medium,220,BB,Medium,891,2022-04-18
-1633917,pypl,PayPal Holdings Inc,Technology,BB,Medium,370,B,Medium,244,B,Medium,285,BB,Medium,899,2022-04-18
-872589,regn,Regeneron Pharmaceuticals Inc,Biotechnology,A,High,505,BB,Medium,327,BB,Medium,305,BBB,High,1137,2022-04-19
-318154,amgn,Amgen Inc,Biotechnology,A,High,575,BB,Medium,312,BB,Medium,328,A,High,1215,2022-04-16
-883241,snps,Synopsys Inc,Technology,A,High,525,BB,Medium,316,BB,Medium,315,BBB,High,1156,2022-04-19
-1137789,stx,Seagate Technology Holdings PLC,Technology,A,High,540,BB,Medium,355,BB,Medium,300,BBB,High,1195,2022-04-19
-842023,tech,Bio-Techne Corp,Life Sciences Tools and Services,A,High,510,B,Medium,268,BB,Medium,300,BBB,High,1078,2022-04-16
-97210,ter,Teradyne Inc,Semiconductors,A,High,507,BB,Medium,328,BB,Medium,315,BBB,High,1150,2022-04-19
-4127,swks,Skyworks Solutions Inc,Semiconductors,A,High,515,BB,Medium,303,B,Medium,270,BBB,High,1088,2022-04-19
-864749,trmb,Trimble Inc,Electrical Equipment,A,High,550,BBB,High,415,BB,Medium,315,A,High,1280,2022-04-19
-1113169,trow,T Rowe Price Group Inc,Financial Services,A,High,510,BB,Medium,325,BB,Medium,310,BBB,High,1145,2022-04-19
-946581,ttwo,Take-Two Interactive Software Inc,Media,B,Medium,225,BB,Medium,307,BB,Medium,310,BB,Medium,842,2022-04-19
-1318605,tsla,Tesla Inc,Automobiles,A,High,555,CCC,Low,160,B,Medium,278,BBB,High,993,2022-04-19
-916365,tsco,Tractor Supply Co,Retail,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-09-17
-97476,txn,Texas Instruments Inc,Semiconductors,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
-1283699,tmus,T-Mobile US Inc,Telecommunication,BB,Medium,342,BB,Medium,331,B,Medium,230,BBB,High,903,2022-04-19
-100517,ual,United Airlines Holdings Inc,Airlines,B,Medium,205,B,Medium,203,B,Medium,221,B,Medium,629,2022-04-19
-1442145,vrsk,Verisk Analytics Inc,Professional Services,AA,Excellent,615,BB,Medium,366,BB,Medium,300,A,High,1281,2022-04-19
-1403568,ulta,Ulta Beauty Inc,Retail,B,Medium,205,B,Medium,242,B,Medium,200,B,Medium,647,2022-04-19
-875320,vrtx,Vertex Pharmaceuticals Inc,Biotechnology,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
-1792044,vtrs,Viatris Inc,Pharmaceuticals,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-09-24
-1014473,vrsn,Verisign Inc,Technology,A,High,548,BB,Medium,354,BB,Medium,325,A,High,1227,2022-04-19
-1618921,wba,Walgreens Boots Alliance Inc,Retail,A,High,515,BB,Medium,325,BB,Medium,300,BBB,High,1140,2022-04-19
-1002047,ntap,NetApp Inc,Technology,A,High,545,BB,Medium,359,BB,Medium,325,A,High,1229,2022-04-18
-72903,xel,Xcel Energy Inc,Utilities,B,Medium,223,B,Medium,201,B,Medium,205,B,Medium,629,2022-04-20
-818479,xray,DENTSPLY SIRONA Inc,Health Care,A,High,530,BB,Medium,318,BB,Medium,305,BBB,High,1153,2022-04-17
-877212,zbra,Zebra Technologies Corp,Electrical Equipment,BB,Medium,320,BB,Medium,317,BB,Medium,300,BBB,High,937,2022-04-20
-1158449,aap,Advance Auto Parts Inc,Retail,B,Medium,264,B,Medium,261,B,Medium,210,B,Medium,735,2022-04-16
-109380,zion,Zions Bancorporation NA,Banking,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-04-20
-1174922,wynn,Wynn Resorts Ltd,Hotels Restaurants and Leisure,B,Medium,225,B,Medium,201,B,Medium,200,B,Medium,626,2022-04-20
-1090872,a,Agilent Technologies Inc,Life Sciences Tools and Services,A,High,573,B,Medium,231,B,Medium,233,BBB,High,1037,2022-04-16
-1551152,abbv,Abbvie Inc,Biotechnology,A,High,505,BB,Medium,317,BB,Medium,300,BBB,High,1122,2022-04-16
-1140859,abc,Amerisourcebergen Corp,Health Care,A,High,505,BB,Medium,300,BB,Medium,315,BBB,High,1120,2022-04-16
-7084,adm,Archer-Daniels-Midland Co,Food Products,A,High,587,BB,Medium,353,BB,Medium,305,A,High,1245,2022-04-16
-1800,abt,Abbott Laboratories,Health Care,A,High,515,BB,Medium,305,BB,Medium,305,BBB,High,1125,2022-04-16
-1002910,aee,Ameren Corp,Utilities,A,High,562,BB,Medium,345,BB,Medium,300,A,High,1207,2022-04-16
-874761,aes,AES Corp,Utilities,A,High,525,BB,Medium,326,BB,Medium,370,A,High,1221,2022-04-16
-4977,afl,Aflac Inc,Insurance,BBB,High,454,BB,Medium,300,B,Medium,235,BBB,High,989,2022-04-16
-1467373,acn,Accenture PLC,Technology,A,High,515,BB,Medium,360,BB,Medium,305,BBB,High,1180,2022-04-16
-354190,ajg,Arthur J. Gallagher & Co.,Insurance,A,High,530,BB,Medium,344,BB,Medium,310,BBB,High,1184,2022-04-16
-1267238,aiz,Assurant Inc,Insurance,BBB,High,438,BB,Medium,316,BB,Medium,300,BBB,High,1054,2022-04-16
-766421,alk,Alaska Air Group Inc,Airlines,A,High,515,BB,Medium,303,B,Medium,259,BBB,High,1077,2022-04-16
-915913,alb,Albemarle Corp,Chemicals,A,High,545,BB,Medium,322,BB,Medium,315,BBB,High,1182,2022-04-16
-5272,aig,American International Group Inc,Insurance,A,High,518,BB,Medium,323,BB,Medium,310,BBB,High,1151,2022-04-16
-899051,all,Allstate Corp,Insurance,A,High,530,BB,Medium,300,B,Medium,220,BBB,High,1050,2022-04-16
-1579241,alle,Allegion PLC,Building,A,High,542,BB,Medium,322,BB,Medium,315,BBB,High,1179,2022-04-16
-820027,amp,Ameriprise Financial Inc,Financial Services,BB,Medium,396,BB,Medium,308,B,Medium,267,BBB,High,971,2022-04-16
-1037868,ame,AMETEK Inc,Electrical Equipment,A,High,540,BB,Medium,329,B,Medium,270,BBB,High,1139,2022-04-16
-1053507,amt,American Tower Corp,Real Estate,A,High,530,BB,Medium,333,BB,Medium,305,BBB,High,1168,2022-04-16
-91142,aos,A O Smith Corp,Building,A,High,510,BB,Medium,315,BB,Medium,310,BBB,High,1135,2022-04-16
-2969,apd,Air Products and Chemicals Inc,Chemicals,AA,Excellent,700,BBB,High,442,BB,Medium,300,A,High,1442,2022-04-16
-315293,aon,Aon PLC,Insurance,BBB,High,485,BB,Medium,304,B,Medium,288,BBB,High,1077,2022-04-16
-1596532,anet,Arista Networks Inc,Communications,BBB,High,444,BB,Medium,310,B,Medium,295,BBB,High,1049,2022-04-16
-820313,aph,Amphenol Corp,Electrical Equipment,A,High,512,BB,Medium,303,BBB,High,475,A,High,1290,2022-04-16
-731802,ato,Atmos Energy Corp,Utilities,A,High,572,BB,Medium,368,BB,Medium,315,A,High,1255,2022-04-16
-1410636,awk,American Water Works Company Inc,Utilities,AA,Excellent,653,BB,Medium,395,BB,Medium,300,A,High,1348,2022-04-16
-1035443,are,Alexandria Real Estate Equities Inc,Real Estate,AA,Excellent,600,BB,Medium,337,BB,Medium,345,A,High,1282,2022-04-16
-1521332,aptv,Aptiv PLC,Auto Components,A,High,555,BB,Medium,339,BB,Medium,310,A,High,1204,2022-06-10
-915912,avb,Avalonbay Communities Inc,Real Estate,A,High,500,BB,Medium,300,B,Medium,298,BBB,High,1098,2022-04-16
-8818,avy,Avery Dennison Corp,Packaging,A,High,535,BB,Medium,347,BB,Medium,325,A,High,1207,2022-04-16
-12927,ba,Boeing Co,Aerospace and Defense,B,Medium,220,B,Medium,224,B,Medium,235,B,Medium,679,2022-09-21
-70858,bac,Bank of America Corp,Banking,B,Medium,220,BB,Medium,394,B,Medium,265,BB,Medium,879,2022-04-16
-10456,bax,Baxter International Inc,Health Care,A,High,500,BB,Medium,316,BB,Medium,300,BBB,High,1116,2022-04-16
-701985,bbwi,Bath & Body Works Inc,Retail,A,High,525,BB,Medium,303,BB,Medium,300,BBB,High,1128,2022-06-11
-10795,bdx,Becton Dickinson and Co,Health Care,AA,Excellent,607,BB,Medium,384,BB,Medium,315,A,High,1306,2022-04-16
-12208,bio,Bio Rad Laboratories Inc,Life Sciences Tools and Services,B,Medium,275,B,Medium,227,BB,Medium,300,BB,Medium,802,2022-04-16
-764478,bby,Best Buy Co Inc,Retail,BBB,High,430,B,Medium,231,BB,Medium,300,BBB,High,961,2022-04-16
-1390777,bk,Bank of New York Mellon Corp,Financial Services,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
-4962,axp,American Express Co,Financial Services,B,Medium,230,B,Medium,226,B,Medium,208,B,Medium,664,2022-04-16
-1383312,br,Broadridge Financial Solutions Inc,Technology,A,High,550,BB,Medium,313,BB,Medium,325,BBB,High,1188,2022-04-16
-14272,bmy,Bristol-Myers Squibb Co,Pharmaceuticals,A,High,500,BB,Medium,321,BB,Medium,310,BBB,High,1131,2022-04-16
-79282,bro,Brown & Brown Inc,Insurance,BBB,High,405,BB,Medium,320,BB,Medium,300,BBB,High,1025,2022-04-16
-866787,azo,Autozone Inc,Retail,B,Medium,260,B,Medium,222,B,Medium,213,B,Medium,695,2022-04-16
-885725,bsx,Boston Scientific Corp,Health Care,A,High,525,BB,Medium,399,BB,Medium,300,A,High,1224,2022-04-16
-1393818,bx,Blackstone Inc,Financial Services,A,High,534,BB,Medium,343,BB,Medium,320,BBB,High,1197,2022-04-16
-1037540,bxp,Boston Properties Inc,Real Estate,A,High,532,BB,Medium,339,BB,Medium,305,BBB,High,1176,2022-04-16
-719739,sivb,SVB Financial Group,Banking,A,High,510,BB,Medium,340,BB,Medium,300,BBB,High,1150,2022-04-19
-831001,c,Citigroup Inc,Banking,A,High,515,BB,Medium,300,BB,Medium,303,BBB,High,1118,2022-04-16
-18230,cat,Caterpillar Inc,Machinery,B,Medium,235,B,Medium,239,B,Medium,235,B,Medium,709,2022-06-07
-1783180,carr,Carrier Global Corp,Building,B,Medium,210,B,Medium,258,B,Medium,226,B,Medium,694,2022-04-21
-1138118,cbre,CBRE Group Inc,Real Estate,B,Medium,200,B,Medium,209,B,Medium,200,B,Medium,609,2022-06-10
-1051470,cci,Crown Castle Inc,Real Estate,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-09-16
-1725057,cday,Ceridian HCM Holding Inc,Technology,A,High,530,BB,Medium,379,BB,Medium,320,A,High,1229,2022-04-21
-28412,cma,Comerica Inc,Banking,B,Medium,280,BB,Medium,300,B,Medium,230,BB,Medium,810,2022-04-16
-882184,dhi,D R Horton Inc,Consumer products,B,Medium,250,B,Medium,271,B,Medium,205,B,Medium,726,2022-04-17
-29905,dov,Dover Corp,Machinery,A,High,500,BB,Medium,320,BB,Medium,305,BBB,High,1125,2022-04-17
-940944,dri,Darden Restaurants Inc,Hotels Restaurants and Leisure,A,High,515,BB,Medium,309,BB,Medium,300,BBB,High,1124,2022-04-17
-1306830,ce,Celanese Corp,Chemicals,A,High,500,BB,Medium,319,BB,Medium,300,BBB,High,1119,2022-06-10
-29534,dg,Dollar General Corp,Retail,B,Medium,247,B,Medium,222,B,Medium,200,B,Medium,669,2022-04-17
-1058090,cmg,Chipotle Mexican Grill Inc,Hotels Restaurants and Leisure,B,Medium,210,B,Medium,241,B,Medium,213,B,Medium,664,2022-04-16
-1022079,dgx,Quest Diagnostics Inc,Health Care,B,Medium,230,BB,Medium,300,B,Medium,205,B,Medium,735,2022-04-19
-815097,ccl,Carnival Corp,Hotels Restaurants and Leisure,A,High,515,BB,Medium,326,BB,Medium,320,BBB,High,1161,2022-04-16
-313927,chd,Church & Dwight Co Inc,Consumer products,A,High,578,BB,Medium,341,BB,Medium,348,A,High,1267,2022-04-16
-1751788,dow,Dow Inc,Chemicals,B,Medium,225,B,Medium,201,B,Medium,200,B,Medium,626,2022-04-17
-1393612,dfs,Discover Financial Services,Financial Services,BB,Medium,335,BB,Medium,321,BB,Medium,313,BBB,High,969,2022-04-17
-1326160,duk,Duke Energy Corp,Utilities,AA,Excellent,604,BB,Medium,362,BB,Medium,328,A,High,1294,2022-04-17
-783280,dre,Duke Realty Corp,Real Estate,A,High,540,BB,Medium,313,BB,Medium,300,BBB,High,1153,2022-04-17
-1324404,cf,CF Industries Holdings Inc,Chemicals,A,High,525,BB,Medium,307,BB,Medium,310,BBB,High,1142,2022-04-16
-1090012,dvn,Devon Energy Corp,Energy,A,High,570,BB,Medium,301,BB,Medium,300,BBB,High,1171,2022-04-17
-31462,ecl,Ecolab Inc,Chemicals,A,High,547,BB,Medium,373,BB,Medium,325,A,High,1245,2022-04-17
-354950,hd,Home Depot Inc,Retail,B,Medium,230,BB,Medium,317,B,Medium,205,BB,Medium,752,2022-04-17
-936340,dte,DTE Energy Co,Utilities,A,High,592,BB,Medium,313,B,Medium,210,BBB,High,1115,2022-04-17
-827052,eix,Edison International,Utilities,AA,Excellent,700,A,High,513,BB,Medium,315,A,High,1528,2022-04-17
-24741,glw,Corning Inc,Electrical Equipment,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-04-16
-927066,dva,DaVita Inc,Health Care,B,Medium,260,BB,Medium,332,BB,Medium,300,BB,Medium,892,2022-04-17
-106040,wdc,Western Digital Corp,Technology,A,High,545,BB,Medium,339,B,Medium,260,BBB,High,1144,2022-04-20
-886982,gs,Goldman Sachs Group Inc,Financial Services,A,High,525,BB,Medium,305,BB,Medium,305,BBB,High,1135,2022-04-17
-1688568,dxc,DXC Technology Co,Technology,A,High,505,BB,Medium,326,BB,Medium,305,BBB,High,1136,2022-06-10
-1551182,etn,Eaton Corporation PLC,Electrical Equipment,A,High,520,BB,Medium,328,BB,Medium,320,BBB,High,1168,2022-04-17
-1047862,ed,Consolidated Edison Inc,Utilities,AA,Excellent,700,BB,Medium,358,BB,Medium,300,A,High,1358,2022-04-16
-47111,hsy,Hershey Co,Food Products,A,High,525,BB,Medium,361,BB,Medium,300,BBB,High,1186,2022-04-17
-200406,jnj,Johnson & Johnson,Pharmaceuticals,A,High,565,BB,Medium,308,BB,Medium,300,BBB,High,1173,2022-04-18
-19617,jpm,JPMorgan Chase & Co,Banking,A,High,505,BB,Medium,319,BB,Medium,338,BBB,High,1162,2022-04-18
-21344,ko,Coca-Cola Co,Beverages,B,Medium,200,B,Medium,201,B,Medium,200,B,Medium,601,2022-04-16
-1170010,kmx,Carmax Inc,Retail,B,Medium,251,B,Medium,237,BB,Medium,300,BB,Medium,788,2022-04-16
-1336920,ldos,Leidos Holdings Inc,Professional Services,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
-58492,leg,Leggett & Platt Inc,Consumer products,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
-63908,mcd,McDonald's Corp,Hotels Restaurants and Leisure,A,High,505,BB,Medium,326,BB,Medium,305,BBB,High,1136,2022-04-18
-1707925,lin,Linde PLC,Chemicals,B,Medium,210,B,Medium,240,B,Medium,275,B,Medium,725,2022-04-20
-18926,lumn,Lumen Technologies Inc,Telecommunication,A,High,535,BB,Medium,327,BB,Medium,305,BBB,High,1167,2022-06-10
-1489393,lyb,LyondellBasell Industries NV,Chemicals,A,High,587,BB,Medium,352,BB,Medium,330,A,High,1269,2022-04-18
-1059556,mco,Moody's Corp,Financial Services,A,High,515,BB,Medium,308,B,Medium,235,BBB,High,1058,2022-04-18
-927653,mck,Mckesson Corp,Health Care,A,High,500,BB,Medium,303,BB,Medium,310,BBB,High,1113,2022-04-18
-62996,mas,Masco Corp,Building,A,High,522,BB,Medium,323,BB,Medium,305,BBB,High,1150,2022-04-18
-60667,low,Lowe's Companies Inc,Retail,B,Medium,218,B,Medium,200,B,Medium,200,B,Medium,618,2022-04-18
-1613103,mdt,Medtronic PLC,Health Care,A,High,515,BB,Medium,308,BB,Medium,315,BBB,High,1138,2022-04-18
-63754,mkc,McCormick & Company Inc,Food Products,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
-1099219,met,MetLife Inc,Insurance,A,High,517,BB,Medium,305,BB,Medium,305,BBB,High,1127,2022-04-18
-789570,mgm,MGM Resorts International,Hotels Restaurants and Leisure,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-09-17
-62709,mmc,Marsh & McLennan Companies Inc,Insurance,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
-764180,mo,Altria Group Inc,Tobacco,A,High,500,BB,Medium,327,BB,Medium,341,BBB,High,1168,2022-04-16
-908255,bwa,Borgwarner Inc,Auto Components,B,Medium,260,B,Medium,206,B,Medium,230,B,Medium,696,2022-04-16
-310158,mrk,Merck & Co Inc,Pharmaceuticals,A,High,500,BB,Medium,305,BB,Medium,315,BBB,High,1120,2022-04-18
-101778,mro,Marathon Oil Corp,Energy,A,High,530,BB,Medium,313,BB,Medium,305,BBB,High,1148,2022-04-21
-1510295,mpc,Marathon Petroleum Corp,Energy,AA,Excellent,700,BB,Medium,366,BB,Medium,315,A,High,1381,2022-04-18
-895421,ms,Morgan Stanley,Financial Services,A,High,555,BB,Medium,303,BB,Medium,320,BBB,High,1178,2022-04-18
-36270,mtb,M&T Bank Corp,Banking,A,High,500,BB,Medium,303,B,Medium,260,BBB,High,1063,2022-04-18
-1037646,mtd,Mettler-Toledo International Inc,Life Sciences Tools and Services,A,High,505,BB,Medium,300,B,Medium,240,BBB,High,1045,2022-04-18
-68505,msi,Motorola Solutions Inc,Communications,A,High,505,BB,Medium,305,BB,Medium,347,BBB,High,1157,2022-04-18
-753308,nee,Nextera Energy Inc,Utilities,AA,Excellent,668,BB,Medium,306,BB,Medium,313,A,High,1287,2022-04-18
-1408198,msci,MSCI Inc,Financial Services,A,High,580,BB,Medium,347,BB,Medium,335,A,High,1262,2022-04-18
-1513761,nclh,Norwegian Cruise Line Holdings Ltd,Hotels Restaurants and Leisure,BBB,High,495,BB,Medium,306,BB,Medium,300,BBB,High,1101,2022-04-18
-1111711,ni,NiSource Inc,Utilities,BB,Medium,361,BB,Medium,322,B,Medium,223,BBB,High,906,2022-04-18
-1133421,noc,Northrop Grumman Corp,Aerospace and Defense,A,High,505,BB,Medium,302,BB,Medium,300,BBB,High,1107,2022-04-18
-1373715,now,ServiceNow Inc,Technology,A,High,550,BB,Medium,374,BB,Medium,350,A,High,1274,2022-04-19
-73309,nue,Nucor Corp,Metals and Mining,BB,Medium,374,BB,Medium,340,B,Medium,225,BBB,High,939,2022-04-18
-1492633,nlsn,Nielsen Holdings PLC,Professional Services,A,High,500,BB,Medium,310,BB,Medium,300,BBB,High,1110,2022-04-18
-702165,nsc,Norfolk Southern Corp,Road and Rail,BB,Medium,358,BB,Medium,339,BB,Medium,330,BBB,High,1027,2022-04-18
-906163,nvr,NVR Inc,Consumer products,B,Medium,265,B,Medium,206,B,Medium,205,B,Medium,676,2022-04-18
-80661,pgr,Progressive Corp,Insurance,BB,Medium,350,BB,Medium,355,B,Medium,270,BBB,High,975,2022-04-19
-78003,pfe,Pfizer Inc,Pharmaceuticals,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
-822416,phm,Pultegroup Inc,Consumer products,B,Medium,215,B,Medium,203,B,Medium,240,B,Medium,658,2022-04-19
-76334,ph,Parker-Hannifin Corp,Machinery,BB,Medium,325,BB,Medium,303,B,Medium,225,BB,Medium,853,2022-04-18
-31791,pki,PerkinElmer Inc,Life Sciences Tools and Services,A,High,515,BB,Medium,316,BB,Medium,325,BBB,High,1156,2022-04-18
-1045609,pld,Prologis Inc,Real Estate,A,High,579,BB,Medium,374,BB,Medium,315,A,High,1268,2022-04-19
-79879,ppg,PPG Industries Inc,Chemicals,B,Medium,293,B,Medium,236,B,Medium,220,B,Medium,749,2022-04-18
-1393311,psa,Public Storage,Real Estate,B,Medium,235,B,Medium,245,B,Medium,205,B,Medium,685,2022-04-19
-713676,pnc,PNC Financial Services Group Inc,Banking,BBB,High,455,BB,Medium,323,BB,Medium,300,BBB,High,1078,2022-04-18
-1413329,pm,Philip Morris International Inc,Tobacco,A,High,520,BB,Medium,327,BB,Medium,315,BBB,High,1162,2022-04-18
-75677,pkg,Packaging Corp of America,Packaging,A,High,500,BB,Medium,303,BB,Medium,300,BBB,High,1103,2022-04-18
-1534701,psx,Phillips 66,Energy,A,High,569,BB,Medium,363,BB,Medium,310,A,High,1242,2022-04-18
-1137774,pru,Prudential Financial Inc,Insurance,B,Medium,285,BB,Medium,300,B,Medium,288,BB,Medium,873,2022-04-19
-77360,pnr,Pentair PLC,Machinery,BBB,High,433,BB,Medium,330,BB,Medium,315,BBB,High,1078,2022-04-18
-764622,pnw,Pinnacle West Capital Corp,Utilities,AA,Excellent,629,BBB,High,479,BB,Medium,300,A,High,1408,2022-04-18
-922224,ppl,PPL Corp,Utilities,A,High,525,BB,Medium,306,BB,Medium,300,BBB,High,1131,2022-04-18
-1050915,pwr,Quanta Services Inc,Construction,A,High,540,BB,Medium,382,BB,Medium,310,A,High,1232,2022-04-19
-720005,rjf,Raymond James Financial Inc,Financial Services,A,High,505,BB,Medium,309,BB,Medium,305,BBB,High,1119,2022-04-19
-1281761,rf,Regions Financial Corp,Banking,BBB,High,490,BB,Medium,304,BB,Medium,305,BBB,High,1099,2022-04-17
-884887,rcl,Royal Caribbean Cruises Ltd,Hotels Restaurants and Leisure,A,High,503,BB,Medium,327,BB,Medium,310,BBB,High,1140,2022-04-19
-1037038,rl,Ralph Lauren Corp,Textiles Apparel and Luxury Goods,BBB,High,420,BB,Medium,352,BB,Medium,303,BBB,High,1075,2022-04-19
-78239,pvh,PVH Corp,Textiles Apparel and Luxury Goods,BBB,High,418,BB,Medium,319,BB,Medium,315,BBB,High,1052,2022-04-19
-315213,rhi,Robert Half International Inc,Professional Services,B,Medium,255,BB,Medium,334,BB,Medium,310,BB,Medium,899,2022-04-19
-1038357,pxd,Pioneer Natural Resources Co,Energy,AA,Excellent,700,BBB,High,412,BB,Medium,300,A,High,1412,2022-04-18
-84839,rol,Rollins Inc,Commercial Services and Supplies,A,High,500,BB,Medium,300,BB,Medium,305,BBB,High,1105,2022-04-19
-943819,rmd,Resmed Inc,Health Care,BB,Medium,330,BB,Medium,312,BB,Medium,300,BBB,High,942,2022-04-19
-316709,schw,Charles Schwab Corp,Financial Services,A,High,515,BB,Medium,300,BB,Medium,300,BBB,High,1115,2022-04-16
-1024478,rok,Rockwell Automation Inc,Electrical Equipment,BB,Medium,308,B,Medium,243,B,Medium,210,BB,Medium,761,2022-04-19
-1260221,tdg,TransDigm Group Inc,Aerospace and Defense,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
-1012100,see,Sealed Air Corp,Packaging,A,High,555,BB,Medium,318,B,Medium,257,BBB,High,1130,2022-04-19
-882835,rop,Roper Technologies Inc,Technology,A,High,570,BB,Medium,350,BB,Medium,340,A,High,1260,2022-04-19
-93556,swk,Stanley Black & Decker Inc,Machinery,A,High,555,BB,Medium,315,BB,Medium,300,BBB,High,1170,2022-04-19
-16918,stz,Constellation Brands Inc,Beverages,BBB,High,459,BB,Medium,313,B,Medium,295,BBB,High,1067,2022-04-16
-310764,syk,Stryker Corp,Health Care,BBB,High,485,BB,Medium,321,BB,Medium,325,BBB,High,1131,2022-04-19
-96021,syy,Sysco Corp,Retail,A,High,555,BB,Medium,301,BB,Medium,305,BBB,High,1161,2022-04-19
-89800,shw,Sherwin-Williams Co,Chemicals,B,Medium,295,B,Medium,259,B,Medium,220,BB,Medium,774,2022-04-19
-64040,spgi,S&P Global Inc,Financial Services,BBB,High,435,BB,Medium,341,BB,Medium,310,BBB,High,1086,2022-06-11
-1757898,ste,STERIS plc,Health Care,A,High,510,BB,Medium,301,BB,Medium,305,BBB,High,1116,2022-04-19
-1601712,syf,Synchrony Financial,Financial Services,BB,Medium,325,BB,Medium,312,BB,Medium,310,BBB,High,947,2022-04-19
-1063761,spg,Simon Property Group Inc,Real Estate,B,Medium,225,B,Medium,247,B,Medium,205,B,Medium,677,2022-04-19
-1032208,sre,Sempra Energy,Utilities,AA,Excellent,700,BB,Medium,386,BB,Medium,310,A,High,1396,2022-04-19
-92122,so,Southern Co,Utilities,A,High,515,BB,Medium,307,BB,Medium,330,BBB,High,1152,2022-04-19
-93751,stt,State Street Corp,Financial Services,B,Medium,225,B,Medium,211,B,Medium,210,B,Medium,646,2022-04-19
-91440,sna,Snap-On Inc,Machinery,A,High,500,BB,Medium,300,B,Medium,261,BBB,High,1061,2022-04-19
-101829,rtx,Raytheon Technologies Corp,Aerospace and Defense,A,High,520,BB,Medium,330,BBB,High,400,A,High,1250,2022-06-11
-874766,hig,Hartford Financial Services Group Inc,Insurance,A,High,500,BB,Medium,305,BB,Medium,305,BBB,High,1110,2022-04-17
-1385157,tel,TE Connectivity Ltd,Electrical Equipment,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-04-19
-96943,tfx,Teleflex Inc,Health Care,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-04-19
-92230,tfc,Truist Financial Corp,Banking,BBB,High,480,BB,Medium,308,BB,Medium,300,BBB,High,1088,2022-06-11
-1094285,tdy,Teledyne Technologies Inc,Electrical Equipment,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
-27419,tgt,Target Corp,Retail,A,High,550,BB,Medium,342,BB,Medium,313,A,High,1205,2022-04-19
-109198,tjx,TJX Companies Inc,Retail,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
-1116132,tpr,Tapestry Inc,Textiles Apparel and Luxury Goods,BBB,High,483,BB,Medium,310,BB,Medium,300,BBB,High,1093,2022-06-11
-86312,trv,Travelers Companies Inc,Insurance,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-07-27
-97745,tmo,Thermo Fisher Scientific Inc,Life Sciences Tools and Services,A,High,527,BB,Medium,332,B,Medium,280,BBB,High,1139,2022-04-19
-1466258,tt,Trane Technologies PLC,Building,AA,Excellent,700,BB,Medium,389,BB,Medium,320,A,High,1409,2022-06-11
-100493,tsn,Tyson Foods Inc,Food Products,A,High,530,BB,Medium,374,BB,Medium,340,A,High,1244,2022-04-19
-860731,tyl,Tyler Technologies Inc,Technology,BBB,High,400,BB,Medium,306,BB,Medium,305,BBB,High,1011,2022-04-19
-217346,txt,Textron Inc,Aerospace and Defense,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-09-17
-731766,unh,UnitedHealth Group Inc,Health Care,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
-1090727,ups,United Parcel Service Inc,Logistics and Transportation,A,High,540,BB,Medium,374,B,Medium,245,BBB,High,1159,2022-04-19
-74208,udr,UDR Inc,Real Estate,B,Medium,225,BB,Medium,301,B,Medium,215,B,Medium,741,2022-04-19
-352915,uhs,Universal Health Services Inc,Health Care,A,High,560,BB,Medium,320,BB,Medium,338,A,High,1218,2022-04-19
-1285785,mos,Mosaic Co,Chemicals,A,High,515,BB,Medium,379,BB,Medium,315,A,High,1209,2022-04-18
-36104,usb,US Bancorp,Banking,BB,Medium,336,BB,Medium,317,BB,Medium,300,BBB,High,953,2022-04-19
-1067701,uri,United Rentals Inc,Trading Companies and Distributors,BBB,High,472,BB,Medium,318,BB,Medium,300,BBB,High,1090,2022-04-19
-899689,vno,Vornado Realty Trust,Real Estate,A,High,540,BB,Medium,326,BB,Medium,325,BBB,High,1191,2022-04-19
-1035002,vlo,Valero Energy Corp,Energy,AA,Excellent,608,BB,Medium,307,BB,Medium,330,A,High,1245,2022-04-19
-103379,vfc,VF Corp,Textiles Apparel and Luxury Goods,A,High,505,BB,Medium,301,BB,Medium,300,BBB,High,1106,2022-04-19
-1403161,v,Visa Inc,Technology,A,High,504,BB,Medium,368,BB,Medium,310,BBB,High,1182,2022-04-19
-740260,vtr,Ventas Inc,Real Estate,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
-1396009,vmc,Vulcan Materials Co,Construction,A,High,570,BB,Medium,319,BB,Medium,300,BBB,High,1189,2022-04-19
-783325,wec,WEC Energy Group Inc,Utilities,AA,Excellent,635,BBB,High,438,BB,Medium,300,A,High,1373,2022-04-19
-766704,well,Welltower OP LLC,Real Estate,BBB,High,437,BB,Medium,326,BB,Medium,300,BBB,High,1063,2022-04-21
-1000697,wat,Waters Corp,Life Sciences Tools and Services,B,Medium,270,B,Medium,292,B,Medium,235,BB,Medium,797,2022-04-19
-823768,wm,Waste Management Inc,Commercial Services and Supplies,AA,Excellent,613,BBB,High,408,B,Medium,285,A,High,1306,2022-04-19
-943452,wab,Westinghouse Air Brake Technologies Corp,Machinery,AA,Excellent,607,BB,Medium,311,BB,Medium,320,A,High,1238,2022-04-19
-107263,wmb,Williams Companies Inc,Energy,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-20
-72971,wfc,Wells Fargo & Co,Banking,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
-106640,whr,Whirlpool Corp,Consumer products,A,High,500,BB,Medium,301,BB,Medium,300,BBB,High,1101,2022-04-20
-105770,wst,West Pharmaceutical Services Inc,Life Sciences Tools and Services,A,High,540,BB,Medium,330,BB,Medium,305,BBB,High,1175,2022-04-20
-11544,wrb,W R Berkley Corp,Insurance,BB,Medium,360,B,Medium,294,BB,Medium,300,BBB,High,954,2022-04-19
-104169,wmt,Walmart Inc,Retail,BB,Medium,310,B,Medium,281,B,Medium,220,BB,Medium,811,2022-04-19
-1365135,wu,Western Union Co,Technology,B,Medium,205,B,Medium,205,B,Medium,228,B,Medium,638,2022-04-20
-1041061,yum,Yum! Brands Inc,Hotels Restaurants and Leisure,A,High,500,BB,Medium,320,BB,Medium,310,BBB,High,1130,2022-04-20
-1524472,xyl,Xylem Inc,Machinery,BB,Medium,374,B,Medium,254,B,Medium,210,BB,Medium,838,2022-04-20
-106535,wy,Weyerhaeuser Co,Real Estate,AA,Excellent,700,BB,Medium,340,BB,Medium,300,A,High,1340,2022-04-20
-1732845,wrk,Westrock Co,Packaging,A,High,555,BB,Medium,324,BB,Medium,305,BBB,High,1184,2022-04-20
-34088,xom,Exxon Mobil Corp,Energy,A,High,538,BB,Medium,322,BB,Medium,313,BBB,High,1173,2022-04-17
-1136869,zbh,Zimmer Biomet Holdings Inc,Health Care,A,High,520,BB,Medium,330,BB,Medium,310,BBB,High,1160,2022-04-20
-1555280,zts,Zoetis Inc,Pharmaceuticals,A,High,520,BB,Medium,348,BB,Medium,310,BBB,High,1178,2022-04-20
-315189,de,Deere & Co,Machinery,A,High,560,BB,Medium,339,BB,Medium,305,A,High,1204,2022-04-17
-1666700,dd,Dupont De Nemours Inc,Chemicals,A,High,550,BB,Medium,341,B,Medium,295,BBB,High,1186,2022-04-17
-715957,d,Dominion Energy Inc,Utilities,A,High,535,BB,Medium,325,BB,Medium,310,BBB,High,1170,2022-04-17
-64803,cvs,CVS Health Corp,Health Care,A,High,540,BB,Medium,302,BB,Medium,315,BBB,High,1157,2022-04-17
-27904,dal,Delta Air Lines Inc,Airlines,A,High,515,BB,Medium,300,BB,Medium,313,BBB,High,1128,2022-04-17
-1108524,crm,Salesforce Inc,Technology,B,Medium,215,B,Medium,241,B,Medium,200,B,Medium,656,2022-04-19
-93410,cvx,Chevron Corp,Energy,B,Medium,210,B,Medium,217,B,Medium,210,B,Medium,637,2022-04-22
-1755672,ctva,Corteva Inc,Chemicals,AA,Excellent,610,BB,Medium,312,BB,Medium,320,A,High,1242,2022-06-10
-858470,ctra,Coterra Energy Inc,Energy,A,High,555,BB,Medium,329,BB,Medium,310,BBB,High,1194,2022-06-11
-1596783,ctlt,Catalent Inc,Pharmaceuticals,BBB,High,483,BB,Medium,303,BB,Medium,305,BBB,High,1091,2022-04-16
-16732,cpb,Campbell Soup Co,Food Products,A,High,515,BB,Medium,301,BB,Medium,305,BBB,High,1121,2022-04-16
-1100682,crl,Charles River Laboratories International Inc,Life Sciences Tools and Services,A,High,510,BB,Medium,322,B,Medium,235,BBB,High,1067,2022-04-16
-1163165,cop,Conocophillips,Energy,AA,Excellent,687,A,High,544,BB,Medium,305,A,High,1536,2022-04-16
-711404,coo,Cooper Companies Inc,Health Care,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
-927628,cof,Capital One Financial Corp,Financial Services,A,High,508,BB,Medium,309,BB,Medium,320,BBB,High,1137,2022-04-16
-1071739,cnc,Centene Corp,Health Care,A,High,548,BB,Medium,355,BB,Medium,315,A,High,1218,2022-04-16
-1130310,cnp,CenterPoint Energy Inc,Utilities,A,High,550,BB,Medium,320,B,Medium,260,BBB,High,1130,2022-04-16
-811156,cms,CMS Energy Corp,Utilities,BBB,High,450,AA,Excellent,667,C,Low,75,BBB,High,1192,2022-04-16
-26172,cmi,Cummins Inc,Machinery,A,High,510,BB,Medium,320,BB,Medium,300,BBB,High,1130,2022-04-17
-21665,cl,Colgate-Palmolive Co,Consumer products,A,High,520,BB,Medium,310,BB,Medium,310,BBB,High,1140,2022-04-16
-66740,mmm,3M Co,Industrial Conglomerates,A,High,526,BB,Medium,310,BB,Medium,305,BBB,High,1141,2022-04-16
-759944,cfg,Citizens Financial Group Inc,Banking,B,Medium,230,B,Medium,215,B,Medium,205,B,Medium,650,2022-04-16
-23217,cag,Conagra Brands Inc,Food Products,A,High,525,BB,Medium,306,BB,Medium,300,BBB,High,1131,2022-04-16
-1739940,ci,Cigna Corp,Health Care,A,High,508,BB,Medium,328,BB,Medium,310,BBB,High,1146,2022-04-16
-721371,cah,Cardinal Health Inc,Health Care,A,High,505,BB,Medium,300,BB,Medium,315,BBB,High,1120,2022-04-16
-1141391,ma,Mastercard Inc,Technology,B,Medium,210,B,Medium,230,B,Medium,215,B,Medium,655,2022-04-18
-1679273,lw,Lamb Weston Holdings Inc,Food Products,BB,Medium,345,B,Medium,256,BB,Medium,300,BBB,High,901,2022-06-10
-912595,maa,Mid-America Apartment Communities Inc,Real Estate,BB,Medium,315,B,Medium,261,B,Medium,210,BB,Medium,786,2022-04-18
-916076,mlm,Martin Marietta Materials Inc,Construction,A,High,573,BB,Medium,313,BB,Medium,300,BBB,High,1186,2022-04-18
-92380,luv,Southwest Airlines Co,Airlines,B,Medium,295,BB,Medium,314,B,Medium,218,BB,Medium,827,2022-04-19
-59558,lnc,Lincoln National Corp,Insurance,AA,Excellent,700,BB,Medium,300,BB,Medium,300,A,High,1300,2022-04-18
-920760,len,Lennar Corp,Consumer products,BB,Medium,363,BB,Medium,344,B,Medium,220,BBB,High,927,2022-04-18
-80424,pg,Procter & Gamble Co,Consumer products,A,High,560,BBB,High,422,BB,Medium,310,A,High,1292,2022-04-18
-1821825,ogn,Organon & Co,Pharmaceuticals,A,High,515,BB,Medium,335,BB,Medium,305,BBB,High,1155,2022-06-11
-797468,oxy,Occidental Petroleum Corp,Energy,A,High,505,BB,Medium,302,BB,Medium,300,BBB,High,1107,2022-04-18
-1571996,dell,Dell Technologies Inc,Technology,A,High,500,BB,Medium,318,B,Medium,275,BBB,High,1093,2022-06-10
-1590955,payc,Paycom Software Inc,Technology,BBB,High,470,BB,Medium,305,BB,Medium,315,BBB,High,1090,2022-04-18
-788784,peg,Public Service Enterprise Group Inc,Utilities,A,High,500,BB,Medium,300,B,Medium,205,BBB,High,1005,2022-04-19
-1039684,oke,ONEOK Inc,Energy,A,High,581,BB,Medium,326,BB,Medium,355,A,High,1262,2022-04-18
-1013871,nrg,NRG Energy Inc,Utilities,BB,Medium,371,BB,Medium,327,B,Medium,218,BBB,High,916,2022-04-18
-60086,l,Loews Corp,Insurance,A,High,505,BB,Medium,303,BB,Medium,313,BBB,High,1121,2022-04-18
-29989,omc,Omnicom Group Inc,Media,A,High,543,BB,Medium,333,BB,Medium,305,BBB,High,1181,2022-04-18
-1341439,orcl,Oracle Corp,Technology,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-09-17
-726728,o,Realty Income Corp,Real Estate,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
-1286681,dpz,Domino's Pizza Inc,Hotels Restaurants and Leisure,B,Medium,205,B,Medium,205,B,Medium,200,B,Medium,610,2022-04-17
-732717,t,AT&T Inc,Telecommunication,B,Medium,210,B,Medium,200,BB,Medium,305,B,Medium,715,2022-04-16
-100885,unp,Union Pacific Corp,Road and Rail,B,Medium,290,B,Medium,257,B,Medium,245,BB,Medium,792,2022-04-19
-1164727,nem,Newmont Corporation,Metals and Mining,AA,Excellent,675,BB,Medium,389,BB,Medium,355,A,High,1419,2022-04-18
-1048911,fdx,FedEx Corp,Logistics and Transportation,BB,Medium,335,B,Medium,278,B,Medium,255,BB,Medium,868,2022-04-17
-320187,nke,Nike Inc,Textiles Apparel and Luxury Goods,B,Medium,205,B,Medium,275,B,Medium,200,B,Medium,680,2022-04-18
-37996,f,Ford Motor Co,Automobiles,B,Medium,292,B,Medium,246,B,Medium,215,BB,Medium,753,2022-04-17
-936468,lmt,Lockheed Martin Corp,Aerospace and Defense,A,High,510,BB,Medium,324,BB,Medium,320,BBB,High,1154,2022-04-18
-1060391,rsg,Republic Services Inc,Commercial Services and Supplies,B,Medium,293,B,Medium,235,B,Medium,216,B,Medium,744,2022-04-19
-1463101,enph,Enphase Energy Inc,Semiconductors,A,High,565,BB,Medium,316,BB,Medium,300,BBB,High,1181,2022-04-17
-1109357,exc,Exelon Corp,Utilities,AA,Excellent,694,BBB,High,403,BB,Medium,316,A,High,1413,2022-04-17
-746515,expd,Expeditors International of Washington Inc,Logistics and Transportation,A,High,510,BB,Medium,302,BB,Medium,300,BBB,High,1112,2022-04-17
-1324424,expe,Expedia Group Inc,Hotels Restaurants and Leisure,B,Medium,225,B,Medium,242,BB,Medium,305,BB,Medium,772,2022-04-17
-815556,fast,Fastenal Co,Trading Companies and Distributors,B,Medium,230,BB,Medium,302,B,Medium,200,B,Medium,732,2022-04-17
-1048695,ffiv,F5 Inc,Communications,B,Medium,200,B,Medium,221,B,Medium,215,B,Medium,636,2022-04-17
-798354,fisv,Fiserv Inc,Technology,BB,Medium,395,BB,Medium,302,BB,Medium,310,BBB,High,1007,2022-04-17
-1101239,eqix,Equinix Inc,Real Estate,A,High,515,BB,Medium,323,BB,Medium,315,BBB,High,1153,2022-04-17
-1262039,ftnt,Fortinet Inc,Technology,A,High,500,BB,Medium,306,BB,Medium,305,BBB,High,1111,2022-04-17
-1370637,etsy,ETSY Inc,Retail,B,Medium,235,B,Medium,241,B,Medium,235,B,Medium,711,2022-04-17
-38777,ben,Franklin Resources Inc,Financial Services,BB,Medium,321,BB,Medium,349,BB,Medium,310,BBB,High,980,2022-04-17
-1297996,dlr,Digital Realty Trust Inc,Real Estate,A,High,540,BB,Medium,317,BB,Medium,300,BBB,High,1157,2022-04-17
-313616,dhr,Danaher Corp,Life Sciences Tools and Services,A,High,530,BB,Medium,344,BB,Medium,385,A,High,1259,2022-04-17
-33185,efx,Equifax Inc,Professional Services,BB,Medium,390,BB,Medium,300,BB,Medium,305,BBB,High,995,2022-06-10
-1001250,el,Estee Lauder Companies Inc,Consumer products,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-17
-915389,emn,Eastman Chemical Co,Chemicals,A,High,583,BB,Medium,365,BB,Medium,310,A,High,1258,2022-04-17
-32604,emr,Emerson Electric Co,Electrical Equipment,AA,Excellent,605,BB,Medium,323,BB,Medium,315,A,High,1243,2022-04-17
-821189,eog,EOG Resources Inc,Energy,A,High,550,B,Medium,252,B,Medium,240,BBB,High,1042,2022-04-17
-906107,eqr,Equity Residential,Real Estate,B,Medium,235,B,Medium,208,B,Medium,210,B,Medium,653,2022-04-17
-72741,es,Eversource Energy,Utilities,A,High,576,BBB,High,409,BB,Medium,310,A,High,1295,2022-04-17
-920522,ess,Essex Property Trust Inc,Real Estate,BB,Medium,377,BB,Medium,304,B,Medium,210,BB,Medium,891,2022-04-17
-35527,fitb,Fifth Third Bancorp,Banking,BB,Medium,313,BB,Medium,300,B,Medium,215,BB,Medium,828,2022-04-17
-65984,etr,Entergy Corp,Utilities,AA,Excellent,653,BB,Medium,380,BB,Medium,310,A,High,1343,2022-04-17
-1289490,exr,Extra Space Storage Inc,Real Estate,A,High,572,B,Medium,289,B,Medium,225,BBB,High,1086,2022-04-17
-1099800,ew,Edwards Lifesciences Corp,Health Care,B,Medium,290,BB,Medium,333,BB,Medium,305,BBB,High,928,2022-04-17
-1754301,foxa,Fox Corp,Media,B,Medium,295,BB,Medium,330,BB,Medium,315,BBB,High,940,2022-04-16
-831259,fcx,Freeport-McMoRan Inc,Metals and Mining,AA,Excellent,608,BB,Medium,313,BB,Medium,305,A,High,1226,2022-04-17
-1031296,fe,FirstEnergy Corp,Utilities,A,High,510,BB,Medium,304,BB,Medium,300,BBB,High,1114,2022-04-17
-1175454,flt,Fleetcor Technologies Inc,Technology,BBB,High,410,BB,Medium,302,BB,Medium,300,BBB,High,1012,2022-04-17
-1136893,fis,Fidelity National Information Services Inc,Technology,A,High,530,B,Medium,298,BB,Medium,310,BBB,High,1138,2022-04-17
-1132979,frc,First Republic Bank,Banking,BB,Medium,370,BB,Medium,331,B,Medium,288,BBB,High,989,2022-04-17
-37785,fmc,FMC Corp,Chemicals,A,High,510,BB,Medium,307,BB,Medium,315,BBB,High,1132,2022-04-17
-34903,frt,Federal Realty Investment Trust,Real Estate,A,High,525,BB,Medium,302,BB,Medium,300,BBB,High,1127,2022-04-17
-1659166,ftv,Fortive Corp,Machinery,A,High,540,BB,Medium,326,BB,Medium,305,BBB,High,1171,2022-04-17
-39911,gps,Gap Inc,Retail,A,High,515,BB,Medium,349,BB,Medium,300,BBB,High,1164,2022-04-17
-1121788,grmn,Garmin Ltd,Consumer products,B,Medium,205,B,Medium,242,B,Medium,200,B,Medium,647,2022-04-17
-749251,it,Gartner Inc,Technology,A,High,500,BB,Medium,316,BB,Medium,315,BBB,High,1131,2022-04-17
-59478,lly,Eli Lilly and Co,Pharmaceuticals,A,High,510,BB,Medium,360,BB,Medium,310,BBB,High,1180,2022-04-17
-1095073,re,Everest Re Group Ltd,Insurance,A,High,505,B,Medium,276,BB,Medium,305,BBB,High,1086,2022-04-17
-1711269,evrg,Evergy Inc,Utilities,A,High,555,BB,Medium,310,BB,Medium,300,BBB,High,1165,2022-06-10
-1519751,fbhs,Fortune Brands Home & Security Inc,Building,A,High,510,BB,Medium,302,BB,Medium,300,BBB,High,1112,2022-04-17
-882095,gild,Gilead Sciences Inc,Biotechnology,A,High,500,BB,Medium,303,BB,Medium,300,BBB,High,1103,2022-04-17
-859737,holx,Hologic Inc,Health Care,A,High,515,BB,Medium,324,BB,Medium,315,BBB,High,1154,2022-04-17
-1000228,hsic,Henry Schein Inc,Health Care,B,Medium,210,B,Medium,205,B,Medium,200,B,Medium,615,2022-04-17
-773840,hon,Honeywell International Inc,Industrial Conglomerates,A,High,545,BB,Medium,344,BB,Medium,308,BBB,High,1197,2022-04-17
-1070750,hst,Host Hotels & Resorts Inc,Real Estate,A,High,510,BB,Medium,318,BB,Medium,318,BBB,High,1146,2022-04-17
-40533,gd,General Dynamics Corp,Aerospace and Defense,A,High,510,BB,Medium,310,BB,Medium,300,BBB,High,1120,2022-06-11
-46080,has,Hasbro Inc,Leisure Products,B,Medium,255,BB,Medium,301,BB,Medium,300,BB,Medium,856,2022-04-17
-49196,hban,Huntington Bancshares Inc,Banking,BB,Medium,308,BB,Medium,300,BB,Medium,300,BBB,High,908,2022-04-17
-320335,gl,Globe Life Inc,Insurance,B,Medium,215,B,Medium,238,B,Medium,215,B,Medium,668,2022-06-07
-40987,gpc,Genuine Parts Co,Distributors,A,High,535,B,Medium,225,BB,Medium,305,BBB,High,1065,2022-04-17
-1474735,gnrc,Generac Holdings Inc,Electrical Equipment,A,High,535,BB,Medium,311,B,Medium,250,BBB,High,1096,2022-04-17
-1123360,gpn,Global Payments Inc,Technology,BB,Medium,310,BB,Medium,343,B,Medium,265,BBB,High,918,2022-04-17
-860730,hca,HCA Healthcare Inc,Health Care,A,High,520,BB,Medium,348,BB,Medium,305,BBB,High,1173,2022-04-17
-1359841,hbi,HanesBrands Inc,Textiles Apparel and Luxury Goods,BB,Medium,310,B,Medium,223,BB,Medium,305,BB,Medium,838,2022-04-17
-1501585,hii,Huntington Ingalls Industries Inc,Aerospace and Defense,A,High,545,BB,Medium,315,BB,Medium,315,BBB,High,1175,2022-04-17
-1645590,hpe,Hewlett Packard Enterprise Co,Technology,B,Medium,230,BB,Medium,359,B,Medium,230,BB,Medium,819,2022-04-17
-4447,hes,Hess Corp,Energy,A,High,535,BB,Medium,300,BB,Medium,305,BBB,High,1140,2022-04-17
-1585689,hlt,Hilton Worldwide Holdings Inc,Hotels Restaurants and Leisure,B,Medium,293,B,Medium,200,B,Medium,205,B,Medium,698,2022-04-17
-48465,hrl,Hormel Foods Corp,Food Products,A,High,570,BB,Medium,322,BB,Medium,300,BBB,High,1192,2022-04-17
-47217,hpq,HP Inc,Technology,B,Medium,245,B,Medium,211,B,Medium,200,B,Medium,656,2022-04-17
-49071,hum,Humana Inc,Health Care,BBB,High,462,BB,Medium,300,BB,Medium,300,BBB,High,1062,2022-04-17
-4281,hwm,Howmet Aerospace Inc,Aerospace and Defense,A,High,525,BB,Medium,315,BB,Medium,320,BBB,High,1160,2022-06-10
-765880,peak,Healthpeak Properties Inc,Real Estate,A,High,535,BB,Medium,331,BB,Medium,335,A,High,1201,2022-06-11
-40704,gis,General Mills Inc,Food Products,A,High,585,BB,Medium,326,BB,Medium,365,A,High,1276,2022-04-17
-40545,ge,General Electric Co,Industrial Conglomerates,A,High,533,BB,Medium,300,BB,Medium,300,BBB,High,1133,2022-06-10
-1639920,spot,Spotify Technology SA,Media,A,High,500,B,Medium,283,B,Medium,255,BBB,High,1038,2022-04-22
-1660734,trtn,Triton International Ltd,Trading Companies and Distributors,BBB,High,477,BB,Medium,306,BB,Medium,300,BBB,High,1083,2022-04-19
-1630472,trtx,TPG RE Finance Trust Inc,Real Estate,B,Medium,230,B,Medium,239,BB,Medium,300,BB,Medium,769,2022-06-11
-1552033,tru,TransUnion,Professional Services,A,High,510,BB,Medium,313,BB,Medium,310,BBB,High,1133,2022-04-19
-1670592,yeti,Yeti Holdings Inc,Leisure Products,B,Medium,269,B,Medium,253,BB,Medium,305,BB,Medium,827,2022-06-11
-1345016,yelp,Yelp Inc,Media,B,Medium,245,A,High,515,B,Medium,213,BBB,High,973,2022-04-20
-1614178,yext,Yext Inc,Technology,BB,Medium,325,BB,Medium,314,BB,Medium,310,BBB,High,949,2022-06-11
-1364885,spr,Spirit AeroSystems Holdings Inc,Aerospace and Defense,A,High,515,BB,Medium,337,BB,Medium,300,BBB,High,1152,2022-04-19
-1819580,ysg,Yatsen Holding Ltd,Consumer products,BB,Medium,355,B,Medium,217,BB,Medium,325,BB,Medium,897,2022-06-11
-1631761,yrd,Yiren Digital Ltd,Financial Services,B,Medium,200,B,Medium,205,B,Medium,205,B,Medium,610,2022-04-20
-1673358,yumc,Yum China Holdings Inc,Hotels Restaurants and Leisure,B,Medium,205,B,Medium,217,B,Medium,220,B,Medium,642,2022-06-11
-1530804,trox,Tronox Holdings PLC,Chemicals,A,High,503,BB,Medium,320,BB,Medium,300,BBB,High,1123,2022-04-19
-1720446,zepp,Zepp Health Corp,Electrical Equipment,B,Medium,202,B,Medium,210,B,Medium,295,B,Medium,707,2022-06-11
-1802749,zev,Lightning eMotors Inc,Machinery,A,High,535,BB,Medium,391,B,Medium,240,BBB,High,1166,2022-06-11
-1423774,zuo,Zuora Inc,Technology,B,Medium,240,B,Medium,234,B,Medium,200,B,Medium,674,2022-09-24
-1654126,zim,ZIM Integrated Shipping Services Ltd,Marine,BB,Medium,329,BB,Medium,351,BB,Medium,320,BBB,High,1000,2022-04-20
-1403752,zyme,Zymeworks Inc,Biotechnology,B,Medium,240,BB,Medium,326,BB,Medium,305,BB,Medium,871,2022-06-11
-1439288,zws,Zurn Elkay Water Solutions Corp,Building,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-06-11
-1856314,you,Clear Secure Inc,Technology,A,High,515,B,Medium,278,B,Medium,205,BBB,High,998,2022-04-21
-1463172,zen,Zendesk Inc,Technology,A,High,515,BB,Medium,338,BB,Medium,320,BBB,High,1173,2022-04-20
-785786,plxs,Plexus Corp,Electrical Equipment,A,High,510,BB,Medium,300,BB,Medium,300,BBB,High,1110,2022-04-18
-1448397,ship,Seanergy Maritime Holdings Corp,Marine,BB,Medium,345,BB,Medium,300,BB,Medium,305,BBB,High,950,2022-04-19
-1831651,shls,Shoals Technologies Group Inc,Electrical Equipment,B,Medium,285,B,Medium,280,BB,Medium,300,BB,Medium,865,2022-06-10
-913241,shoo,Steven Madden Ltd,Textiles Apparel and Luxury Goods,A,High,508,B,Medium,231,BB,Medium,300,BBB,High,1039,2022-04-19
-743238,shyf,Shyft Group Inc,Machinery,A,High,510,BB,Medium,303,B,Medium,275,BBB,High,1088,2022-06-10
-1459839,sibn,SI-BONE Inc,Health Care,B,Medium,220,B,Medium,228,B,Medium,210,B,Medium,658,2022-06-10
-65596,sieb,Siebert Financial Corp,Financial Services,BB,Medium,300,B,Medium,299,B,Medium,235,BB,Medium,834,2022-04-19
-1692412,plya,Playa Hotels & Resorts NV,Hotels Restaurants and Leisure,B,Medium,210,B,Medium,200,B,Medium,205,B,Medium,615,2022-06-10
-1091907,wwe,World Wrestling Entertainment Inc,Media,B,Medium,275,BB,Medium,332,BB,Medium,315,BBB,High,922,2022-04-20
-1157075,pmcb,PharmaCyte Biotech Inc,Biotechnology,B,Medium,220,B,Medium,202,BB,Medium,300,B,Medium,722,2022-04-18
-110471,www,Wolverine World Wide Inc,Textiles Apparel and Luxury Goods,BB,Medium,390,B,Medium,298,BB,Medium,308,BBB,High,996,2022-04-20
-1616000,xhr,Xenia Hotels & Resorts Inc,Real Estate,B,Medium,260,B,Medium,263,B,Medium,236,BB,Medium,759,2022-04-20
-1163302,x,United States Steel Corp,Metals and Mining,A,High,535,BB,Medium,364,BB,Medium,300,BBB,High,1199,2022-04-19
-1810997,xpev,Xpeng Inc,Automobiles,B,Medium,215,B,Medium,208,B,Medium,200,B,Medium,623,2022-06-11
-1166003,xpo,XPO Logistics Inc,Road and Rail,A,High,560,BB,Medium,318,BB,Medium,300,BBB,High,1178,2022-04-20
-1398453,xin,Xinyuan Real Estate Co Ltd,Real Estate,B,Medium,205,B,Medium,242,BB,Medium,300,B,Medium,747,2022-04-20
-1772720,xl,XL Fleet Corp,Auto Components,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-04-22
-1725033,xyf,X Financial,Financial Services,B,Medium,215,B,Medium,205,B,Medium,200,B,Medium,620,2022-06-11
-775368,y,Alleghany Corp,Insurance,B,Medium,215,B,Medium,240,BB,Medium,300,BB,Medium,755,2022-04-16
-1794350,yala,Yalla Group Ltd,Media,B,Medium,233,B,Medium,244,B,Medium,220,B,Medium,697,2022-06-11
-795403,wts,Watts Water Technologies Inc,Machinery,BBB,High,420,BB,Medium,303,B,Medium,210,BBB,High,933,2022-04-19
-1551693,sien,Sientra Inc,Health Care,B,Medium,219,BB,Medium,308,B,Medium,236,BB,Medium,763,2022-04-19
-910406,hain,Hain Celestial Group Inc,Food Products,A,High,520,BB,Medium,302,BB,Medium,305,BBB,High,1127,2022-04-17
-1742518,mtc,MMTEC Inc,Technology,B,Medium,221,B,Medium,225,BB,Medium,305,BB,Medium,751,2022-04-20
-1634379,mtcr,Metacrine Inc,Biotechnology,B,Medium,210,B,Medium,207,BB,Medium,330,B,Medium,747,2022-06-10
-1183765,mtem,Molecular Templates Inc,Biotechnology,BB,Medium,360,BB,Medium,325,BB,Medium,320,BBB,High,1005,2022-06-10
-1091223,mtls,Materialise NV,Technology,A,High,505,BB,Medium,301,BB,Medium,300,BBB,High,1106,2022-04-18
-1056358,mtex,Mannatech Inc,Consumer products,B,Medium,200,B,Medium,260,B,Medium,230,B,Medium,690,2022-04-18
-866273,mtrx,Matrix Service Co,Construction,A,High,589,BB,Medium,390,B,Medium,277,A,High,1256,2022-04-18
-1159036,halo,Halozyme Therapeutics Inc,Biotechnology,A,High,510,BB,Medium,302,BB,Medium,315,BBB,High,1127,2022-04-17
-819913,hall,Hallmark Financial Services Inc,Insurance,B,Medium,215,B,Medium,233,BB,Medium,300,B,Medium,748,2022-04-17
-1277902,mvbf,MVB Financial Corp,Banking,B,Medium,210,B,Medium,215,B,Medium,215,B,Medium,640,2022-04-18
-1760689,mvst,Microvast Holdings Inc,Machinery,B,Medium,225,B,Medium,282,B,Medium,210,B,Medium,717,2022-06-11
-65770,mvis,MicroVision Inc,Electrical Equipment,BBB,High,451,BB,Medium,300,BB,Medium,330,BBB,High,1081,2022-04-18
-1287098,mxct,MaxCyte Inc,Life Sciences Tools and Services,B,Medium,220,BB,Medium,300,B,Medium,248,BB,Medium,768,2022-04-21
-899923,mygn,Myriad Genetics Inc,Biotechnology,BB,Medium,353,BB,Medium,321,B,Medium,294,BBB,High,968,2022-04-18
-1327607,myfw,First Western Financial Inc,Banking,BB,Medium,351,BB,Medium,300,B,Medium,235,BB,Medium,886,2022-06-10
-1288469,mxl,Maxlinear Inc,Semiconductors,A,High,535,BB,Medium,325,BB,Medium,335,BBB,High,1195,2022-04-18
-1321834,mymd,MyMD Pharmaceuticals Inc,Pharmaceuticals,B,Medium,205,B,Medium,257,B,Medium,230,B,Medium,692,2022-06-11
-1823878,myps,Playstudios Inc,Media,B,Medium,205,B,Medium,202,B,Medium,200,B,Medium,607,2022-06-11
-1819394,mttr,Matterport Inc,Technology,BB,Medium,346,BB,Medium,325,B,Medium,260,BBB,High,931,2022-06-11
-1493594,mtsi,MACOM Technology Solutions Holdings Inc,Semiconductors,BB,Medium,377,BB,Medium,309,B,Medium,255,BBB,High,941,2022-04-18
-840715,clro,Clearone Inc,Communications,BB,Medium,370,B,Medium,228,B,Medium,210,BB,Medium,808,2022-04-16
-749647,clsn,Celsion Corp,Biotechnology,B,Medium,255,B,Medium,214,BB,Medium,300,BB,Medium,769,2022-04-16
-885462,gure,Gulf Resources Inc,Chemicals,BBB,High,408,B,Medium,206,BB,Medium,300,BBB,High,914,2022-04-17
-944480,gvp,GSE Systems Inc,Technology,A,High,505,BB,Medium,307,B,Medium,245,BBB,High,1057,2022-04-17
-1589061,gyro,Gyrodyne LLC,Real Estate,B,Medium,240,B,Medium,206,B,Medium,240,B,Medium,686,2022-04-17
-1434728,gwrs,Global Water Resources Inc,Utilities,BB,Medium,367,B,Medium,297,B,Medium,235,BB,Medium,899,2022-04-17
-1172222,ha,Hawaiian Holdings Inc,Airlines,B,Medium,200,BB,Medium,321,B,Medium,200,B,Medium,721,2022-04-17
-827876,clsk,CleanSpark Inc,Technology,A,High,570,BB,Medium,326,BB,Medium,310,A,High,1206,2022-06-10
-1539029,clsd,Clearside Biomedical Inc,Pharmaceuticals,B,Medium,215,B,Medium,230,B,Medium,200,B,Medium,645,2022-07-26
-1824013,haac,Health Assurance Acquisition Corp,Financial Services,B,Medium,200,B,Medium,258,BB,Medium,300,BB,Medium,758,2022-06-10
-1109242,hafc,Hanmi Financial Corp,Banking,B,Medium,250,B,Medium,207,B,Medium,233,B,Medium,690,2022-04-17
-1849867,clst,Catalyst Bancorp Inc,Financial Services,B,Medium,260,BB,Medium,350,B,Medium,267,BB,Medium,877,2022-06-11
-1026662,clwt,Euro Tech Holdings Company Ltd,Trading Companies and Distributors,B,Medium,230,B,Medium,201,B,Medium,210,B,Medium,641,2022-04-17
-1705843,clxt,Calyxt Inc,Biotechnology,A,High,535,BB,Medium,322,BB,Medium,325,BBB,High,1182,2022-06-10
-1738177,cmbm,Cambium Networks Corp,Communications,A,High,505,BB,Medium,337,BB,Medium,300,BBB,High,1142,2022-06-10
-1005229,cmco,Columbus McKinnon Corp,Machinery,B,Medium,200,BB,Medium,323,B,Medium,240,BB,Medium,763,2022-04-16
-943184,evk,Ever-Glory International Group Inc,Textiles Apparel and Luxury Goods,B,Medium,200,B,Medium,211,B,Medium,210,B,Medium,621,2022-04-17
-1466301,clvs,Clovis Oncology Inc,Biotechnology,B,Medium,225,B,Medium,212,BB,Medium,300,B,Medium,737,2022-04-16
-1819615,clvr,Clever Leaves Holdings Inc,Pharmaceuticals,B,Medium,225,B,Medium,243,B,Medium,205,B,Medium,673,2022-06-10
-1751876,happ,Happiness Development Group Ltd,Consumer products,B,Medium,225,B,Medium,207,BB,Medium,300,B,Medium,732,2022-06-10
-1436425,hbcp,Home Bancorp Inc,Financial Services,B,Medium,230,B,Medium,202,B,Medium,200,B,Medium,632,2022-04-17
-1123494,hbio,Harvard Bioscience Inc,Life Sciences Tools and Services,B,Medium,250,B,Medium,221,BB,Medium,300,BB,Medium,771,2022-04-17
-706129,hbnc,Horizon Bancorp Inc,Banking,B,Medium,255,BB,Medium,321,B,Medium,233,BB,Medium,809,2022-04-17
-775215,hbt,HBT Financial Inc,Banking,B,Medium,245,B,Medium,275,BB,Medium,300,BB,Medium,820,2022-06-10
-1636422,hcat,Health Catalyst Inc,Health Care,A,High,545,BB,Medium,324,BB,Medium,320,BBB,High,1189,2022-06-10
-1824846,hcar,Healthcare Services Acquisition Corp,Financial Services,B,Medium,245,B,Medium,205,BB,Medium,300,BB,Medium,750,2022-06-10
-1708493,harp,Harpoon Therapeutics Inc,Biotechnology,BBB,High,485,BB,Medium,300,BB,Medium,310,BBB,High,1095,2022-06-10
-858655,hayn,Haynes International Inc,Metals and Mining,A,High,500,BB,Medium,301,BB,Medium,300,BBB,High,1101,2022-04-17
-1098146,pnbk,Patriot National Bancorp Inc,Banking,B,Medium,205,BB,Medium,302,B,Medium,210,B,Medium,717,2022-04-18
-1784567,hcdi,Harbor Custom Development Inc,Consumer products,B,Medium,222,B,Medium,221,B,Medium,208,B,Medium,651,2022-06-10
-1403431,hcci,Heritage-Crystal Clean Inc,Commercial Services and Supplies,A,High,525,BBB,High,400,BB,Medium,300,A,High,1225,2022-04-17
-1115055,pnfp,Pinnacle Financial Partners Inc,Banking,B,Medium,271,BB,Medium,328,B,Medium,250,BB,Medium,849,2022-11-08
-1811764,pnt,POINT Biopharma Global Inc,Biotechnology,BB,Medium,320,B,Medium,221,B,Medium,285,BB,Medium,826,2022-06-11
-1446159,poai,Predictive Oncology Inc,Health Care,B,Medium,278,B,Medium,297,B,Medium,220,BB,Medium,795,2022-06-10
-1622345,pola,Polar Power Inc,Electrical Equipment,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-06-05
-1145197,podd,Insulet Corp,Health Care,B,Medium,215,B,Medium,233,B,Medium,205,B,Medium,653,2022-11-07
-833640,powi,Power Integrations Inc,Semiconductors,A,High,575,B,Medium,285,BB,Medium,305,BBB,High,1165,2022-11-08
-1015383,poww,Ammo Inc,Leisure Products,B,Medium,233,B,Medium,224,B,Medium,200,B,Medium,657,2022-08-02
-56868,pnrg,Primeenergy Resources Corp,Energy,B,Medium,200,B,Medium,200,B,Medium,260,B,Medium,660,2022-11-08
-1766400,pntg,Pennant Group Inc,Health Care,B,Medium,245,BB,Medium,306,B,Medium,200,BB,Medium,751,2022-06-10
-1028918,ppbi,Pacific Premier Bancorp Inc,Banking,A,High,565,BB,Medium,328,BB,Medium,315,A,High,1208,2022-11-08
-914122,ppih,Perma-Pipe International Holdings Inc,Machinery,A,High,500,B,Medium,260,BB,Medium,300,BBB,High,1060,2022-06-10
-802481,ppc,Pilgrims Pride Corp,Food Products,A,High,500,BB,Medium,302,B,Medium,220,BBB,High,1022,2022-11-08
-1185348,praa,PRA Group Inc,Financial Services,BBB,High,473,BB,Medium,321,BB,Medium,310,BBB,High,1104,2022-11-08
-1449792,ppsi,Pioneer Power Solutions Inc,Electrical Equipment,B,Medium,299,BB,Medium,305,BB,Medium,315,BBB,High,919,2022-11-08
-1689548,prax,Praxis Precision Medicines Inc,Biotechnology,B,Medium,200,B,Medium,215,B,Medium,215,B,Medium,630,2022-06-10
-1588978,prct,Procept Biorobotics Corp,Health Care,B,Medium,200,B,Medium,224,BB,Medium,300,B,Medium,724,2022-06-11
-1784535,prch,Porch Group Inc,Retail,B,Medium,225,B,Medium,227,B,Medium,215,B,Medium,667,2022-06-10
-1876431,pre,Artisan Acquisition Corp,Healthcare,B,Medium,245,B,Medium,203,B,Medium,265,B,Medium,713,2022-04-22
-1046568,prdo,Perdoceo Education Corp,Diversified Consumer Services,BB,Medium,365,B,Medium,297,B,Medium,250,BBB,High,912,2022-06-10
-1300734,sisi,Shineco Inc,Consumer products,BB,Medium,340,BB,Medium,346,BB,Medium,305,BBB,High,991,2022-06-11
-1451809,sitm,SiTime Corp,Semiconductors,A,High,505,BB,Medium,304,BB,Medium,300,BBB,High,1109,2022-06-10
-908937,siri,Sirius XM Holdings Inc,Media,B,Medium,240,BB,Medium,302,B,Medium,205,B,Medium,747,2022-11-08
-1753673,sj,Scienjoy Holding Corp,Media,B,Medium,260,BB,Medium,320,B,Medium,240,BB,Medium,820,2022-06-10
-1829427,pow,Powered Brands,Financial Services,B,Medium,235,B,Medium,231,B,Medium,250,B,Medium,716,2022-04-20
-80420,powl,Powell Industries Inc,Electrical Equipment,A,High,500,B,Medium,240,B,Medium,215,BBB,High,955,2022-11-08
-1627475,upwk,Upwork Inc,Professional Services,B,Medium,275,B,Medium,264,B,Medium,278,BB,Medium,817,2022-06-10
-883945,usak,USA Truck Inc,Road and Rail,A,High,532,BB,Medium,311,BB,Medium,303,BBB,High,1146,2022-11-08
-27093,usau,US Gold Corp,Metals and Mining,BBB,High,400,B,Medium,240,BB,Medium,300,BBB,High,940,2022-06-10
-931584,usap,Universal Stainless & Alloy Products Inc,Metals and Mining,B,Medium,238,B,Medium,231,B,Medium,200,B,Medium,669,2022-11-08
-101594,useg,US Energy Corp,Energy,BBB,High,438,B,Medium,265,BB,Medium,315,BBB,High,1018,2022-11-08
-1088034,usio,Usio Inc,Technology,B,Medium,285,B,Medium,245,B,Medium,240,BB,Medium,770,2022-06-10
-1082554,uthr,United Therapeutics Corp,Biotechnology,B,Medium,233,B,Medium,259,BB,Medium,300,BB,Medium,792,2022-11-08
-1668243,urgn,Urogen Pharma Ltd,Biotechnology,B,Medium,210,B,Medium,251,B,Medium,290,BB,Medium,751,2022-06-10
-912615,urbn,Urban Outfitters Inc,Retail,BB,Medium,335,BB,Medium,300,BB,Medium,300,BBB,High,935,2022-11-08
-1789299,utme,Utime Ltd,Electrical Equipment,B,Medium,217,B,Medium,200,B,Medium,200,B,Medium,617,2022-06-10
-1452965,utrs,Minerva Surgical Inc,Health Care,B,Medium,205,B,Medium,201,B,Medium,210,B,Medium,616,2022-06-11
-1030471,utsi,UTStarcom Holdings Corp,Communications,BB,Medium,340,BB,Medium,310,BB,Medium,365,BBB,High,1015,2022-11-08
-1729173,uxin,Uxin Ltd,Retail,B,Medium,203,B,Medium,202,B,Medium,225,B,Medium,630,2022-06-10
-102212,uvsp,Univest Financial Corp,Banking,BB,Medium,331,BB,Medium,322,BB,Medium,305,BBB,High,958,2022-11-08
-1597835,cmcm,Cheetah Mobile Inc,Technology,B,Medium,205,B,Medium,214,B,Medium,215,B,Medium,634,2022-11-07
-22444,cmc,Commercial Metals Co,Metals and Mining,B,Medium,223,B,Medium,212,B,Medium,200,B,Medium,635,2022-11-07
-82020,uslm,United States Lime & Minerals Inc,Construction,A,High,500,B,Medium,233,BB,Medium,300,BBB,High,1033,2022-11-08
-706698,utmd,Utah Medical Products Inc,Health Care,B,Medium,240,B,Medium,236,B,Medium,250,B,Medium,726,2022-11-08
-1227654,cmp,Compass Minerals International Inc,Metals and Mining,A,High,505,BB,Medium,302,BB,Medium,320,BBB,High,1127,2022-11-07
-1824301,cnd,Concord Acquisition Corp,Financial Services,B,Medium,205,B,Medium,257,BB,Medium,300,BB,Medium,762,2022-11-12
-1733868,cnf,CNFinance Holdings Ltd,Financial Services,B,Medium,200,B,Medium,200,B,Medium,220,B,Medium,620,2022-06-10
-816956,cnmd,Conmed Corp,Health Care,BBB,High,441,BB,Medium,300,B,Medium,270,BBB,High,1011,2022-11-07
-1385280,cnk,Cinemark Holdings Inc,Media,BB,Medium,330,BB,Medium,300,BB,Medium,300,BBB,High,930,2022-11-07
-1704720,cnne,Cannae Holdings Inc,Financial Services,B,Medium,215,B,Medium,203,B,Medium,203,B,Medium,621,2022-06-10
-1224608,cno,CNO Financial Group Inc,Insurance,A,High,500,BB,Medium,322,BB,Medium,315,BBB,High,1137,2022-11-07
-21175,cna,CNA Financial Corp,Insurance,A,High,540,BB,Medium,329,BB,Medium,340,A,High,1209,2022-11-07
-1503584,cmre,Costamare Inc,Marine,B,Medium,242,B,Medium,204,B,Medium,200,B,Medium,646,2022-11-07
-861459,gva,Granite Construction Inc,Construction,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-11-07
-1408710,fn,Fabrinet,Electrical Equipment,A,High,510,B,Medium,209,B,Medium,210,BBB,High,929,2022-11-07
-1468174,h,Hyatt Hotels Corp,Hotels Restaurants and Leisure,B,Medium,235,B,Medium,209,B,Medium,205,B,Medium,649,2022-11-07
-1561894,hasi,Hannon Armstrong Sustainable Infrastructure Capital Inc,Real Estate,AA,Excellent,646,BBB,High,404,BB,Medium,313,A,High,1363,2022-11-07
-1834622,hayw,Hayward Holdings Inc,Building,A,High,535,BB,Medium,305,BB,Medium,300,BBB,High,1140,2022-11-15
-1709164,hbb,Hamilton Beach Brands Holding Co,Consumer products,B,Medium,245,B,Medium,272,B,Medium,230,B,Medium,747,2022-11-15
-1691303,hcc,Warrior Met Coal Inc,Metals and Mining,B,Medium,215,B,Medium,200,B,Medium,200,B,Medium,615,2022-11-09
-1400810,hci,Hci Group Inc,Insurance,B,Medium,205,B,Medium,260,BB,Medium,300,BB,Medium,765,2022-11-07
-354707,he,Hawaiian Electric Industries Inc,Utilities,A,High,585,BB,Medium,348,BB,Medium,310,A,High,1243,2022-11-07
-1528396,gwre,Guidewire Software Inc,Technology,A,High,549,BB,Medium,321,BB,Medium,330,A,High,1200,2022-11-07
-313143,hae,Haemonetics Corp,Health Care,BBB,High,448,BB,Medium,303,BB,Medium,305,BBB,High,1056,2022-11-07
-1283140,hep,Holly Energy Partners LP,Energy,A,High,511,B,Medium,225,B,Medium,215,BBB,High,951,2022-11-07
-1674168,hgv,Hilton Grand Vacations Inc,Hotels Restaurants and Leisure,BB,Medium,305,B,Medium,288,B,Medium,250,BB,Medium,843,2022-11-15
-1417398,hi,Hillenbrand Inc,Machinery,BBB,High,489,BB,Medium,349,BB,Medium,300,BBB,High,1138,2022-11-07
-1498828,hhc,Howard Hughes Corp,Real Estate,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-11-07
-1404655,hubs,HubSpot Inc,Technology,BBB,High,480,BB,Medium,329,BB,Medium,320,BBB,High,1129,2022-11-07
-1789832,hesm,Hess Midstream LP,Energy,BB,Medium,307,B,Medium,257,B,Medium,255,BB,Medium,819,2022-11-15
-46619,hei,HEICO Corp,Aerospace and Defense,B,Medium,225,B,Medium,203,B,Medium,205,B,Medium,633,2022-11-07
+cik,ticker,name,exchange,industry,revenue_M,employees,environment_grade,environment_level,environment_score,social_grade,social_level,social_score,governance_grade,governance_level,governance_score,total_grade,total_level,total_score,last_processing_date
+0001744489,DIS,Walt Disney Co,NYSE,Media,67418.0,190000,A,High,510,BB,Medium,316,BB,Medium,321,BBB,High,1147,2022-04-19
+0001467858,GM,General Motors Co,NYSE,Automobiles,127004.0,158000,A,High,510,BB,Medium,303,B,Medium,255,BBB,High,1068,2022-04-17
+0000277135,GWW,WW Grainger Inc,NYSE,Trading Companies and Distributors,11664.0,25000,B,Medium,255,BB,Medium,385,B,Medium,240,BB,Medium,880,2022-04-19
+0000851968,MHK,Mohawk Industries Inc,NYSE,Consumer products,10241.0,42000,A,High,570,B,Medium,298,BB,Medium,303,BBB,High,1171,2022-04-18
+0001335258,LYV,Live Nation Entertainment Inc,NYSE,Media,6005.0,11000,BBB,High,492,BB,Medium,310,B,Medium,250,BBB,High,1052,2022-04-18
+0001300514,LVS,Las Vegas Sands Corp,NYSE,Hotels Restaurants and Leisure,4218.0,52000,A,High,547,BB,Medium,318,BB,Medium,313,BBB,High,1178,2022-04-18
+0000021076,CLX,Clorox Co,NYSE,Consumer products,7341.0,8700,A,High,560,BB,Medium,350,BB,Medium,345,A,High,1255,2022-04-16
+0001420529,AACG,ATA Creativity Global,NASDAQ,Diversified Consumer Services,16.0,200,B,Medium,203,B,Medium,200,B,Medium,205,B,Medium,608,2022-07-01
+0000006201,AAL,American Airlines Group Inc,NASDAQ,Airlines,17823.0,100100,B,Medium,270,B,Medium,211,B,Medium,265,B,Medium,746,2022-04-16
+0000008177,AAME,Atlantic American Corp,NASDAQ,Insurance,55.0,200,B,Medium,220,B,Medium,221,BB,Medium,300,B,Medium,741,2022-04-16
+0001158114,AAOI,Applied Optoelectronics Inc,NASDAQ,Communications,50.0,750,BB,Medium,311,B,Medium,256,B,Medium,218,BB,Medium,785,2022-04-16
+0000824142,AAON,Aaon Inc,NASDAQ,Building,600.0,4200,A,High,500,BB,Medium,300,B,Medium,223,BBB,High,1023,2022-04-16
+0000320193,AAPL,Apple Inc,NASDAQ,Technology,365817.0,154000,BB,Medium,355,B,Medium,281,B,Medium,255,BB,Medium,891,2022-04-16
+0000943034,AATC,Autoscope Technologies Corp,NASDAQ,Electrical Equipment,120.0,1000,BBB,High,410,B,Medium,286,B,Medium,240,BBB,High,936,2022-06-11
+0001135185,AAWW,Atlas Air Worldwide Holdings Inc,NASDAQ,Logistics and Transportation,1946.0,1900,A,High,520,B,Medium,243,B,Medium,237,BBB,High,1000,2022-04-16
+0001844817,AACI,Armada Acquisition Corp I,NASDAQ,Financial Services,0.0,50,B,Medium,205,B,Medium,200,B,Medium,200,B,Medium,605,2022-06-20
+0001422142,AADI,Aadi Bioscience Inc,NASDAQ,Biotechnology,5.0,50,B,Medium,200,B,Medium,201,B,Medium,203,B,Medium,604,2022-06-11
+0000318306,ABEO,Abeona Therapeutics Inc,NASDAQ,Biotechnology,6.0,80,B,Medium,205,BB,Medium,306,BB,Medium,310,BB,Medium,821,2022-04-16
+0001559720,ABNB,Airbnb Inc,NASDAQ,Hotels Restaurants and Leisure,5992.0,6100,A,High,505,A,High,570,BBB,High,400,A,High,1475,2022-06-10
+0000907654,ABIO,ARCA Biopharma Inc,NASDAQ,Biotechnology,15.0,100,B,Medium,200,B,Medium,222,B,Medium,290,B,Medium,712,2022-04-16
+0000815094,ABMD,ABIOMED Inc,NASDAQ,Health Care,1053.0,1500,A,High,500,BB,Medium,324,BB,Medium,305,BBB,High,1129,2022-04-16
+0001576885,ABOS,Acumen Pharmaceuticals Inc,NASDAQ,Biotechnology,5.0,80,B,Medium,205,B,Medium,201,B,Medium,200,B,Medium,606,2022-06-11
+0001672688,ABSI,Absci Corp,NASDAQ,Life Sciences Tools and Services,50.0,400,B,Medium,205,B,Medium,224,B,Medium,230,B,Medium,659,2022-06-11
+0001642081,ABTX,Allegiance Bancshares Inc,NASDAQ,Banking,280.0,1000,B,Medium,298,BB,Medium,300,BB,Medium,300,BB,Medium,898,2022-04-16
+0001447028,ABUS,Arbutus Biopharma Corp,NASDAQ,Biotechnology,20.0,100,B,Medium,203,B,Medium,204,BB,Medium,338,B,Medium,745,2022-04-16
+0001173313,ABVC,ABVC Biopharma Inc,NASDAQ,Biotechnology,5.0,50,B,Medium,220,B,Medium,212,B,Medium,205,B,Medium,637,2022-06-11
+0001070494,ACAD,ACADIA Pharmaceuticals Inc,NASDAQ,Biotechnology,531.0,500,B,Medium,230,B,Medium,230,BB,Medium,305,BB,Medium,765,2022-04-16
+0001914023,ACAC,Acri Capital Acquisition Corp,NASDAQ,Financial Services,0.0,20,B,Medium,200,B,Medium,205,BB,Medium,300,B,Medium,705,2022-06-10
+0001481646,ACCD,Accolade Inc,NASDAQ,Health Care,130.0,1000,B,Medium,255,B,Medium,254,B,Medium,235,B,Medium,744,2022-06-10
+0001720580,ACET,Adicet Bio Inc,NASDAQ,Biotechnology,15.0,150,B,Medium,215,B,Medium,211,BB,Medium,305,B,Medium,731,2022-04-16
+0001703057,ABCL,Abcellera Biologics Inc,NASDAQ,Life Sciences Tools and Services,100.0,500,A,High,540,BB,Medium,354,BB,Medium,345,A,High,1239,2022-06-10
+0000351569,ABCB,Ameris Bancorp,NASDAQ,Banking,200.0,800,B,Medium,290,BB,Medium,300,B,Medium,250,BB,Medium,840,2022-04-16
+0001813658,ACEV,ACE Convergence Acquisition Corp,NASDAQ,Financial Services,0.0,20,B,Medium,225,B,Medium,211,B,Medium,215,B,Medium,651,2022-06-10
+0001830749,ACHL,Achilles Therapeutics PLC,NASDAQ,Biotechnology,300.0,1500,B,Medium,230,B,Medium,288,B,Medium,285,BB,Medium,803,2022-06-10
+0001520697,ACHC,Acadia Healthcare Company Inc,NASDAQ,Health Care,3885.0,40000,BB,Medium,330,B,Medium,231,B,Medium,220,BB,Medium,781,2022-04-16
+0000935036,ACIW,ACI Worldwide Inc,NASDAQ,Technology,1300.0,4500,A,High,500,BB,Medium,327,BB,Medium,300,BBB,High,1127,2022-04-16
+0001113232,ACLS,Axcelis Technologies Inc,NASDAQ,Semiconductors,700.0,2200,A,High,515,BB,Medium,306,B,Medium,260,BBB,High,1081,2022-04-16
+0001651625,ACIU,AC Immune SA,NASDAQ,Biotechnology,15.0,100,B,Medium,250,B,Medium,296,BB,Medium,305,BB,Medium,851,2022-04-16
+0000949858,ACHV,Achieve Life Sciences Inc,NASDAQ,Biotechnology,20.0,200,B,Medium,215,B,Medium,222,BB,Medium,305,B,Medium,742,2022-06-10
+0001680062,ACMR,ACM Research Inc,NASDAQ,Semiconductors,200.0,700,BBB,High,410,B,Medium,232,BB,Medium,325,BBB,High,967,2022-06-10
+0001008848,ACOR,Acorda Therapeutics Inc,NASDAQ,Biotechnology,500.0,700,B,Medium,230,BB,Medium,307,BB,Medium,310,BB,Medium,847,2022-04-16
+0000715579,ACNB,ACNB Corp,NASDAQ,Banking,140.0,500,B,Medium,220,B,Medium,219,B,Medium,215,B,Medium,654,2022-04-16
+0001557746,ACRS,Aclaris Therapeutics Inc,NASDAQ,Pharmaceuticals,20.0,200,B,Medium,230,B,Medium,207,B,Medium,220,B,Medium,657,2022-04-16
+0001427925,ACRX,AcelRx Pharmaceuticals Inc,NASDAQ,Pharmaceuticals,70.0,250,B,Medium,200,B,Medium,237,BB,Medium,300,B,Medium,737,2022-04-16
+0001823529,ACT,Enact Holdings Inc,NASDAQ,Financial Services,100.0,500,A,High,540,BB,Medium,328,BB,Medium,315,BBB,High,1183,2022-04-20
+0000934549,ACTG,Acacia Research Corp,NASDAQ,Financial Services,350.0,250,B,Medium,200,B,Medium,200,B,Medium,275,B,Medium,675,2022-04-16
+0001637873,ACVA,ACV Auctions Inc,NASDAQ,Commercial Services and Supplies,80.0,300,B,Medium,235,B,Medium,262,BB,Medium,315,BB,Medium,812,2022-06-10
+0001818838,ADAG,Adagene Inc,NASDAQ,Biotechnology,30.0,300,B,Medium,295,BB,Medium,301,BB,Medium,305,BBB,High,901,2022-06-10
+0001736243,ACXP,Acurx Pharmaceuticals Inc,NASDAQ,Biotechnology,10.0,150,B,Medium,235,BB,Medium,301,BB,Medium,305,BB,Medium,841,2022-06-11
+0000796343,ADBE,Adobe Inc,NASDAQ,Technology,15785.0,26000,B,Medium,200,B,Medium,221,B,Medium,200,B,Medium,621,2022-04-16
+0001621227,ADAP,Adaptimmune Therapeutics PLC,NASDAQ,Biotechnology,30.0,300,BB,Medium,365,B,Medium,283,BB,Medium,305,BBB,High,953,2022-04-16
+0001368514,ADMA,ADMA Biologics Inc,NASDAQ,Biotechnology,100.0,500,B,Medium,240,B,Medium,264,BB,Medium,320,BB,Medium,824,2022-04-16
+0001515156,ADES,Advanced Emissions Solutions Inc,NASDAQ,Chemicals,180.0,450,B,Medium,205,B,Medium,201,BB,Medium,300,B,Medium,706,2022-04-16
+0000006281,ADI,Analog Devices Inc,NASDAQ,Semiconductors,7318.0,16000,BB,Medium,350,BB,Medium,318,BB,Medium,300,BBB,High,968,2022-04-16
+0001513525,ADIL,Adial Pharmaceuticals Inc,NASDAQ,Pharmaceuticals,10.0,80,B,Medium,200,B,Medium,203,BB,Medium,300,B,Medium,703,2022-06-10
+0000887247,ADMP,Adamis Pharmaceuticals Corp,NASDAQ,Pharmaceuticals,20.0,150,B,Medium,285,B,Medium,204,B,Medium,215,B,Medium,704,2022-04-16
+0001069308,ACER,Acer Therapeutics Inc,NASDAQ,Pharmaceuticals,15.0,100,B,Medium,223,B,Medium,291,BB,Medium,310,BB,Medium,824,2022-06-10
+0001824884,ADOC,Edoc Acquisition Corp,NASDAQ,Financial Services,0.0,20,B,Medium,215,BB,Medium,301,BB,Medium,300,BB,Medium,816,2022-04-16
+0001468328,ADUS,Addus Homecare Corp,NASDAQ,Health Care,400.0,6000,B,Medium,210,B,Medium,215,B,Medium,218,B,Medium,643,2022-04-16
+0000947484,ACGL,Arch Capital Group Ltd,NASDAQ,Insurance,3244.0,14000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
+0001478320,ADPT,Adaptive Biotechnologies Corp,NASDAQ,Life Sciences Tools and Services,200.0,600,B,Medium,260,BB,Medium,348,B,Medium,260,BB,Medium,868,2022-04-16
+0000769397,ADSK,Autodesk Inc,NASDAQ,Technology,4390.0,13050,A,High,555,BB,Medium,304,BB,Medium,310,BBB,High,1169,2022-04-16
+0000008670,ADP,Automatic Data Processing Inc,NASDAQ,Technology,15882.0,58000,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-07-25
+0001726711,ADTX,Aditxt Inc,NASDAQ,Biotechnology,5.0,50,B,Medium,210,B,Medium,224,BB,Medium,305,B,Medium,739,2022-06-10
+0001776661,ADV,Advantage Solutions Inc,NASDAQ,Media,200.0,800,A,High,515,B,Medium,269,BB,Medium,328,BBB,High,1112,2022-04-20
+0001501756,ADVM,Adverum Biotechnologies Inc,NASDAQ,Biotechnology,20.0,150,B,Medium,262,BB,Medium,321,B,Medium,235,BB,Medium,818,2022-04-16
+0001040470,AEHR,Aehr Test Systems,NASDAQ,Semiconductors,50.0,200,B,Medium,290,B,Medium,262,BB,Medium,300,BB,Medium,852,2022-04-16
+0001470683,AEHL,Antelope Enterprise Holdings Ltd,NASDAQ,Building,100.0,400,B,Medium,238,B,Medium,237,BB,Medium,325,BB,Medium,800,2022-06-10
+0001750106,AEI,Alset Ehome International Inc,NASDAQ,Real Estate,100.0,300,A,High,520,B,Medium,207,B,Medium,210,BBB,High,937,2022-04-20
+0000927003,AEIS,Advanced Energy Industries Inc,NASDAQ,Electrical Equipment,800.0,3000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
+0000004904,AEP,American Electric Power Company Inc,NASDAQ,Utilities,16455.0,17000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-20
+0000882291,AEMD,Aethlon Medical Inc,NASDAQ,Health Care,5.0,80,B,Medium,200,B,Medium,262,BB,Medium,315,BB,Medium,777,2022-04-16
+0001708341,AESE,Allied Esports Entertainment Inc,NASDAQ,Hotels Restaurants and Leisure,30.0,200,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-06-10
+0001362190,AEYE,AudioEye Inc,NASDAQ,Technology,30.0,200,B,Medium,235,BB,Medium,301,BB,Medium,308,BB,Medium,844,2022-04-16
+0001337553,AERI,Aerie Pharmaceuticals Inc,NASDAQ,Pharmaceuticals,200.0,600,A,High,500,B,Medium,264,BB,Medium,310,BBB,High,1074,2022-04-16
+0000874292,AEY,ADDvantage Technologies Group Inc,NASDAQ,Electrical Equipment,300.0,1000,B,Medium,235,B,Medium,234,BB,Medium,300,BB,Medium,769,2022-04-16
+0001841661,AFAQ,AF Acquisition Corp,NASDAQ,Financial Services,0.0,20,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-06-21
+0001608390,AFMD,Affimed NV,NASDAQ,Biotechnology,30.0,200,BB,Medium,368,BB,Medium,304,BB,Medium,310,BBB,High,982,2022-04-16
+0001822523,AFCG,AFC Gamma Inc,NASDAQ,Real Estate,100.0,100,B,Medium,255,B,Medium,204,B,Medium,226,B,Medium,685,2022-06-10
+0001823406,AFBI,Affinity Bancshares Inc,NASDAQ,Banking,100.0,400,B,Medium,200,B,Medium,207,B,Medium,200,B,Medium,607,2022-06-10
+0001820953,AFRM,Affirm Holdings Inc,NASDAQ,Technology,765.0,1600,B,Medium,225,BB,Medium,335,BB,Medium,335,BB,Medium,895,2022-06-10
+0001522860,AFIB,Acutus Medical Inc,NASDAQ,Health Care,20.0,200,B,Medium,205,B,Medium,211,B,Medium,235,B,Medium,651,2022-06-10
+0001098972,AGEN,Agenus Inc,NASDAQ,Biotechnology,100.0,600,B,Medium,290,B,Medium,245,BB,Medium,300,BB,Medium,835,2022-04-16
+0001771007,AFYA,Afya Ltd,NASDAQ,Diversified Consumer Services,370.0,4500,B,Medium,290,B,Medium,203,B,Medium,205,B,Medium,698,2022-06-10
+0001592016,AGFS,AgroFresh Solutions Inc,NASDAQ,Chemicals,100.0,500,A,High,500,BB,Medium,301,B,Medium,275,BBB,High,1076,2022-04-16
+0001800637,AGFY,Agrify Corp,NASDAQ,Machinery,50.0,300,A,High,540,BB,Medium,361,BB,Medium,305,A,High,1206,2022-06-10
+0001790625,AGIL,AgileThought Inc,NASDAQ,Technology,50.0,300,BB,Medium,340,B,Medium,299,BB,Medium,305,BBB,High,944,2022-06-11
+0001705402,AGMH,AGM Group Holdings Inc,NASDAQ,Financial Services,30.0,150,B,Medium,205,B,Medium,204,B,Medium,210,B,Medium,619,2022-06-10
+0001439222,AGIO,Agios Pharmaceuticals Inc,NASDAQ,Biotechnology,230.0,800,A,High,520,BB,Medium,303,BB,Medium,325,BBB,High,1148,2022-04-16
+0001636282,AGLE,Aeglea Bio Therapeutics Inc,NASDAQ,Biotechnology,20.0,150,B,Medium,205,B,Medium,223,B,Medium,200,B,Medium,628,2022-09-16
+0001423689,AGNC,AGNC Investment Corp,NASDAQ,Real Estate,2100.0,80,BB,Medium,382,B,Medium,242,BB,Medium,305,BBB,High,929,2022-04-16
+0001826397,AGRI,AgriFORCE Growing Systems Ltd,NASDAQ,Food Products,100.0,500,A,High,510,B,Medium,248,BB,Medium,305,BBB,High,1063,2022-06-11
+0001261249,AGRX,Agile Therapeutics Inc,NASDAQ,Pharmaceuticals,5.0,80,B,Medium,240,B,Medium,203,B,Medium,260,B,Medium,703,2022-04-16
+0000078749,AGYS,Agilysys Inc,NASDAQ,Technology,200.0,1500,A,High,500,BB,Medium,303,BB,Medium,300,BBB,High,1103,2022-04-16
+0001273636,AGTC,Applied Genetic Technologies Corp,NASDAQ,Biotechnology,10.0,150,B,Medium,235,BB,Medium,323,BB,Medium,305,BB,Medium,863,2022-04-16
+0001725255,AHCO,Adapthealth Corp,NASDAQ,Health Care,800.0,6500,B,Medium,210,B,Medium,211,B,Medium,235,B,Medium,656,2022-06-10
+0000874710,AHPI,Allied Healthcare Products Inc,NASDAQ,Health Care,30.0,200,B,Medium,210,B,Medium,228,BB,Medium,325,BB,Medium,763,2022-04-16
+0001882963,AIB,AIB Acquisition Corp,NASDAQ,Technology,50.0,200,B,Medium,215,B,Medium,227,BB,Medium,300,B,Medium,742,2022-05-24
+0000926282,ADTN,ADTRAN Inc,NASDAQ,Communications,600.0,2100,A,High,510,BB,Medium,308,BB,Medium,300,BBB,High,1118,2022-04-16
+0001744494,ADN,Advent Technologies Holdings Inc,NASDAQ,Electrical Equipment,30.0,200,B,Medium,250,B,Medium,203,B,Medium,220,B,Medium,673,2022-04-20
+0000012239,AIKI,Aikido Pharma Inc,NASDAQ,Biotechnology,10.0,80,B,Medium,200,B,Medium,235,B,Medium,205,B,Medium,640,2022-06-10
+0001826574,AKIC,Sports Ventures Acquisition Corp,NASDAQ,Financial Services,0.0,20,B,Medium,200,B,Medium,205,B,Medium,230,B,Medium,635,2022-06-11
+0001667011,AIP,Arteris Inc,NASDAQ,Technology,0.0,20,A,High,500,B,Medium,286,BB,Medium,300,BBB,High,1086,2022-06-07
+0001744659,AKRO,Akero Therapeutics Inc,NASDAQ,Biotechnology,20.0,200,B,Medium,250,B,Medium,246,BB,Medium,305,BB,Medium,801,2022-06-10
+0000353184,AIRT,Air T Inc,NASDAQ,Logistics and Transportation,200.0,900,B,Medium,234,B,Medium,210,BB,Medium,325,BB,Medium,769,2022-04-16
+0001374535,AIMC,Altra Industrial Motion Corp,NASDAQ,Machinery,200.0,1200,A,High,525,BB,Medium,315,BB,Medium,305,BBB,High,1145,2022-04-16
+0001517022,AKBA,Akebia Therapeutics Inc,NASDAQ,Biotechnology,30.0,300,B,Medium,200,B,Medium,218,B,Medium,215,B,Medium,633,2022-04-16
+0001272842,AIRG,Airgain Inc,NASDAQ,Electrical Equipment,90.0,700,A,High,500,BB,Medium,300,BB,Medium,330,BBB,High,1130,2022-04-16
+0001870940,AIRS,Airsculpt Technologies Inc,NASDAQ,Health Care,10.0,100,B,Medium,210,B,Medium,201,B,Medium,205,B,Medium,616,2022-06-11
+0001086222,AKAM,Akamai Technologies Inc,NASDAQ,Technology,3461.0,10200,A,High,515,BB,Medium,341,BB,Medium,305,BBB,High,1161,2022-04-16
+0001776197,AKU,Akumin Inc,NASDAQ,Health Care,400.0,2000,BBB,High,455,BB,Medium,347,BB,Medium,300,BBB,High,1102,2022-04-21
+0001722271,AKUS,Akouos Inc,NASDAQ,Biotechnology,20.0,150,B,Medium,205,B,Medium,221,B,Medium,295,B,Medium,721,2022-06-10
+0001584754,AKTS,Akoustis Technologies Inc,NASDAQ,Electrical Equipment,50.0,300,B,Medium,222,BB,Medium,302,BBB,High,428,BBB,High,952,2022-04-16
+0001541157,AKTX,Akari Therapeutics PLC,NASDAQ,Pharmaceuticals,5.0,80,B,Medium,225,B,Medium,216,BB,Medium,305,B,Medium,746,2022-04-16
+0001322505,ALBO,Albireo Pharma Inc,NASDAQ,Biotechnology,15.0,80,A,High,500,BB,Medium,300,BB,Medium,310,BBB,High,1110,2022-06-10
+0001711933,AKYA,Akoya Biosciences Inc,NASDAQ,Life Sciences Tools and Services,50.0,300,A,High,512,BB,Medium,303,B,Medium,215,BBB,High,1030,2022-06-10
+0000003545,ALCO,Alico Inc,NASDAQ,Food Products,200.0,900,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
+0001341235,ALDX,Aldeyra Therapeutics Inc,NASDAQ,Biotechnology,10.0,100,B,Medium,231,B,Medium,261,B,Medium,235,B,Medium,727,2022-04-16
+0001653087,ALEC,Alector Inc,NASDAQ,Biotechnology,10.0,100,B,Medium,240,B,Medium,277,BB,Medium,300,BB,Medium,817,2022-06-10
+0000866291,ALGM,Allegro Microsystems Inc,NASDAQ,Semiconductors,600.0,2400,A,High,542,BB,Medium,314,B,Medium,250,BBB,High,1106,2022-06-10
+0001833908,ALF,Alfi Inc,NASDAQ,Technology,100.0,400,B,Medium,225,B,Medium,260,BB,Medium,315,BB,Medium,800,2022-06-11
+0001097149,ALGN,Align Technology Inc,NASDAQ,Health Care,3950.0,12000,B,Medium,235,B,Medium,285,B,Medium,255,BB,Medium,775,2022-04-16
+0001799448,ALGS,Aligos Therapeutics Inc,NASDAQ,Biotechnology,50.0,300,B,Medium,210,B,Medium,222,B,Medium,235,B,Medium,667,2022-06-10
+0001832466,ALHC,Alignment Healthcare LLC,NASDAQ,Healthcare,200.0,1800,B,Medium,210,BB,Medium,302,B,Medium,256,BB,Medium,768,2022-06-10
+0001520262,ALKS,Alkermes Plc,NASDAQ,Biotechnology,970.0,1700,BBB,High,415,BB,Medium,302,BB,Medium,333,BBB,High,1050,2022-04-16
+0001267602,ALIM,Alimera Sciences Inc,NASDAQ,Pharmaceuticals,20.0,150,B,Medium,220,B,Medium,228,B,Medium,243,B,Medium,691,2022-04-16
+0001362468,ALGT,Allegiant Travel Co,NASDAQ,Airlines,540.0,3500,B,Medium,287,B,Medium,208,B,Medium,248,B,Medium,743,2022-04-16
+0001757143,AIH,Aesthetic Medical International Holdings Group Ltd,NASDAQ,Health Care,100.0,500,B,Medium,220,B,Medium,250,BB,Medium,300,BB,Medium,770,2022-06-10
+0001529274,ALKT,Alkami Technology Inc,NASDAQ,Technology,30.0,200,B,Medium,280,BB,Medium,305,B,Medium,260,BB,Medium,845,2022-06-10
+0001178670,ALNY,Alnylam Pharmaceuticals Inc,NASDAQ,Biotechnology,980.0,1200,BB,Medium,331,BB,Medium,346,BB,Medium,325,BBB,High,1002,2022-04-16
+0001365767,ALLT,Allot Ltd,NASDAQ,Technology,150.0,800,A,High,508,BB,Medium,324,BB,Medium,310,BBB,High,1142,2022-04-16
+0001737287,ALLO,Allogene Therapeutics Inc,NASDAQ,Biotechnology,30.0,300,A,High,535,BB,Medium,324,BB,Medium,305,BBB,High,1164,2022-06-10
+0000006951,AMAT,Applied Materials Inc,NASDAQ,Semiconductors,23063.0,29000,A,High,525,BB,Medium,317,BB,Medium,300,BBB,High,1142,2022-04-16
+0000002488,AMD,Advanced Micro Devices Inc,NASDAQ,Semiconductors,16434.0,15500,B,Medium,200,B,Medium,208,B,Medium,200,B,Medium,608,2022-04-16
+0000718877,ATVI,Activision Blizzard Inc,NASDAQ,Media,8803.0,9800,B,Medium,280,BB,Medium,347,BB,Medium,330,BBB,High,957,2022-04-16
+0001730168,AVGO,Broadcom Inc,NASDAQ,Semiconductors,27450.0,20000,B,Medium,210,B,Medium,212,B,Medium,200,B,Medium,622,2022-04-16
+0001013462,ANSS,ANSYS Inc,NASDAQ,Technology,1908.0,5500,A,High,580,BB,Medium,337,B,Medium,285,A,High,1202,2022-04-16
+0001018724,AMZN,Amazon.com Inc,NASDAQ,Retail,469822.0,1608000,AA,Excellent,668,BB,Medium,305,BBB,High,460,A,High,1433,2022-04-16
+0001711012,AIHS,Senmiao Technology Ltd,NASDAQ,Financial Services,100.0,500,B,Medium,220,B,Medium,203,B,Medium,200,B,Medium,623,2022-06-10
+0001841666,APA,APA Corp (US),NASDAQ,Energy,6261.0,2400,A,High,510,BB,Medium,316,BB,Medium,325,BBB,High,1151,2022-04-16
+0000875045,BIIB,Biogen Inc,NASDAQ,Biotechnology,10982.0,9000,BB,Medium,380,BB,Medium,303,BB,Medium,364,BBB,High,1047,2022-04-16
+0001075531,BKNG,Booking Holdings Inc,NASDAQ,Hotels Restaurants and Leisure,10958.0,17000,A,High,558,BB,Medium,306,BB,Medium,310,BBB,High,1174,2022-06-10
+0000813672,CDNS,Cadence Design Systems Inc,NASDAQ,Technology,2988.0,8800,A,High,500,BB,Medium,308,B,Medium,295,BBB,High,1103,2022-04-16
+0001402057,CDW,CDW Corp,NASDAQ,Electrical Equipment,20829.0,14800,B,Medium,225,B,Medium,209,B,Medium,200,B,Medium,634,2022-04-16
+0001043277,CHRW,CH Robinson Worldwide Inc,NASDAQ,Logistics and Transportation,23102.0,19000,A,High,575,BB,Medium,330,BB,Medium,338,A,High,1243,2022-04-16
+0000020286,CINF,Cincinnati Financial Corp,NASDAQ,Insurance,7189.0,5800,B,Medium,235,B,Medium,275,B,Medium,250,BB,Medium,760,2022-04-16
+0001091667,CHTR,Charter Communications Inc,NASDAQ,Media,51682.0,101000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
+0001166691,CMCSA,Comcast Corp,NASDAQ,Media,116385.0,189000,A,High,507,BB,Medium,343,BB,Medium,315,BBB,High,1165,2022-04-16
+0000900075,CPRT,Copart Inc,NASDAQ,Commercial Services and Supplies,2688.0,23000,B,Medium,270,B,Medium,204,B,Medium,205,B,Medium,679,2022-04-16
+0000909832,COST,Costco Wholesale Corp,NASDAQ,Retail,192052.0,288000,A,High,537,BB,Medium,306,B,Medium,225,BBB,High,1068,2022-04-16
+0000277948,CSX,CSX Corp,NASDAQ,Road and Rail,12522.0,22742,A,High,510,BB,Medium,310,BB,Medium,325,BBB,High,1145,2022-04-17
+0001058290,CTSH,Cognizant Technology Solutions Corp,NASDAQ,Technology,18521.0,300600,AA,Excellent,605,BB,Medium,365,BB,Medium,300,A,High,1270,2022-04-16
+0001156375,CME,CME Group Inc,NASDAQ,Financial Services,4688.0,3000,BB,Medium,375,B,Medium,237,B,Medium,200,BB,Medium,812,2022-07-26
+0000858877,CSCO,Cisco Systems Inc,NASDAQ,Communications,49818.0,79500,B,Medium,280,B,Medium,234,B,Medium,220,B,Medium,734,2022-06-11
+0000723254,CTAS,Cintas Corp,NASDAQ,Commercial Services and Supplies,7058.0,45000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
+0000877890,CTXS,Citrix Systems Inc,NASDAQ,Technology,3278.0,9700,A,High,530,BB,Medium,305,BB,Medium,305,BBB,High,1140,2022-04-16
+0001590895,CZR,Caesars Entertainment Inc,NASDAQ,Hotels Restaurants and Leisure,9567.0,65000,B,Medium,265,B,Medium,228,B,Medium,200,B,Medium,693,2022-04-16
+0001001082,DISH,DISH Network Corp,NASDAQ,Media,17186.0,16500,B,Medium,210,B,Medium,263,B,Medium,205,B,Medium,678,2022-04-17
+0000935703,DLTR,Dollar Tree Inc,NASDAQ,Retail,27209.0,193000,B,Medium,235,B,Medium,208,B,Medium,215,B,Medium,658,2022-04-17
+0001093557,DXCM,Dexcom Inc,NASDAQ,Health Care,2389.0,6000,B,Medium,215,B,Medium,236,B,Medium,215,B,Medium,666,2022-04-17
+0000712515,EA,Electronic Arts Inc,NASDAQ,Media,5629.0,9900,BB,Medium,360,BB,Medium,300,B,Medium,225,BB,Medium,885,2022-04-17
+0000352541,LNT,Alliant Energy Corp,NASDAQ,Utilities,1655.0,4400,A,High,519,BB,Medium,307,BB,Medium,300,BBB,High,1126,2022-04-16
+0001539838,FANG,Diamondback Energy Inc,NASDAQ,Energy,5720.0,1100,A,High,513,B,Medium,271,BB,Medium,300,BBB,High,1084,2022-04-17
+0001065088,EBAY,eBay Inc,NASDAQ,Retail,10420.0,11600,A,High,500,BB,Medium,302,BB,Medium,305,BBB,High,1107,2022-04-17
+0001065696,LKQ,LKQ Corp,NASDAQ,Distributors,12549.0,46000,A,High,515,BB,Medium,300,BB,Medium,305,BBB,High,1120,2022-04-18
+0001652044,GOOGL,Alphabet Inc,NASDAQ,Media,257637.0,156500,B,Medium,295,BB,Medium,362,BB,Medium,355,BBB,High,1012,2022-04-30
+0001048286,MAR,Marriott International Inc,NASDAQ,Hotels Restaurants and Leisure,13857.0,120000,B,Medium,215,B,Medium,200,B,Medium,215,B,Medium,630,2022-04-18
+0000827054,MCHP,Microchip Technology Inc,NASDAQ,Semiconductors,5383.0,20000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
+0000707549,LRCX,Lam Research Corp,NASDAQ,Semiconductors,14629.0,15000,A,High,510,BB,Medium,325,BB,Medium,315,BBB,High,1150,2022-04-18
+0001103982,MDLZ,Mondelez International Inc,NASDAQ,Food Products,28720.0,79000,A,High,520,BB,Medium,307,BB,Medium,300,BBB,High,1127,2022-04-18
+0001326801,META,Meta Platforms Inc,NASDAQ,Media,117929.0,71970,B,Medium,205,B,Medium,232,B,Medium,215,B,Medium,652,2022-04-22
+0001278021,MKTX,Marketaxess Holdings Inc,NASDAQ,Financial Services,855.0,700,B,Medium,230,B,Medium,213,B,Medium,210,B,Medium,653,2022-04-18
+0000865752,MNST,Monster Beverage Corp,NASDAQ,Beverages,5541.0,3500,A,High,515,BB,Medium,344,BB,Medium,300,BBB,High,1159,2022-04-18
+0001682852,MRNA,Moderna Inc,NASDAQ,Biotechnology,18471.0,3900,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
+0000891103,MTCH,Match Group Inc,NASDAQ,Media,2983.0,2800,B,Medium,245,BB,Medium,389,BB,Medium,311,BBB,High,945,2022-04-18
+0001280452,MPWR,Monolithic Power Systems Inc,NASDAQ,Semiconductors,1207.0,2600,BB,Medium,330,B,Medium,287,B,Medium,235,BB,Medium,852,2022-04-18
+0000789019,MSFT,Microsoft Corp,NASDAQ,Technology,168088.0,181000,AA,Excellent,715,BBB,High,443,BB,Medium,375,A,High,1533,2022-04-27
+0000723125,MU,Micron Technology Inc,NASDAQ,Semiconductors,27705.0,45000,A,High,530,BB,Medium,330,BB,Medium,300,BBB,High,1160,2022-04-18
+0001120193,NDAQ,Nasdaq Inc,NASDAQ,Financial Services,3587.0,6600,A,High,505,BB,Medium,310,BB,Medium,300,BBB,High,1115,2022-04-18
+0000849399,NLOK,NortonLifeLock Inc,NASDAQ,Technology,2793.0,4000,A,High,505,BB,Medium,315,BB,Medium,305,BBB,High,1125,2022-06-10
+0000073124,NTRS,Northern Trust Corp,NASDAQ,Financial Services,6056.0,20000,B,Medium,250,B,Medium,226,B,Medium,225,B,Medium,701,2022-04-18
+0000814453,NWL,Newell Brands Inc,NASDAQ,Consumer products,9464.0,32000,A,High,525,BB,Medium,303,BB,Medium,315,BBB,High,1143,2022-04-18
+0001045810,NVDA,NVIDIA Corp,NASDAQ,Semiconductors,16675.0,22473,BB,Medium,323,BB,Medium,301,B,Medium,275,BB,Medium,899,2022-04-18
+0001564824,ALLK,Allakos Inc,NASDAQ,Biotechnology,20.0,200,B,Medium,200,B,Medium,273,BB,Medium,300,BB,Medium,773,2022-06-10
+0001564708,NWSA,News Corp,NASDAQ,Media,10051.0,22000,A,High,509,BB,Medium,300,BB,Medium,300,BBB,High,1109,2022-04-18
+0000878927,ODFL,Old Dominion Freight Line Inc,NASDAQ,Road and Rail,5213.0,23000,BBB,High,467,BBB,High,423,B,Medium,280,BBB,High,1170,2022-04-18
+0000075362,PCAR,Paccar Inc,NASDAQ,Machinery,23522.0,27000,A,High,568,BB,Medium,343,BB,Medium,305,A,High,1216,2022-04-18
+0001413447,NXPI,NXP Semiconductors NV,NASDAQ,Semiconductors,11063.0,34500,A,High,505,BB,Medium,329,BB,Medium,305,BBB,High,1139,2022-04-18
+0000898173,ORLY,O'Reilly Automotive Inc,NASDAQ,Retail,13328.0,88000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
+0000723531,PAYX,Paychex Inc,NASDAQ,Technology,4055.0,16000,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-07-26
+0001126328,PFG,Principal Financial Group Inc,NASDAQ,Insurance,15000.0,21000,A,High,555,BB,Medium,320,BB,Medium,300,BBB,High,1175,2022-04-18
+0000745732,ROST,Ross Stores Inc,NASDAQ,Retail,18916.0,100000,BB,Medium,375,BB,Medium,325,BB,Medium,300,BBB,High,1000,2022-04-19
+0001034054,SBAC,SBA Communications Corp,NASDAQ,Real Estate,2287.0,2000,B,Medium,250,B,Medium,251,B,Medium,215,B,Medium,716,2022-04-19
+0000804328,QCOM,Qualcomm Inc,NASDAQ,Semiconductors,33566.0,45000,BBB,High,409,BB,Medium,300,BB,Medium,300,BBB,High,1009,2022-04-19
+0000945841,POOL,Pool Corp,NASDAQ,Distributors,4693.0,5600,A,High,525,BB,Medium,306,BB,Medium,313,BBB,High,1144,2022-04-18
+0000077476,PEP,PepsiCo Inc,NASDAQ,Beverages,79474.0,309000,AA,Excellent,719,BB,Medium,340,BB,Medium,358,A,High,1417,2022-04-18
+0000829224,SBUX,Starbucks Corp,NASDAQ,Hotels Restaurants and Leisure,29061.0,383000,BBB,High,475,BB,Medium,385,B,Medium,295,BBB,High,1155,2022-04-19
+0000910606,REG,Regency Centers Corp,NASDAQ,Real Estate,1034.0,400,A,High,575,BB,Medium,372,BB,Medium,365,A,High,1312,2022-04-19
+0001604778,QRVO,Qorvo Inc,NASDAQ,Semiconductors,3243.0,8000,A,High,535,BB,Medium,310,BB,Medium,305,BBB,High,1150,2022-04-19
+0000857005,PTC,PTC Inc,NASDAQ,Technology,1806.0,7000,A,High,550,BB,Medium,302,BB,Medium,308,BBB,High,1160,2022-04-19
+0000921738,PENN,PENN Entertainment Inc,NASDAQ,Hotels Restaurants and Leisure,5897.0,24500,BB,Medium,371,BB,Medium,300,B,Medium,220,BB,Medium,891,2022-04-18
+0001633917,PYPL,PayPal Holdings Inc,NASDAQ,Technology,25371.0,30900,BB,Medium,370,B,Medium,244,B,Medium,285,BB,Medium,899,2022-04-18
+0000872589,REGN,Regeneron Pharmaceuticals Inc,NASDAQ,Biotechnology,16072.0,11300,A,High,505,BB,Medium,327,BB,Medium,305,BBB,High,1137,2022-04-19
+0000318154,AMGN,Amgen Inc,NASDAQ,Biotechnology,25979.0,24000,A,High,575,BB,Medium,312,BB,Medium,328,A,High,1215,2022-04-16
+0000883241,SNPS,Synopsys Inc,NASDAQ,Technology,4204.0,16000,A,High,525,BB,Medium,316,BB,Medium,315,BBB,High,1156,2022-04-19
+0001137789,STX,Seagate Technology Holdings PLC,NASDAQ,Technology,10706.0,40000,A,High,540,BB,Medium,355,BB,Medium,300,BBB,High,1195,2022-04-19
+0000842023,TECH,Bio-Techne Corp,NASDAQ,Life Sciences Tools and Services,892.0,5000,A,High,510,B,Medium,268,BB,Medium,300,BBB,High,1078,2022-04-16
+0000097210,TER,Teradyne Inc,NASDAQ,Semiconductors,3703.0,5300,A,High,507,BB,Medium,328,BB,Medium,315,BBB,High,1150,2022-04-19
+0000004127,SWKS,Skyworks Solutions Inc,NASDAQ,Semiconductors,5202.0,9000,A,High,515,BB,Medium,303,B,Medium,270,BBB,High,1088,2022-04-19
+0000864749,TRMB,Trimble Inc,NASDAQ,Electrical Equipment,3659.0,12600,A,High,550,BBB,High,415,BB,Medium,315,A,High,1280,2022-04-19
+0001113169,TROW,T Rowe Price Group Inc,NASDAQ,Financial Services,8020.0,8000,A,High,510,BB,Medium,325,BB,Medium,310,BBB,High,1145,2022-04-19
+0000946581,TTWO,Take-Two Interactive Software Inc,NASDAQ,Media,3373.0,5800,B,Medium,225,BB,Medium,307,BB,Medium,310,BB,Medium,842,2022-04-19
+0001318605,TSLA,Tesla Inc,NASDAQ,Automobiles,53823.0,99290,A,High,555,CCC,Low,160,B,Medium,278,BBB,High,993,2022-04-19
+0000916365,TSCO,Tractor Supply Co,NASDAQ,Retail,12254.0,45000,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-09-17
+0000097476,TXN,Texas Instruments Inc,NASDAQ,Semiconductors,18344.0,31000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
+0001283699,TMUS,T-Mobile US Inc,NASDAQ,Telecommunication,79571.0,75000,BB,Medium,342,BB,Medium,331,B,Medium,230,BBB,High,903,2022-04-19
+0000100517,UAL,United Airlines Holdings Inc,NASDAQ,Airlines,24634.0,84100,B,Medium,205,B,Medium,203,B,Medium,221,B,Medium,629,2022-04-19
+0001442145,VRSK,Verisk Analytics Inc,NASDAQ,Professional Services,2773.0,10000,AA,Excellent,615,BB,Medium,366,BB,Medium,300,A,High,1281,2022-04-19
+0001403568,ULTA,Ulta Beauty Inc,NASDAQ,Retail,8629.0,47000,B,Medium,205,B,Medium,242,B,Medium,200,B,Medium,647,2022-04-19
+0000875320,VRTX,Vertex Pharmaceuticals Inc,NASDAQ,Biotechnology,7569.0,4000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
+0001792044,VTRS,Viatris Inc,NASDAQ,Pharmaceuticals,17824.0,38000,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-09-24
+0001014473,VRSN,Verisign Inc,NASDAQ,Technology,1328.0,1000,A,High,548,BB,Medium,354,BB,Medium,325,A,High,1227,2022-04-19
+0001618921,WBA,Walgreens Boots Alliance Inc,NASDAQ,Retail,132703.0,315000,A,High,515,BB,Medium,325,BB,Medium,300,BBB,High,1140,2022-04-19
+0001002047,NTAP,NetApp Inc,NASDAQ,Technology,5744.0,10700,A,High,545,BB,Medium,359,BB,Medium,325,A,High,1229,2022-04-18
+0000072903,XEL,Xcel Energy Inc,NASDAQ,Utilities,13423.0,12000,B,Medium,223,B,Medium,201,B,Medium,205,B,Medium,629,2022-04-20
+0000818479,XRAY,DENTSPLY SIRONA Inc,NASDAQ,Health Care,4001.0,16000,A,High,530,BB,Medium,318,BB,Medium,305,BBB,High,1153,2022-04-17
+0000877212,ZBRA,Zebra Technologies Corp,NASDAQ,Electrical Equipment,5627.0,9900,BB,Medium,320,BB,Medium,317,BB,Medium,300,BBB,High,937,2022-04-20
+0001158449,AAP,Advance Auto Parts Inc,NYSE,Retail,11270.0,68000,B,Medium,264,B,Medium,261,B,Medium,210,B,Medium,735,2022-04-16
+0000109380,ZION,Zions Bancorporation NA,NASDAQ,Banking,2832.0,10000,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-04-20
+0001174922,WYNN,Wynn Resorts Ltd,NASDAQ,Hotels Restaurants and Leisure,1327.0,24000,B,Medium,225,B,Medium,201,B,Medium,200,B,Medium,626,2022-04-20
+0001090872,A,Agilent Technologies Inc,NYSE,Life Sciences Tools and Services,6319.0,16000,A,High,573,B,Medium,231,B,Medium,233,BBB,High,1037,2022-04-16
+0001551152,ABBV,Abbvie Inc,NYSE,Biotechnology,56197.0,50000,A,High,505,BB,Medium,317,BB,Medium,300,BBB,High,1122,2022-04-16
+0001140859,ABC,Amerisourcebergen Corp,NYSE,Health Care,222903.0,44000,A,High,505,BB,Medium,300,BB,Medium,315,BBB,High,1120,2022-04-16
+0000007084,ADM,Archer-Daniels-Midland Co,NYSE,Food Products,85249.0,40000,A,High,587,BB,Medium,353,BB,Medium,305,A,High,1245,2022-04-16
+0000001800,ABT,Abbott Laboratories,NYSE,Health Care,20243.0,113000,A,High,515,BB,Medium,305,BB,Medium,305,BBB,High,1125,2022-04-16
+0001002910,AEE,Ameren Corp,NYSE,Utilities,2534.0,9000,A,High,562,BB,Medium,345,BB,Medium,300,A,High,1207,2022-04-16
+0000874761,AES,AES Corp,NYSE,Utilities,10511.0,8000,A,High,525,BB,Medium,326,BB,Medium,370,A,High,1221,2022-04-16
+0000004977,AFL,Aflac Inc,NYSE,Insurance,22124.0,12000,BBB,High,454,BB,Medium,300,B,Medium,235,BBB,High,989,2022-04-16
+0001467373,ACN,Accenture PLC,NYSE,Technology,50533.0,624000,A,High,515,BB,Medium,360,BB,Medium,305,BBB,High,1180,2022-04-16
+0000354190,AJG,Arthur J. Gallagher & Co.,NYSE,Insurance,7782.0,33000,A,High,530,BB,Medium,344,BB,Medium,310,BBB,High,1184,2022-04-16
+0001267238,AIZ,Assurant Inc,NYSE,Insurance,5116.0,18000,BBB,High,438,BB,Medium,316,BB,Medium,300,BBB,High,1054,2022-04-16
+0000766421,ALK,Alaska Air Group Inc,NYSE,Airlines,6175.0,22000,A,High,515,BB,Medium,303,B,Medium,259,BBB,High,1077,2022-04-16
+0000915913,ALB,Albemarle Corp,NYSE,Chemicals,3128.0,7200,A,High,545,BB,Medium,322,BB,Medium,315,BBB,High,1182,2022-04-16
+0000005272,AIG,American International Group Inc,NYSE,Insurance,52522.0,36200,A,High,518,BB,Medium,323,BB,Medium,310,BBB,High,1151,2022-04-16
+0000899051,ALL,Allstate Corp,NYSE,Insurance,44799.0,54000,A,High,530,BB,Medium,300,B,Medium,220,BBB,High,1050,2022-04-16
+0001579241,ALLE,Allegion PLC,NYSE,Building,2336.0,11000,A,High,542,BB,Medium,322,BB,Medium,315,BBB,High,1179,2022-04-16
+0000820027,AMP,Ameriprise Financial Inc,NYSE,Financial Services,13500.0,12000,BB,Medium,396,BB,Medium,308,B,Medium,267,BBB,High,971,2022-04-16
+0001037868,AME,AMETEK Inc,NYSE,Electrical Equipment,5540.0,18900,A,High,540,BB,Medium,329,B,Medium,270,BBB,High,1139,2022-04-16
+0001053507,AMT,American Tower Corp,NYSE,Real Estate,8042.0,5765,A,High,530,BB,Medium,333,BB,Medium,305,BBB,High,1168,2022-04-16
+0000091142,AOS,A O Smith Corp,NYSE,Building,3252.0,13600,A,High,510,BB,Medium,315,BB,Medium,310,BBB,High,1135,2022-04-16
+0000002969,APD,Air Products and Chemicals Inc,NYSE,Chemicals,10324.0,21900,AA,Excellent,700,BBB,High,442,BB,Medium,300,A,High,1442,2022-04-16
+0000315293,AON,Aon PLC,NYSE,Insurance,12193.0,50000,BBB,High,485,BB,Medium,304,B,Medium,288,BBB,High,1077,2022-04-16
+0001596532,ANET,Arista Networks Inc,NYSE,Communications,2585.0,6000,BBB,High,444,BB,Medium,310,B,Medium,295,BBB,High,1049,2022-04-16
+0000820313,APH,Amphenol Corp,NYSE,Electrical Equipment,10876.0,90000,A,High,512,BB,Medium,303,BBB,High,475,A,High,1290,2022-04-16
+0000731802,ATO,Atmos Energy Corp,NYSE,Utilities,3600.0,4500,A,High,572,BB,Medium,368,BB,Medium,315,A,High,1255,2022-04-16
+0001410636,AWK,American Water Works Company Inc,NYSE,Utilities,3930.0,7100,AA,Excellent,653,BB,Medium,395,BB,Medium,300,A,High,1348,2022-04-16
+0001035443,ARE,Alexandria Real Estate Equities Inc,NYSE,Real Estate,2108.0,1000,AA,Excellent,600,BB,Medium,337,BB,Medium,345,A,High,1282,2022-04-16
+0001521332,APTV,Aptiv PLC,NYSE,Auto Components,15590.0,168000,A,High,555,BB,Medium,339,BB,Medium,310,A,High,1204,2022-06-10
+0000915912,AVB,Avalonbay Communities Inc,NYSE,Real Estate,2253.0,3000,A,High,500,BB,Medium,300,B,Medium,298,BBB,High,1098,2022-04-16
+0000008818,AVY,Avery Dennison Corp,NYSE,Packaging,8026.0,35000,A,High,535,BB,Medium,347,BB,Medium,325,A,High,1207,2022-04-16
+0000012927,BA,Boeing Co,NYSE,Aerospace and Defense,62286.0,141000,B,Medium,220,B,Medium,224,B,Medium,235,B,Medium,679,2022-09-21
+0000070858,BAC,Bank of America Corp,NYSE,Banking,89113.0,208000,B,Medium,220,BB,Medium,394,B,Medium,265,BB,Medium,879,2022-04-16
+0000010456,BAX,Baxter International Inc,NYSE,Health Care,12823.0,60000,A,High,500,BB,Medium,316,BB,Medium,300,BBB,High,1116,2022-04-16
+0000701985,BBWI,Bath & Body Works Inc,NYSE,Retail,7388.0,31000,A,High,525,BB,Medium,303,BB,Medium,300,BBB,High,1128,2022-06-11
+0000010795,BDX,Becton Dickinson and Co,NYSE,Health Care,20248.0,75000,AA,Excellent,607,BB,Medium,384,BB,Medium,315,A,High,1306,2022-04-16
+0000012208,BIO,Bio Rad Laboratories Inc,NYSE,Life Sciences Tools and Services,2798.0,7600,B,Medium,275,B,Medium,227,BB,Medium,300,BB,Medium,802,2022-04-16
+0000764478,BBY,Best Buy Co Inc,NYSE,Retail,51760.0,102000,BBB,High,430,B,Medium,231,BB,Medium,300,BBB,High,961,2022-04-16
+0001390777,BK,Bank of New York Mellon Corp,NYSE,Financial Services,15895.0,50300,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
+0000004962,AXP,American Express Co,NYSE,Financial Services,41769.0,64000,B,Medium,230,B,Medium,226,B,Medium,208,B,Medium,664,2022-04-16
+0001383312,BR,Broadridge Financial Solutions Inc,NYSE,Technology,4700.0,13000,A,High,550,BB,Medium,313,BB,Medium,325,BBB,High,1188,2022-04-16
+0000014272,BMY,Bristol-Myers Squibb Co,NYSE,Pharmaceuticals,46385.0,32200,A,High,500,BB,Medium,321,BB,Medium,310,BBB,High,1131,2022-04-16
+0000079282,BRO,Brown & Brown Inc,NYSE,Insurance,3200.0,10000,BBB,High,405,BB,Medium,320,BB,Medium,300,BBB,High,1025,2022-04-16
+0000866787,AZO,Autozone Inc,NYSE,Retail,14629.0,103000,B,Medium,260,B,Medium,222,B,Medium,213,B,Medium,695,2022-04-16
+0000885725,BSX,Boston Scientific Corp,NYSE,Health Care,11888.0,40000,A,High,525,BB,Medium,399,BB,Medium,300,A,High,1224,2022-04-16
+0001393818,BX,Blackstone Inc,NYSE,Financial Services,13000.0,3600,A,High,534,BB,Medium,343,BB,Medium,320,BBB,High,1197,2022-04-16
+0001037540,BXP,Boston Properties Inc,NYSE,Real Estate,2775.0,2600,A,High,532,BB,Medium,339,BB,Medium,305,BBB,High,1176,2022-04-16
+0000719739,SIVB,SVB Financial Group,NASDAQ,Banking,3085.0,8500,A,High,510,BB,Medium,340,BB,Medium,300,BBB,High,1150,2022-04-19
+0000831001,C,Citigroup Inc,NYSE,Banking,71884.0,223400,A,High,515,BB,Medium,300,BB,Medium,303,BBB,High,1118,2022-04-16
+0000018230,CAT,Caterpillar Inc,NYSE,Machinery,51048.0,97300,B,Medium,235,B,Medium,239,B,Medium,235,B,Medium,709,2022-06-07
+0001783180,CARR,Carrier Global Corp,NYSE,Building,18606.0,55000,B,Medium,210,B,Medium,258,B,Medium,226,B,Medium,694,2022-04-21
+0001138118,CBRE,CBRE Group Inc,NYSE,Real Estate,27442.0,105000,B,Medium,200,B,Medium,209,B,Medium,200,B,Medium,609,2022-06-10
+0001051470,CCI,Crown Castle Inc,NYSE,Real Estate,5785.0,5000,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-09-16
+0001725057,CDAY,Ceridian HCM Holding Inc,NYSE,Technology,1006.0,6000,A,High,530,BB,Medium,379,BB,Medium,320,A,High,1229,2022-04-21
+0000028412,CMA,Comerica Inc,NYSE,Banking,2866.0,8800,B,Medium,280,BB,Medium,300,B,Medium,230,BB,Medium,810,2022-04-16
+0000882184,DHI,D R Horton Inc,NYSE,Consumer products,21977.0,12700,B,Medium,250,B,Medium,271,B,Medium,205,B,Medium,726,2022-04-17
+0000029905,DOV,Dover Corp,NYSE,Machinery,7913.0,24000,A,High,500,BB,Medium,320,BB,Medium,305,BBB,High,1125,2022-04-17
+0000940944,DRI,Darden Restaurants Inc,NYSE,Hotels Restaurants and Leisure,9595.0,177000,A,High,515,BB,Medium,309,BB,Medium,300,BBB,High,1124,2022-04-17
+0001306830,CE,Celanese Corp,NYSE,Chemicals,7250.0,9000,A,High,500,BB,Medium,319,BB,Medium,300,BBB,High,1119,2022-06-10
+0000029534,DG,Dollar General Corp,NYSE,Retail,34221.0,158000,B,Medium,247,B,Medium,222,B,Medium,200,B,Medium,669,2022-04-17
+0001058090,CMG,Chipotle Mexican Grill Inc,NYSE,Hotels Restaurants and Leisure,7547.0,97600,B,Medium,210,B,Medium,241,B,Medium,213,B,Medium,664,2022-04-16
+0001022079,DGX,Quest Diagnostics Inc,NYSE,Health Care,10790.0,47000,B,Medium,230,BB,Medium,300,B,Medium,205,B,Medium,735,2022-04-19
+0000815097,CCL,Carnival Corp,NYSE,Hotels Restaurants and Leisure,1909.0,88000,A,High,515,BB,Medium,326,BB,Medium,320,BBB,High,1161,2022-04-16
+0000313927,CHD,Church & Dwight Co Inc,NYSE,Consumer products,4996.0,5900,A,High,578,BB,Medium,341,BB,Medium,348,A,High,1267,2022-04-16
+0001751788,DOW,Dow Inc,NYSE,Chemicals,54968.0,35700,B,Medium,225,B,Medium,201,B,Medium,200,B,Medium,626,2022-04-17
+0001393612,DFS,Discover Financial Services,NYSE,Financial Services,11649.0,18000,BB,Medium,335,BB,Medium,321,BB,Medium,313,BBB,High,969,2022-04-17
+0001326160,DUK,Duke Energy Corp,NYSE,Utilities,25079.0,28000,AA,Excellent,604,BB,Medium,362,BB,Medium,328,A,High,1294,2022-04-17
+0000783280,DRE,Duke Realty Corp,NYSE,Real Estate,1021.0,600,A,High,540,BB,Medium,313,BB,Medium,300,BBB,High,1153,2022-04-17
+0001324404,CF,CF Industries Holdings Inc,NYSE,Chemicals,5310.0,3000,A,High,525,BB,Medium,307,BB,Medium,310,BBB,High,1142,2022-04-16
+0001090012,DVN,Devon Energy Corp,NYSE,Energy,11567.0,1600,A,High,570,BB,Medium,301,BB,Medium,300,BBB,High,1171,2022-04-17
+0000031462,ECL,Ecolab Inc,NYSE,Chemicals,12654.0,48000,A,High,547,BB,Medium,373,BB,Medium,325,A,High,1245,2022-04-17
+0000354950,HD,Home Depot Inc,NYSE,Retail,151157.0,490600,B,Medium,230,BB,Medium,317,B,Medium,205,BB,Medium,752,2022-04-17
+0000936340,DTE,DTE Energy Co,NYSE,Utilities,14054.0,10000,A,High,592,BB,Medium,313,B,Medium,210,BBB,High,1115,2022-04-17
+0000827052,EIX,Edison International,NYSE,Utilities,14208.0,14000,AA,Excellent,700,A,High,513,BB,Medium,315,A,High,1528,2022-04-17
+0000024741,GLW,Corning Inc,NYSE,Electrical Equipment,14082.0,50000,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-04-16
+0000927066,DVA,DaVita Inc,NYSE,Health Care,11638.0,67000,B,Medium,260,BB,Medium,332,BB,Medium,300,BB,Medium,892,2022-04-17
+0000106040,WDC,Western Digital Corp,NASDAQ,Technology,16922.0,67000,A,High,545,BB,Medium,339,B,Medium,260,BBB,High,1144,2022-04-20
+0000886982,GS,Goldman Sachs Group Inc,NYSE,Financial Services,59339.0,45100,A,High,525,BB,Medium,305,BB,Medium,305,BBB,High,1135,2022-04-17
+0001688568,DXC,DXC Technology Co,NYSE,Technology,16265.0,130000,A,High,505,BB,Medium,326,BB,Medium,305,BBB,High,1136,2022-06-10
+0001551182,ETN,Eaton Corporation PLC,NYSE,Electrical Equipment,19628.0,85000,A,High,520,BB,Medium,328,BB,Medium,320,BBB,High,1168,2022-04-17
+0001047862,ED,Consolidated Edison Inc,NYSE,Utilities,12947.0,14000,AA,Excellent,700,BB,Medium,358,BB,Medium,300,A,High,1358,2022-04-16
+0000047111,HSY,Hershey Co,NYSE,Food Products,8971.0,16000,A,High,525,BB,Medium,361,BB,Medium,300,BBB,High,1186,2022-04-17
+0000200406,JNJ,Johnson & Johnson,NYSE,Pharmaceuticals,93775.0,136400,A,High,565,BB,Medium,308,BB,Medium,300,BBB,High,1173,2022-04-18
+0000019617,JPM,JPMorgan Chase & Co,NYSE,Banking,121649.0,271025,A,High,505,BB,Medium,319,BB,Medium,338,BBB,High,1162,2022-04-18
+0000021344,KO,Coca-Cola Co,NYSE,Beverages,38655.0,79000,B,Medium,200,B,Medium,201,B,Medium,200,B,Medium,601,2022-04-16
+0001170010,KMX,Carmax Inc,NYSE,Retail,28184.0,29500,B,Medium,251,B,Medium,237,BB,Medium,300,BB,Medium,788,2022-04-16
+0001336920,LDOS,Leidos Holdings Inc,NYSE,Professional Services,13746.0,45000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
+0000058492,LEG,Leggett & Platt Inc,NYSE,Consumer products,4283.0,21000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
+0000063908,MCD,McDonald's Corp,NYSE,Hotels Restaurants and Leisure,23223.0,200000,A,High,505,BB,Medium,326,BB,Medium,305,BBB,High,1136,2022-04-18
+0001707925,LIN,Linde PLC,NYSE,Chemicals,30793.0,82000,B,Medium,210,B,Medium,240,B,Medium,275,B,Medium,725,2022-04-20
+0000018926,LUMN,Lumen Technologies Inc,NYSE,Telecommunication,19688.0,22000,A,High,535,BB,Medium,327,BB,Medium,305,BBB,High,1167,2022-06-10
+0001489393,LYB,LyondellBasell Industries NV,NYSE,Chemicals,46768.0,19200,A,High,587,BB,Medium,352,BB,Medium,330,A,High,1269,2022-04-18
+0001059556,MCO,Moody's Corp,NYSE,Financial Services,6037.0,14000,A,High,515,BB,Medium,308,B,Medium,235,BBB,High,1058,2022-04-18
+0000927653,MCK,Mckesson Corp,NYSE,Health Care,238228.0,67000,A,High,500,BB,Medium,303,BB,Medium,310,BBB,High,1113,2022-04-18
+0000062996,MAS,Masco Corp,NYSE,Building,7974.0,20000,A,High,522,BB,Medium,323,BB,Medium,305,BBB,High,1150,2022-04-18
+0000060667,LOW,Lowe's Companies Inc,NYSE,Retail,96250.0,300000,B,Medium,218,B,Medium,200,B,Medium,200,B,Medium,618,2022-04-18
+0001613103,MDT,Medtronic PLC,NYSE,Health Care,30117.0,95000,A,High,515,BB,Medium,308,BB,Medium,315,BBB,High,1138,2022-04-18
+0000063754,MKC,McCormick & Company Inc,NYSE,Food Products,6317.0,13000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
+0001099219,MET,MetLife Inc,NYSE,Insurance,69878.0,43000,A,High,517,BB,Medium,305,BB,Medium,305,BBB,High,1127,2022-04-18
+0000789570,MGM,MGM Resorts International,NYSE,Hotels Restaurants and Leisure,9682.0,44000,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-09-17
+0000062709,MMC,Marsh & McLennan Companies Inc,NYSE,Insurance,17012.0,78000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
+0000764180,MO,Altria Group Inc,NYSE,Tobacco,21119.0,7000,A,High,500,BB,Medium,327,BB,Medium,341,BBB,High,1168,2022-04-16
+0000908255,BWA,Borgwarner Inc,NYSE,Auto Components,14839.0,49000,B,Medium,260,B,Medium,206,B,Medium,230,B,Medium,696,2022-04-16
+0000310158,MRK,Merck & Co Inc,NYSE,Pharmaceuticals,48704.0,68000,A,High,500,BB,Medium,305,BB,Medium,315,BBB,High,1120,2022-04-18
+0000101778,MRO,Marathon Oil Corp,NYSE,Energy,5272.0,2300,A,High,530,BB,Medium,313,BB,Medium,305,BBB,High,1148,2022-04-21
+0001510295,MPC,Marathon Petroleum Corp,NYSE,Energy,120376.0,18000,AA,Excellent,700,BB,Medium,366,BB,Medium,315,A,High,1381,2022-04-18
+0000895421,MS,Morgan Stanley,NYSE,Financial Services,59755.0,75498,A,High,555,BB,Medium,303,BB,Medium,320,BBB,High,1178,2022-04-18
+0000036270,MTB,M&T Bank Corp,NYSE,Banking,5714.0,17000,A,High,500,BB,Medium,303,B,Medium,260,BBB,High,1063,2022-04-18
+0001037646,MTD,Mettler-Toledo International Inc,NYSE,Life Sciences Tools and Services,3318.0,14600,A,High,505,BB,Medium,300,B,Medium,240,BBB,High,1045,2022-04-18
+0000068505,MSI,Motorola Solutions Inc,NYSE,Communications,7878.0,19000,A,High,505,BB,Medium,305,BB,Medium,347,BBB,High,1157,2022-04-18
+0000753308,NEE,Nextera Energy Inc,NYSE,Utilities,17069.0,14900,AA,Excellent,668,BB,Medium,306,BB,Medium,313,A,High,1287,2022-04-18
+0001408198,MSCI,MSCI Inc,NYSE,Financial Services,1978.0,3800,A,High,580,BB,Medium,347,BB,Medium,335,A,High,1262,2022-04-18
+0001513761,NCLH,Norwegian Cruise Line Holdings Ltd,NYSE,Hotels Restaurants and Leisure,1295.0,32500,BBB,High,495,BB,Medium,306,BB,Medium,300,BBB,High,1101,2022-04-18
+0001111711,NI,NiSource Inc,NYSE,Utilities,1765.0,7600,BB,Medium,361,BB,Medium,322,B,Medium,223,BBB,High,906,2022-04-18
+0001133421,NOC,Northrop Grumman Corp,NYSE,Aerospace and Defense,35667.0,90000,A,High,505,BB,Medium,302,BB,Medium,300,BBB,High,1107,2022-04-18
+0001373715,NOW,ServiceNow Inc,NYSE,Technology,5896.0,17000,A,High,550,BB,Medium,374,BB,Medium,350,A,High,1274,2022-04-19
+0000073309,NUE,Nucor Corp,NYSE,Metals and Mining,36484.0,27400,BB,Medium,374,BB,Medium,340,B,Medium,225,BBB,High,939,2022-04-18
+0001492633,NLSN,Nielsen Holdings PLC,NYSE,Professional Services,6336.0,14000,A,High,500,BB,Medium,310,BB,Medium,300,BBB,High,1110,2022-04-18
+0000702165,NSC,Norfolk Southern Corp,NYSE,Road and Rail,11142.0,20900,BB,Medium,358,BB,Medium,339,BB,Medium,330,BBB,High,1027,2022-04-18
+0000906163,NVR,NVR Inc,NYSE,Consumer products,8498.0,6700,B,Medium,265,B,Medium,206,B,Medium,205,B,Medium,676,2022-04-18
+0000080661,PGR,Progressive Corp,NYSE,Insurance,45277.0,49900,BB,Medium,350,BB,Medium,355,B,Medium,270,BBB,High,975,2022-04-19
+0000078003,PFE,Pfizer Inc,NYSE,Pharmaceuticals,81288.0,79000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-18
+0000822416,PHM,Pultegroup Inc,NYSE,Consumer products,13842.0,6300,B,Medium,215,B,Medium,203,B,Medium,240,B,Medium,658,2022-04-19
+0000076334,PH,Parker-Hannifin Corp,NYSE,Machinery,14884.0,55000,BB,Medium,325,BB,Medium,303,B,Medium,225,BB,Medium,853,2022-04-18
+0000031791,PKI,PerkinElmer Inc,NYSE,Life Sciences Tools and Services,3780.0,15000,A,High,515,BB,Medium,316,BB,Medium,325,BBB,High,1156,2022-04-18
+0001045609,PLD,Prologis Inc,NYSE,Real Estate,4759.0,2600,A,High,579,BB,Medium,374,BB,Medium,315,A,High,1268,2022-04-19
+0000079879,PPG,PPG Industries Inc,NYSE,Chemicals,16827.0,49000,B,Medium,293,B,Medium,236,B,Medium,220,B,Medium,749,2022-04-18
+0001393311,PSA,Public Storage,NYSE,Real Estate,2822.0,5900,B,Medium,235,B,Medium,245,B,Medium,205,B,Medium,685,2022-04-19
+0000713676,PNC,PNC Financial Services Group Inc,NYSE,Banking,17775.0,56000,BBB,High,455,BB,Medium,323,BB,Medium,300,BBB,High,1078,2022-04-18
+0001413329,PM,Philip Morris International Inc,NYSE,Tobacco,31405.0,71000,A,High,520,BB,Medium,327,BB,Medium,315,BBB,High,1162,2022-04-18
+0000075677,PKG,Packaging Corp of America,NYSE,Packaging,7025.0,14000,A,High,500,BB,Medium,303,BB,Medium,300,BBB,High,1103,2022-04-18
+0001534701,PSX,Phillips 66,NYSE,Energy,111407.0,14300,A,High,569,BB,Medium,363,BB,Medium,310,A,High,1242,2022-04-18
+0001137774,PRU,Prudential Financial Inc,NYSE,Insurance,59188.0,40000,B,Medium,285,BB,Medium,300,B,Medium,288,BB,Medium,873,2022-04-19
+0000077360,PNR,Pentair PLC,NYSE,Machinery,3536.0,11600,BBB,High,433,BB,Medium,330,BB,Medium,315,BBB,High,1078,2022-04-18
+0000764622,PNW,Pinnacle West Capital Corp,NYSE,Utilities,3648.0,6700,AA,Excellent,629,BBB,High,479,BB,Medium,300,A,High,1408,2022-04-18
+0000922224,PPL,PPL Corp,NYSE,Utilities,7892.0,6800,A,High,525,BB,Medium,306,BB,Medium,300,BBB,High,1131,2022-04-18
+0001050915,PWR,Quanta Services Inc,NYSE,Construction,12754.0,47000,A,High,540,BB,Medium,382,BB,Medium,310,A,High,1232,2022-04-19
+0000720005,RJF,Raymond James Financial Inc,NYSE,Financial Services,9765.0,15000,A,High,505,BB,Medium,309,BB,Medium,305,BBB,High,1119,2022-04-19
+0001281761,RF,Regions Financial Corp,NYSE,Banking,6073.0,22000,BBB,High,490,BB,Medium,304,BB,Medium,305,BBB,High,1099,2022-04-17
+0000884887,RCL,Royal Caribbean Cruises Ltd,NYSE,Hotels Restaurants and Leisure,5542.0,60000,A,High,503,BB,Medium,327,BB,Medium,310,BBB,High,1140,2022-04-19
+0001037038,RL,Ralph Lauren Corp,NYSE,Textiles Apparel and Luxury Goods,6179.0,26000,BBB,High,420,BB,Medium,352,BB,Medium,303,BBB,High,1075,2022-04-19
+0000078239,PVH,PVH Corp,NYSE,Textiles Apparel and Luxury Goods,9153.0,40000,BBB,High,418,BB,Medium,319,BB,Medium,315,BBB,High,1052,2022-04-19
+0000315213,RHI,Robert Half International Inc,NYSE,Professional Services,5855.0,38500,B,Medium,255,BB,Medium,334,BB,Medium,310,BB,Medium,899,2022-04-19
+0001038357,PXD,Pioneer Natural Resources Co,NYSE,Energy,9483.0,1750,AA,Excellent,700,BBB,High,412,BB,Medium,300,A,High,1412,2022-04-18
+0000084839,ROL,Rollins Inc,NYSE,Commercial Services and Supplies,2032.0,13000,A,High,500,BB,Medium,300,BB,Medium,305,BBB,High,1105,2022-04-19
+0000943819,RMD,Resmed Inc,NYSE,Health Care,3202.0,8000,BB,Medium,330,BB,Medium,312,BB,Medium,300,BBB,High,942,2022-04-19
+0000316709,SCHW,Charles Schwab Corp,NYSE,Financial Services,18521.0,33200,A,High,515,BB,Medium,300,BB,Medium,300,BBB,High,1115,2022-04-16
+0001024478,ROK,Rockwell Automation Inc,NYSE,Electrical Equipment,6977.0,23000,BB,Medium,308,B,Medium,243,B,Medium,210,BB,Medium,761,2022-04-19
+0001260221,TDG,TransDigm Group Inc,NYSE,Aerospace and Defense,14196.0,14000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
+0001012100,SEE,Sealed Air Corp,NYSE,Packaging,5674.0,17000,A,High,555,BB,Medium,318,B,Medium,257,BBB,High,1130,2022-04-19
+0000882835,ROP,Roper Technologies Inc,NYSE,Technology,5543.0,14000,A,High,570,BB,Medium,350,BB,Medium,340,A,High,1260,2022-04-19
+0000093556,SWK,Stanley Black & Decker Inc,NYSE,Machinery,15617.0,54700,A,High,555,BB,Medium,315,BB,Medium,300,BBB,High,1170,2022-04-19
+0000016918,STZ,Constellation Brands Inc,NYSE,Beverages,8819.0,10000,BBB,High,459,BB,Medium,313,B,Medium,295,BBB,High,1067,2022-04-16
+0000310764,SYK,Stryker Corp,NYSE,Health Care,17108.0,40000,BBB,High,485,BB,Medium,321,BB,Medium,325,BBB,High,1131,2022-04-19
+0000096021,SYY,Sysco Corp,NYSE,Retail,57981.0,57000,A,High,555,BB,Medium,301,BB,Medium,305,BBB,High,1161,2022-04-19
+0000089800,SHW,Sherwin-Williams Co,NYSE,Chemicals,19945.0,61000,B,Medium,295,B,Medium,259,B,Medium,220,BB,Medium,774,2022-04-19
+0000064040,SPGI,S&P Global Inc,NYSE,Financial Services,8297.0,33790,BBB,High,435,BB,Medium,341,BB,Medium,310,BBB,High,1086,2022-06-11
+0001757898,STE,STERIS plc,NYSE,Health Care,4527.0,18000,A,High,510,BB,Medium,301,BB,Medium,305,BBB,High,1116,2022-04-19
+0001601712,SYF,Synchrony Financial,NYSE,Financial Services,8180.0,20000,BB,Medium,325,BB,Medium,312,BB,Medium,310,BBB,High,947,2022-04-19
+0001063761,SPG,Simon Property Group Inc,NYSE,Real Estate,4738.0,4300,B,Medium,225,B,Medium,247,B,Medium,205,B,Medium,677,2022-04-19
+0001032208,SRE,Sempra Energy,NYSE,Utilities,10998.0,15000,AA,Excellent,700,BB,Medium,386,BB,Medium,310,A,High,1396,2022-04-19
+0000092122,SO,Southern Co,NYSE,Utilities,20537.0,29000,A,High,515,BB,Medium,307,BB,Medium,330,BBB,High,1152,2022-04-19
+0000093751,STT,State Street Corp,NYSE,Financial Services,12034.0,40000,B,Medium,225,B,Medium,211,B,Medium,210,B,Medium,646,2022-04-19
+0000091440,SNA,Snap-On Inc,NYSE,Machinery,3735.0,14700,A,High,500,BB,Medium,300,B,Medium,261,BBB,High,1061,2022-04-19
+0000101829,RTX,Raytheon Technologies Corp,NYSE,Aerospace and Defense,64388.0,181000,A,High,520,BB,Medium,330,BBB,High,400,A,High,1250,2022-06-11
+0000874766,HIG,Hartford Financial Services Group Inc,NYSE,Insurance,22388.0,20000,A,High,500,BB,Medium,305,BB,Medium,305,BBB,High,1110,2022-04-17
+0001385157,TEL,TE Connectivity Ltd,NYSE,Electrical Equipment,14197.0,65000,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-04-19
+0000096943,TFX,Teleflex Inc,NYSE,Health Care,2537.0,14000,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-04-19
+0000092230,TFC,Truist Financial Corp,NYSE,Banking,14934.0,55000,BBB,High,480,BB,Medium,308,BB,Medium,300,BBB,High,1088,2022-06-11
+0001094285,TDY,Teledyne Technologies Inc,NYSE,Electrical Equipment,3082.0,13000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
+0000027419,TGT,Target Corp,NYSE,Retail,106005.0,440000,A,High,550,BB,Medium,342,BB,Medium,313,A,High,1205,2022-04-19
+0000109198,TJX,TJX Companies Inc,NYSE,Retail,48549.0,294000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
+0001116132,TPR,Tapestry Inc,NYSE,Textiles Apparel and Luxury Goods,6038.0,15000,BBB,High,483,BB,Medium,310,BB,Medium,300,BBB,High,1093,2022-06-11
+0000086312,TRV,Travelers Companies Inc,NYSE,Insurance,33977.0,30400,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-07-27
+0000097745,TMO,Thermo Fisher Scientific Inc,NYSE,Life Sciences Tools and Services,39211.0,80000,A,High,527,BB,Medium,332,B,Medium,280,BBB,High,1139,2022-04-19
+0001466258,TT,Trane Technologies PLC,NYSE,Building,14125.0,38000,AA,Excellent,700,BB,Medium,389,BB,Medium,320,A,High,1409,2022-06-11
+0000100493,TSN,Tyson Foods Inc,NYSE,Food Products,47049.0,137000,A,High,530,BB,Medium,374,BB,Medium,340,A,High,1244,2022-04-19
+0000860731,TYL,Tyler Technologies Inc,NYSE,Technology,1090.0,5800,BBB,High,400,BB,Medium,306,BB,Medium,305,BBB,High,1011,2022-04-19
+0000217346,TXT,Textron Inc,NYSE,Aerospace and Defense,12867.0,35000,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-09-17
+0000731766,UNH,UnitedHealth Group Inc,NYSE,Health Care,287597.0,350000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
+0001090727,UPS,United Parcel Service Inc,NYSE,Logistics and Transportation,97287.0,534000,A,High,540,BB,Medium,374,B,Medium,245,BBB,High,1159,2022-04-19
+0000074208,UDR,UDR Inc,NYSE,Real Estate,1054.0,1700,B,Medium,225,BB,Medium,301,B,Medium,215,B,Medium,741,2022-04-19
+0000352915,UHS,Universal Health Services Inc,NYSE,Health Care,12642.0,90000,A,High,560,BB,Medium,320,BB,Medium,338,A,High,1218,2022-04-19
+0001285785,MOS,Mosaic Co,NYSE,Chemicals,12344.0,14600,A,High,515,BB,Medium,379,BB,Medium,315,A,High,1209,2022-04-18
+0000036104,USB,US Bancorp,NYSE,Banking,23290.0,68000,BB,Medium,336,BB,Medium,317,BB,Medium,300,BBB,High,953,2022-04-19
+0001067701,URI,United Rentals Inc,NYSE,Trading Companies and Distributors,10138.0,19600,BBB,High,472,BB,Medium,318,BB,Medium,300,BBB,High,1090,2022-04-19
+0000899689,VNO,Vornado Realty Trust,NYSE,Real Estate,1765.0,4400,A,High,540,BB,Medium,326,BB,Medium,325,BBB,High,1191,2022-04-19
+0001035002,VLO,Valero Energy Corp,NYSE,Energy,108332.0,10000,AA,Excellent,608,BB,Medium,307,BB,Medium,330,A,High,1245,2022-04-19
+0000103379,VFC,VF Corp,NYSE,Textiles Apparel and Luxury Goods,11803.0,35000,A,High,505,BB,Medium,301,BB,Medium,300,BBB,High,1106,2022-04-19
+0001403161,V,Visa Inc,NYSE,Technology,12970.0,21500,A,High,504,BB,Medium,368,BB,Medium,310,BBB,High,1182,2022-04-19
+0000740260,VTR,Ventas Inc,NYSE,Real Estate,3700.0,500,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
+0001396009,VMC,Vulcan Materials Co,NYSE,Construction,4625.0,10000,A,High,570,BB,Medium,319,BB,Medium,300,BBB,High,1189,2022-04-19
+0000783325,WEC,WEC Energy Group Inc,NYSE,Utilities,7718.0,8000,AA,Excellent,635,BBB,High,438,BB,Medium,300,A,High,1373,2022-04-19
+0000766704,WELL,Welltower OP LLC,NYSE,Real Estate,4707.0,3400,BBB,High,437,BB,Medium,326,BB,Medium,300,BBB,High,1063,2022-04-21
+0001000697,WAT,Waters Corp,NYSE,Life Sciences Tools and Services,2562.0,7300,B,Medium,270,B,Medium,292,B,Medium,235,BB,Medium,797,2022-04-19
+0000823768,WM,Waste Management Inc,NYSE,Commercial Services and Supplies,18199.0,49500,AA,Excellent,613,BBB,High,408,B,Medium,285,A,High,1306,2022-04-19
+0000943452,WAB,Westinghouse Air Brake Technologies Corp,NYSE,Machinery,7836.0,27000,AA,Excellent,607,BB,Medium,311,BB,Medium,320,A,High,1238,2022-04-19
+0000107263,WMB,Williams Companies Inc,NYSE,Energy,10627.0,6800,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-20
+0000072971,WFC,Wells Fargo & Co,NYSE,Banking,78492.0,250000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
+0000106640,WHR,Whirlpool Corp,NYSE,Consumer products,19407.0,78000,A,High,500,BB,Medium,301,BB,Medium,300,BBB,High,1101,2022-04-20
+0000105770,WST,West Pharmaceutical Services Inc,NYSE,Life Sciences Tools and Services,2815.0,8400,A,High,540,BB,Medium,330,BB,Medium,305,BBB,High,1175,2022-04-20
+0000011544,WRB,W R Berkley Corp,NYSE,Insurance,10026.0,8000,BB,Medium,360,B,Medium,294,BB,Medium,300,BBB,High,954,2022-04-19
+0000104169,WMT,Walmart Inc,NYSE,Retail,572754.0,2300000,BB,Medium,310,B,Medium,281,B,Medium,220,BB,Medium,811,2022-04-19
+0001365135,WU,Western Union Co,NYSE,Technology,5062.0,10000,B,Medium,205,B,Medium,205,B,Medium,228,B,Medium,638,2022-04-20
+0001041061,YUM,Yum! Brands Inc,NYSE,Hotels Restaurants and Leisure,6090.0,34000,A,High,500,BB,Medium,320,BB,Medium,310,BBB,High,1130,2022-04-20
+0001524472,XYL,Xylem Inc,NYSE,Machinery,5202.0,21000,BB,Medium,374,B,Medium,254,B,Medium,210,BB,Medium,838,2022-04-20
+0000106535,WY,Weyerhaeuser Co,NYSE,Real Estate,10201.0,9600,AA,Excellent,700,BB,Medium,340,BB,Medium,300,A,High,1340,2022-04-20
+0001732845,WRK,Westrock Co,NYSE,Packaging,18286.0,49000,A,High,555,BB,Medium,324,BB,Medium,305,BBB,High,1184,2022-04-20
+0000034088,XOM,Exxon Mobil Corp,NYSE,Energy,276692.0,63000,A,High,538,BB,Medium,322,BB,Medium,313,BBB,High,1173,2022-04-17
+0001136869,ZBH,Zimmer Biomet Holdings Inc,NYSE,Health Care,8001.0,21000,A,High,520,BB,Medium,330,BB,Medium,310,BBB,High,1160,2022-04-20
+0001555280,ZTS,Zoetis Inc,NYSE,Pharmaceuticals,7776.0,12100,A,High,520,BB,Medium,348,BB,Medium,310,BBB,High,1178,2022-04-20
+0000315189,DE,Deere & Co,NYSE,Machinery,44024.0,69000,A,High,560,BB,Medium,339,BB,Medium,305,A,High,1204,2022-04-17
+0001666700,DD,Dupont De Nemours Inc,NYSE,Chemicals,15668.0,34300,A,High,550,BB,Medium,341,B,Medium,295,BBB,High,1186,2022-04-17
+0000715957,D,Dominion Energy Inc,NYSE,Utilities,15785.0,17000,A,High,535,BB,Medium,325,BB,Medium,310,BBB,High,1170,2022-04-17
+0000064803,CVS,CVS Health Corp,NYSE,Health Care,292111.0,258000,A,High,540,BB,Medium,302,BB,Medium,315,BBB,High,1157,2022-04-17
+0000027904,DAL,Delta Air Lines Inc,NYSE,Airlines,29899.0,83000,A,High,515,BB,Medium,300,BB,Medium,313,BBB,High,1128,2022-04-17
+0001108524,CRM,Salesforce Inc,NYSE,Technology,26492.0,73541,B,Medium,215,B,Medium,241,B,Medium,200,B,Medium,656,2022-04-19
+0000093410,CVX,Chevron Corp,NYSE,Energy,155606.0,42595,B,Medium,210,B,Medium,217,B,Medium,210,B,Medium,637,2022-04-22
+0001755672,CTVA,Corteva Inc,NYSE,Chemicals,15655.0,23000,AA,Excellent,610,BB,Medium,312,BB,Medium,320,A,High,1242,2022-06-10
+0000858470,CTRA,Coterra Energy Inc,NYSE,Energy,2300.0,700,A,High,555,BB,Medium,329,BB,Medium,310,BBB,High,1194,2022-06-11
+0001596783,CTLT,Catalent Inc,NYSE,Pharmaceuticals,4185.0,16000,BBB,High,483,BB,Medium,303,BB,Medium,305,BBB,High,1091,2022-04-16
+0000016732,CPB,Campbell Soup Co,NYSE,Food Products,8475.0,14000,A,High,515,BB,Medium,301,BB,Medium,305,BBB,High,1121,2022-04-16
+0001100682,CRL,Charles River Laboratories International Inc,NYSE,Life Sciences Tools and Services,3537.0,19000,A,High,510,BB,Medium,322,B,Medium,235,BBB,High,1067,2022-04-16
+0001163165,COP,Conocophillips,NYSE,Energy,47020.0,9700,AA,Excellent,687,A,High,544,BB,Medium,305,A,High,1536,2022-04-16
+0000711404,COO,Cooper Companies Inc,NYSE,Health Care,3105.0,14000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-16
+0000927628,COF,Capital One Financial Corp,NYSE,Financial Services,31364.0,51300,A,High,508,BB,Medium,309,BB,Medium,320,BBB,High,1137,2022-04-16
+0001071739,CNC,Centene Corp,NYSE,Health Care,125985.0,75000,A,High,548,BB,Medium,355,BB,Medium,315,A,High,1218,2022-04-16
+0001130310,CNP,CenterPoint Energy Inc,NYSE,Utilities,8178.0,8500,A,High,550,BB,Medium,320,B,Medium,260,BBB,High,1130,2022-04-16
+0000811156,CMS,CMS Energy Corp,NYSE,Utilities,6963.0,7500,BBB,High,450,AA,Excellent,667,C,Low,75,BBB,High,1192,2022-04-16
+0000026172,CMI,Cummins Inc,NYSE,Machinery,19811.0,57825,A,High,510,BB,Medium,320,BB,Medium,300,BBB,High,1130,2022-04-17
+0000021665,CL,Colgate-Palmolive Co,NYSE,Consumer products,17421.0,33700,A,High,520,BB,Medium,310,BB,Medium,310,BBB,High,1140,2022-04-16
+0000066740,MMM,3M Co,NYSE,Industrial Conglomerates,35355.0,95000,A,High,526,BB,Medium,310,BB,Medium,305,BBB,High,1141,2022-04-16
+0000759944,CFG,Citizens Financial Group Inc,NYSE,Banking,7188.0,17500,B,Medium,230,B,Medium,215,B,Medium,205,B,Medium,650,2022-04-16
+0000023217,CAG,Conagra Brands Inc,NYSE,Food Products,11198.0,18000,A,High,525,BB,Medium,306,BB,Medium,300,BBB,High,1131,2022-04-16
+0001739940,CI,Cigna Corp,NYSE,Health Care,174078.0,74000,A,High,508,BB,Medium,328,BB,Medium,310,BBB,High,1146,2022-04-16
+0000721371,CAH,Cardinal Health Inc,NYSE,Health Care,162467.0,44000,A,High,505,BB,Medium,300,BB,Medium,315,BBB,High,1120,2022-04-16
+0001141391,MA,Mastercard Inc,NYSE,Technology,18884.0,24000,B,Medium,210,B,Medium,230,B,Medium,215,B,Medium,655,2022-04-18
+0001679273,LW,Lamb Weston Holdings Inc,NYSE,Food Products,4404.0,10000,BB,Medium,345,B,Medium,256,BB,Medium,300,BBB,High,901,2022-06-10
+0000912595,MAA,Mid-America Apartment Communities Inc,NYSE,Real Estate,1780.0,2500,BB,Medium,315,B,Medium,261,B,Medium,210,BB,Medium,786,2022-04-18
+0000916076,MLM,Martin Marietta Materials Inc,NYSE,Construction,5010.0,10500,A,High,573,BB,Medium,313,BB,Medium,300,BBB,High,1186,2022-04-18
+0000092380,LUV,Southwest Airlines Co,NYSE,Airlines,15791.0,56500,B,Medium,295,BB,Medium,314,B,Medium,218,BB,Medium,827,2022-04-19
+0000059558,LNC,Lincoln National Corp,NYSE,Insurance,18921.0,11000,AA,Excellent,700,BB,Medium,300,BB,Medium,300,A,High,1300,2022-04-18
+0000920760,LEN,Lennar Corp,NYSE,Consumer products,26266.0,8000,BB,Medium,363,BB,Medium,344,B,Medium,220,BBB,High,927,2022-04-18
+0000080424,PG,Procter & Gamble Co,NYSE,Consumer products,76118.0,101000,A,High,560,BBB,High,422,BB,Medium,310,A,High,1292,2022-04-18
+0001821825,OGN,Organon & Co,NYSE,Pharmaceuticals,6518.0,9000,A,High,515,BB,Medium,335,BB,Medium,305,BBB,High,1155,2022-06-11
+0000797468,OXY,Occidental Petroleum Corp,NYSE,Energy,25974.0,11400,A,High,505,BB,Medium,302,BB,Medium,300,BBB,High,1107,2022-04-18
+0001571996,DELL,Dell Technologies Inc,NYSE,Technology,101197.0,133000,A,High,500,BB,Medium,318,B,Medium,275,BBB,High,1093,2022-06-10
+0001590955,PAYC,Paycom Software Inc,NYSE,Technology,1005.0,5300,BBB,High,470,BB,Medium,305,BB,Medium,315,BBB,High,1090,2022-04-18
+0000788784,PEG,Public Service Enterprise Group Inc,NYSE,Utilities,9325.0,13000,A,High,500,BB,Medium,300,B,Medium,205,BBB,High,1005,2022-04-19
+0001039684,OKE,ONEOK Inc,NYSE,Energy,14218.0,4600,A,High,581,BB,Medium,326,BB,Medium,355,A,High,1262,2022-04-18
+0001013871,NRG,NRG Energy Inc,NYSE,Utilities,9828.0,3600,BB,Medium,371,BB,Medium,327,B,Medium,218,BBB,High,916,2022-04-18
+0000060086,L,Loews Corp,NYSE,Insurance,17012.0,19000,A,High,505,BB,Medium,303,BB,Medium,313,BBB,High,1121,2022-04-18
+0000029989,OMC,Omnicom Group Inc,NYSE,Media,14289.0,77000,A,High,543,BB,Medium,333,BB,Medium,305,BBB,High,1181,2022-04-18
+0001341439,ORCL,Oracle Corp,NYSE,Technology,40479.0,143000,A,High,500,BB,Medium,300,B,Medium,200,BBB,High,1000,2022-09-17
+0000726728,O,Realty Income Corp,NYSE,Real Estate,1800.0,300,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-19
+0001286681,DPZ,Domino's Pizza Inc,NYSE,Hotels Restaurants and Leisure,4117.0,16000,B,Medium,205,B,Medium,205,B,Medium,200,B,Medium,610,2022-04-17
+0000732717,T,AT&T Inc,NYSE,Telecommunication,168864.0,203000,B,Medium,210,B,Medium,200,BB,Medium,305,B,Medium,715,2022-04-16
+0000100885,UNP,Union Pacific Corp,NYSE,Road and Rail,21804.0,32269,B,Medium,290,B,Medium,257,B,Medium,245,BB,Medium,792,2022-04-19
+0001164727,NEM,Newmont Corporation,NYSE,Metals and Mining,11497.0,15300,AA,Excellent,675,BB,Medium,389,BB,Medium,355,A,High,1419,2022-04-18
+0001048911,FDX,FedEx Corp,NYSE,Logistics and Transportation,83959.0,570000,BB,Medium,335,B,Medium,278,B,Medium,255,BB,Medium,868,2022-04-17
+0000320187,NKE,Nike Inc,NYSE,Textiles Apparel and Luxury Goods,44538.0,73300,B,Medium,205,B,Medium,275,B,Medium,200,B,Medium,680,2022-04-18
+0000037996,F,Ford Motor Co,NYSE,Automobiles,136341.0,183000,B,Medium,292,B,Medium,246,B,Medium,215,BB,Medium,753,2022-04-17
+0000936468,LMT,Lockheed Martin Corp,NYSE,Aerospace and Defense,67044.0,114000,A,High,510,BB,Medium,324,BB,Medium,320,BBB,High,1154,2022-04-18
+0001060391,RSG,Republic Services Inc,NYSE,Commercial Services and Supplies,10150.0,40000,B,Medium,293,B,Medium,235,B,Medium,216,B,Medium,744,2022-04-19
+0001463101,ENPH,Enphase Energy Inc,NASDAQ,Semiconductors,1382.0,3000,A,High,565,BB,Medium,316,BB,Medium,300,BBB,High,1181,2022-04-17
+0001109357,EXC,Exelon Corp,NASDAQ,Utilities,35985.0,22500,AA,Excellent,694,BBB,High,403,BB,Medium,316,A,High,1413,2022-04-17
+0000746515,EXPD,Expeditors International of Washington Inc,NASDAQ,Logistics and Transportation,16529.0,17711,A,High,510,BB,Medium,302,BB,Medium,300,BBB,High,1112,2022-04-17
+0001324424,EXPE,Expedia Group Inc,NASDAQ,Hotels Restaurants and Leisure,8598.0,22000,B,Medium,225,B,Medium,242,BB,Medium,305,BB,Medium,772,2022-04-17
+0000815556,FAST,Fastenal Co,NASDAQ,Trading Companies and Distributors,5353.0,23000,B,Medium,230,BB,Medium,302,B,Medium,200,B,Medium,732,2022-04-17
+0001048695,FFIV,F5 Inc,NASDAQ,Communications,2601.0,6500,B,Medium,200,B,Medium,221,B,Medium,215,B,Medium,636,2022-04-17
+0000798354,FISV,Fiserv Inc,NASDAQ,Technology,14852.0,44000,BB,Medium,395,BB,Medium,302,BB,Medium,310,BBB,High,1007,2022-04-17
+0001101239,EQIX,Equinix Inc,NASDAQ,Real Estate,6636.0,10000,A,High,515,BB,Medium,323,BB,Medium,315,BBB,High,1153,2022-04-17
+0001262039,FTNT,Fortinet Inc,NASDAQ,Technology,2590.0,8000,A,High,500,BB,Medium,306,BB,Medium,305,BBB,High,1111,2022-04-17
+0001370637,ETSY,ETSY Inc,NASDAQ,Retail,2329.0,2700,B,Medium,235,B,Medium,241,B,Medium,235,B,Medium,711,2022-04-17
+0000038777,BEN,Franklin Resources Inc,NYSE,Financial Services,1628.0,9400,BB,Medium,321,BB,Medium,349,BB,Medium,310,BBB,High,980,2022-04-17
+0001297996,DLR,Digital Realty Trust Inc,NYSE,Real Estate,4054.0,3000,A,High,540,BB,Medium,317,BB,Medium,300,BBB,High,1157,2022-04-17
+0000313616,DHR,Danaher Corp,NYSE,Life Sciences Tools and Services,29453.0,78000,A,High,530,BB,Medium,344,BB,Medium,385,A,High,1259,2022-04-17
+0000033185,EFX,Equifax Inc,NYSE,Professional Services,4928.0,13000,BB,Medium,390,BB,Medium,300,BB,Medium,305,BBB,High,995,2022-06-10
+0001001250,EL,Estee Lauder Companies Inc,NYSE,Consumer products,16215.0,85000,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-04-17
+0000915389,EMN,Eastman Chemical Co,NYSE,Chemicals,9823.0,14400,A,High,583,BB,Medium,365,BB,Medium,310,A,High,1258,2022-04-17
+0000032604,EMR,Emerson Electric Co,NYSE,Electrical Equipment,15160.0,86700,AA,Excellent,605,BB,Medium,323,BB,Medium,315,A,High,1243,2022-04-17
+0000821189,EOG,EOG Resources Inc,NYSE,Energy,17350.0,2800,A,High,550,B,Medium,252,B,Medium,240,BBB,High,1042,2022-04-17
+0000906107,EQR,Equity Residential,NYSE,Real Estate,2257.0,2500,B,Medium,235,B,Medium,208,B,Medium,210,B,Medium,653,2022-04-17
+0000072741,ES,Eversource Energy,NYSE,Utilities,2327.0,8500,A,High,576,BBB,High,409,BB,Medium,310,A,High,1295,2022-04-17
+0000920522,ESS,Essex Property Trust Inc,NYSE,Real Estate,1526.0,1500,BB,Medium,377,BB,Medium,304,B,Medium,210,BB,Medium,891,2022-04-17
+0000035527,FITB,Fifth Third Bancorp,NASDAQ,Banking,7651.0,20000,BB,Medium,313,BB,Medium,300,B,Medium,215,BB,Medium,828,2022-04-17
+0000065984,ETR,Entergy Corp,NYSE,Utilities,11019.0,13000,AA,Excellent,653,BB,Medium,380,BB,Medium,310,A,High,1343,2022-04-17
+0001289490,EXR,Extra Space Storage Inc,NYSE,Real Estate,1340.0,4400,A,High,572,B,Medium,289,B,Medium,225,BBB,High,1086,2022-04-17
+0001099800,EW,Edwards Lifesciences Corp,NYSE,Health Care,5232.0,14000,B,Medium,290,BB,Medium,333,BB,Medium,305,BBB,High,928,2022-04-17
+0001754301,FOXA,Fox Corp,NASDAQ,Media,14108.0,8400,B,Medium,295,BB,Medium,330,BB,Medium,315,BBB,High,940,2022-04-16
+0000831259,FCX,Freeport-McMoRan Inc,NYSE,Metals and Mining,22845.0,27500,AA,Excellent,608,BB,Medium,313,BB,Medium,305,A,High,1226,2022-04-17
+0001031296,FE,FirstEnergy Corp,NYSE,Utilities,11049.0,13000,A,High,510,BB,Medium,304,BB,Medium,300,BBB,High,1114,2022-04-17
+0001175454,FLT,Fleetcor Technologies Inc,NYSE,Technology,2672.0,11000,BBB,High,410,BB,Medium,302,BB,Medium,300,BBB,High,1012,2022-04-17
+0001136893,FIS,Fidelity National Information Services Inc,NYSE,Technology,13877.0,65000,A,High,530,B,Medium,298,BB,Medium,310,BBB,High,1138,2022-04-17
+0001132979,FRC,First Republic Bank,NYSE,Banking,5155.0,7000,BB,Medium,370,BB,Medium,331,B,Medium,288,BBB,High,989,2022-04-17
+0000037785,FMC,FMC Corp,NYSE,Chemicals,5047.0,7300,A,High,510,BB,Medium,307,BB,Medium,315,BBB,High,1132,2022-04-17
+0000034903,FRT,Federal Realty Investment Trust,NYSE,Real Estate,878.0,200,A,High,525,BB,Medium,302,BB,Medium,300,BBB,High,1127,2022-04-17
+0001659166,FTV,Fortive Corp,NYSE,Machinery,2800.0,10000,A,High,540,BB,Medium,326,BB,Medium,305,BBB,High,1171,2022-04-17
+0000039911,GPS,Gap Inc,NYSE,Retail,4480.0,90000,A,High,515,BB,Medium,349,BB,Medium,300,BBB,High,1164,2022-04-17
+0001121788,GRMN,Garmin Ltd,NYSE,Consumer products,4982.0,18000,B,Medium,205,B,Medium,242,B,Medium,200,B,Medium,647,2022-04-17
+0000749251,IT,Gartner Inc,NYSE,Technology,4600.0,18000,A,High,500,BB,Medium,316,BB,Medium,315,BBB,High,1131,2022-04-17
+0000059478,LLY,Eli Lilly and Co,NYSE,Pharmaceuticals,28318.0,35000,A,High,510,BB,Medium,360,BB,Medium,310,BBB,High,1180,2022-04-17
+0001095073,RE,Everest Re Group Ltd,NYSE,Insurance,11736.0,15000,A,High,505,B,Medium,276,BB,Medium,305,BBB,High,1086,2022-04-17
+0001711269,EVRG,Evergy Inc,NYSE,Utilities,2423.0,5000,A,High,555,BB,Medium,310,BB,Medium,300,BBB,High,1165,2022-06-10
+0001519751,FBHS,Fortune Brands Home & Security Inc,NYSE,Building,3019.0,13000,A,High,510,BB,Medium,302,BB,Medium,300,BBB,High,1112,2022-04-17
+0000882095,GILD,Gilead Sciences Inc,NASDAQ,Biotechnology,27305.0,13000,A,High,500,BB,Medium,303,BB,Medium,300,BBB,High,1103,2022-04-17
+0000859737,HOLX,Hologic Inc,NASDAQ,Health Care,5594.0,9000,A,High,515,BB,Medium,324,BB,Medium,315,BBB,High,1154,2022-04-17
+0001000228,HSIC,Henry Schein Inc,NASDAQ,Health Care,11993.0,24000,B,Medium,210,B,Medium,205,B,Medium,200,B,Medium,615,2022-04-17
+0000773840,HON,Honeywell International Inc,NASDAQ,Industrial Conglomerates,34392.0,100000,A,High,545,BB,Medium,344,BB,Medium,308,BBB,High,1197,2022-04-17
+0001070750,HST,Host Hotels & Resorts Inc,NASDAQ,Real Estate,2765.0,200,A,High,510,BB,Medium,318,BB,Medium,318,BBB,High,1146,2022-04-17
+0000040533,GD,General Dynamics Corp,NYSE,Aerospace and Defense,38469.0,103100,A,High,510,BB,Medium,310,BB,Medium,300,BBB,High,1120,2022-06-11
+0000046080,HAS,Hasbro Inc,NASDAQ,Leisure Products,6421.0,15000,B,Medium,255,BB,Medium,301,BB,Medium,300,BB,Medium,856,2022-04-17
+0000049196,HBAN,Huntington Bancshares Inc,NASDAQ,Banking,5606.0,17000,BB,Medium,308,BB,Medium,300,BB,Medium,300,BBB,High,908,2022-04-17
+0000320335,GL,Globe Life Inc,NYSE,Insurance,4850.0,9500,B,Medium,215,B,Medium,238,B,Medium,215,B,Medium,668,2022-06-07
+0000040987,GPC,Genuine Parts Co,NYSE,Distributors,17119.0,50000,A,High,535,B,Medium,225,BB,Medium,305,BBB,High,1065,2022-04-17
+0001474735,GNRC,Generac Holdings Inc,NYSE,Electrical Equipment,3736.0,7800,A,High,535,BB,Medium,311,B,Medium,250,BBB,High,1096,2022-04-17
+0001123360,GPN,Global Payments Inc,NYSE,Technology,7735.0,26000,BB,Medium,310,BB,Medium,343,B,Medium,265,BBB,High,918,2022-04-17
+0000860730,HCA,HCA Healthcare Inc,NYSE,Health Care,58752.0,244000,A,High,520,BB,Medium,348,BB,Medium,305,BBB,High,1173,2022-04-17
+0001359841,HBI,HanesBrands Inc,NYSE,Textiles Apparel and Luxury Goods,6804.0,69000,BB,Medium,310,B,Medium,223,BB,Medium,305,BB,Medium,838,2022-04-17
+0001501585,HII,Huntington Ingalls Industries Inc,NYSE,Aerospace and Defense,9524.0,43000,A,High,545,BB,Medium,315,BB,Medium,315,BBB,High,1175,2022-04-17
+0001645590,HPE,Hewlett Packard Enterprise Co,NYSE,Technology,27784.0,60000,B,Medium,230,BB,Medium,359,B,Medium,230,BB,Medium,819,2022-04-17
+0000004447,HES,Hess Corp,NYSE,Energy,8479.0,1580,A,High,535,BB,Medium,300,BB,Medium,305,BBB,High,1140,2022-04-17
+0001585689,HLT,Hilton Worldwide Holdings Inc,NYSE,Hotels Restaurants and Leisure,5788.0,68000,B,Medium,293,B,Medium,200,B,Medium,205,B,Medium,698,2022-04-17
+0000048465,HRL,Hormel Foods Corp,NYSE,Food Products,11389.0,20000,A,High,570,BB,Medium,322,BB,Medium,300,BBB,High,1192,2022-04-17
+0000047217,HPQ,HP Inc,NYSE,Technology,63487.0,51000,B,Medium,245,B,Medium,211,B,Medium,200,B,Medium,656,2022-04-17
+0000049071,HUM,Humana Inc,NYSE,Health Care,83064.0,95000,BBB,High,462,BB,Medium,300,BB,Medium,300,BBB,High,1062,2022-04-17
+0000004281,HWM,Howmet Aerospace Inc,NYSE,Aerospace and Defense,4971.0,22000,A,High,525,BB,Medium,315,BB,Medium,320,BBB,High,1160,2022-06-10
+0000765880,PEAK,Healthpeak Properties Inc,NYSE,Real Estate,1150.0,300,A,High,535,BB,Medium,331,BB,Medium,335,A,High,1201,2022-06-11
+0000040704,GIS,General Mills Inc,NYSE,Food Products,18627.0,35000,A,High,585,BB,Medium,326,BB,Medium,365,A,High,1276,2022-04-17
+0000040545,GE,General Electric Co,NYSE,Industrial Conglomerates,74196.0,174000,A,High,533,BB,Medium,300,BB,Medium,300,BBB,High,1133,2022-06-10
+0001639920,SPOT,Spotify Technology SA,NYSE,Media,9668.0,7400,A,High,500,B,Medium,283,B,Medium,255,BBB,High,1038,2022-04-22
+0001660734,TRTN,Triton International Ltd,NYSE,Trading Companies and Distributors,1500.0,1000,BBB,High,477,BB,Medium,306,BB,Medium,300,BBB,High,1083,2022-04-19
+0001630472,TRTX,TPG RE Finance Trust Inc,NYSE,Real Estate,300.0,100,B,Medium,230,B,Medium,239,BB,Medium,300,BB,Medium,769,2022-06-11
+0001552033,TRU,TransUnion,NYSE,Professional Services,1900.0,9300,A,High,510,BB,Medium,313,BB,Medium,310,BBB,High,1133,2022-04-19
+0001670592,YETI,Yeti Holdings Inc,NYSE,Leisure Products,1410.0,1000,B,Medium,269,B,Medium,253,BB,Medium,305,BB,Medium,827,2022-06-11
+0001345016,YELP,Yelp Inc,NYSE,Media,1003.0,4800,B,Medium,245,A,High,515,B,Medium,213,BBB,High,973,2022-04-20
+0001614178,YEXT,Yext Inc,NYSE,Technology,369.0,1600,BB,Medium,325,BB,Medium,314,BB,Medium,310,BBB,High,949,2022-06-11
+0001364885,SPR,Spirit AeroSystems Holdings Inc,NYSE,Aerospace and Defense,3454.0,13000,A,High,515,BB,Medium,337,BB,Medium,300,BBB,High,1152,2022-04-19
+0001819580,YSG,Yatsen Holding Ltd,NYSE,Consumer products,300.0,1500,BB,Medium,355,B,Medium,217,BB,Medium,325,BB,Medium,897,2022-06-11
+0001631761,YRD,Yiren Digital Ltd,NYSE,Financial Services,300.0,3000,B,Medium,200,B,Medium,205,B,Medium,205,B,Medium,610,2022-04-20
+0001673358,YUMC,Yum China Holdings Inc,NYSE,Hotels Restaurants and Leisure,1052.0,7000,B,Medium,205,B,Medium,217,B,Medium,220,B,Medium,642,2022-06-11
+0001530804,TROX,Tronox Holdings PLC,NYSE,Chemicals,1800.0,6900,A,High,503,BB,Medium,320,BB,Medium,300,BBB,High,1123,2022-04-19
+0001720446,ZEPP,Zepp Health Corp,NYSE,Electrical Equipment,200.0,3000,B,Medium,202,B,Medium,210,B,Medium,295,B,Medium,707,2022-06-11
+0001802749,ZEV,Lightning eMotors Inc,NYSE,Machinery,100.0,500,A,High,535,BB,Medium,391,B,Medium,240,BBB,High,1166,2022-06-11
+0001423774,ZUO,Zuora Inc,NYSE,Technology,280.0,1400,B,Medium,240,B,Medium,234,B,Medium,200,B,Medium,674,2022-09-24
+0001654126,ZIM,ZIM Integrated Shipping Services Ltd,NYSE,Marine,7300.0,4000,BB,Medium,329,BB,Medium,351,BB,Medium,320,BBB,High,1000,2022-04-20
+0001403752,ZYME,Zymeworks Inc,NYSE,Biotechnology,30.0,300,B,Medium,240,BB,Medium,326,BB,Medium,305,BB,Medium,871,2022-06-11
+0001439288,ZWS,Zurn Elkay Water Solutions Corp,NYSE,Building,600.0,2500,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-06-11
+0001856314,YOU,Clear Secure Inc,NYSE,Technology,200.0,900,A,High,515,B,Medium,278,B,Medium,205,BBB,High,998,2022-04-21
+0001463172,ZEN,Zendesk Inc,NYSE,Technology,1100.0,5000,A,High,515,BB,Medium,338,BB,Medium,320,BBB,High,1173,2022-04-20
+0000785786,PLXS,Plexus Corp,NASDAQ,Electrical Equipment,793.0,17000,A,High,510,BB,Medium,300,BB,Medium,300,BBB,High,1110,2022-04-18
+0001448397,SHIP,Seanergy Maritime Holdings Corp,NASDAQ,Marine,100.0,200,BB,Medium,345,BB,Medium,300,BB,Medium,305,BBB,High,950,2022-04-19
+0001831651,SHLS,Shoals Technologies Group Inc,NASDAQ,Electrical Equipment,200.0,900,B,Medium,285,B,Medium,280,BB,Medium,300,BB,Medium,865,2022-06-10
+0000913241,SHOO,Steven Madden Ltd,NASDAQ,Textiles Apparel and Luxury Goods,330.0,2300,A,High,508,B,Medium,231,BB,Medium,300,BBB,High,1039,2022-04-19
+0000743238,SHYF,Shyft Group Inc,NASDAQ,Machinery,600.0,3000,A,High,510,BB,Medium,303,B,Medium,275,BBB,High,1088,2022-06-10
+0001459839,SIBN,SI-BONE Inc,NASDAQ,Health Care,50.0,200,B,Medium,220,B,Medium,228,B,Medium,210,B,Medium,658,2022-06-10
+0000065596,SIEB,Siebert Financial Corp,NASDAQ,Financial Services,30.0,150,BB,Medium,300,B,Medium,299,B,Medium,235,BB,Medium,834,2022-04-19
+0001692412,PLYA,Playa Hotels & Resorts NV,NASDAQ,Hotels Restaurants and Leisure,500.0,4000,B,Medium,210,B,Medium,200,B,Medium,205,B,Medium,615,2022-06-10
+0001091907,WWE,World Wrestling Entertainment Inc,NYSE,Media,1055.0,850,B,Medium,275,BB,Medium,332,BB,Medium,315,BBB,High,922,2022-04-20
+0001157075,PMCB,PharmaCyte Biotech Inc,NASDAQ,Biotechnology,5.0,80,B,Medium,220,B,Medium,202,BB,Medium,300,B,Medium,722,2022-04-18
+0000110471,WWW,Wolverine World Wide Inc,NYSE,Textiles Apparel and Luxury Goods,800.0,4000,BB,Medium,390,B,Medium,298,BB,Medium,308,BBB,High,996,2022-04-20
+0001616000,XHR,Xenia Hotels & Resorts Inc,NYSE,Real Estate,600.0,1500,B,Medium,260,B,Medium,263,B,Medium,236,BB,Medium,759,2022-04-20
+0001163302,X,United States Steel Corp,NYSE,Metals and Mining,16162.0,20000,A,High,535,BB,Medium,364,BB,Medium,300,BBB,High,1199,2022-04-19
+0001810997,XPEV,Xpeng Inc,NYSE,Automobiles,3265.0,10000,B,Medium,215,B,Medium,208,B,Medium,200,B,Medium,623,2022-06-11
+0001166003,XPO,XPO Logistics Inc,NYSE,Road and Rail,12814.0,44000,A,High,560,BB,Medium,318,BB,Medium,300,BBB,High,1178,2022-04-20
+0001398453,XIN,Xinyuan Real Estate Co Ltd,NYSE,Real Estate,500.0,3000,B,Medium,205,B,Medium,242,BB,Medium,300,B,Medium,747,2022-04-20
+0001772720,XL,XL Fleet Corp,NYSE,Auto Components,1600.0,1100,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-04-22
+0001725033,XYF,X Financial,NYSE,Financial Services,800.0,3000,B,Medium,215,B,Medium,205,B,Medium,200,B,Medium,620,2022-06-11
+0000775368,Y,Alleghany Corp,NYSE,Insurance,1200.0,2700,B,Medium,215,B,Medium,240,BB,Medium,300,BB,Medium,755,2022-04-16
+0001794350,YALA,Yalla Group Ltd,NYSE,Media,200.0,1000,B,Medium,233,B,Medium,244,B,Medium,220,B,Medium,697,2022-06-11
+0000795403,WTS,Watts Water Technologies Inc,NYSE,Machinery,500.0,2000,BBB,High,420,BB,Medium,303,B,Medium,210,BBB,High,933,2022-04-19
+0001551693,SIEN,Sientra Inc,NASDAQ,Health Care,120.0,600,B,Medium,219,BB,Medium,308,B,Medium,236,BB,Medium,763,2022-04-19
+0000910406,HAIN,Hain Celestial Group Inc,NASDAQ,Food Products,1900.0,4000,A,High,520,BB,Medium,302,BB,Medium,305,BBB,High,1127,2022-04-17
+0001742518,MTC,MMTEC Inc,NASDAQ,Technology,200.0,1200,B,Medium,221,B,Medium,225,BB,Medium,305,BB,Medium,751,2022-04-20
+0001634379,MTCR,Metacrine Inc,NASDAQ,Biotechnology,100.0,300,B,Medium,210,B,Medium,207,BB,Medium,330,B,Medium,747,2022-06-10
+0001183765,MTEM,Molecular Templates Inc,NASDAQ,Biotechnology,30.0,200,BB,Medium,360,BB,Medium,325,BB,Medium,320,BBB,High,1005,2022-06-10
+0001091223,MTLS,Materialise NV,NASDAQ,Technology,200.0,900,A,High,505,BB,Medium,301,BB,Medium,300,BBB,High,1106,2022-04-18
+0001056358,MTEX,Mannatech Inc,NASDAQ,Consumer products,200.0,600,B,Medium,200,B,Medium,260,B,Medium,230,B,Medium,690,2022-04-18
+0000866273,MTRX,Matrix Service Co,NASDAQ,Construction,600.0,2500,A,High,589,BB,Medium,390,B,Medium,277,A,High,1256,2022-04-18
+0001159036,HALO,Halozyme Therapeutics Inc,NASDAQ,Biotechnology,200.0,900,A,High,510,BB,Medium,302,BB,Medium,315,BBB,High,1127,2022-04-17
+0000819913,HALL,Hallmark Financial Services Inc,NASDAQ,Insurance,200.0,400,B,Medium,215,B,Medium,233,BB,Medium,300,B,Medium,748,2022-04-17
+0001277902,MVBF,MVB Financial Corp,NASDAQ,Banking,200.0,600,B,Medium,210,B,Medium,215,B,Medium,215,B,Medium,640,2022-04-18
+0001760689,MVST,Microvast Holdings Inc,NASDAQ,Machinery,100.0,400,B,Medium,225,B,Medium,282,B,Medium,210,B,Medium,717,2022-06-11
+0000065770,MVIS,MicroVision Inc,NASDAQ,Electrical Equipment,20.0,200,BBB,High,451,BB,Medium,300,BB,Medium,330,BBB,High,1081,2022-04-18
+0001287098,MXCT,MaxCyte Inc,NASDAQ,Life Sciences Tools and Services,30.0,200,B,Medium,220,BB,Medium,300,B,Medium,248,BB,Medium,768,2022-04-21
+0000899923,MYGN,Myriad Genetics Inc,NASDAQ,Biotechnology,700.0,2700,BB,Medium,353,BB,Medium,321,B,Medium,294,BBB,High,968,2022-04-18
+0001327607,MYFW,First Western Financial Inc,NASDAQ,Banking,150.0,500,BB,Medium,351,BB,Medium,300,B,Medium,235,BB,Medium,886,2022-06-10
+0001288469,MXL,Maxlinear Inc,NASDAQ,Semiconductors,880.0,3200,A,High,535,BB,Medium,325,BB,Medium,335,BBB,High,1195,2022-04-18
+0001321834,MYMD,MyMD Pharmaceuticals Inc,NASDAQ,Pharmaceuticals,5.0,80,B,Medium,205,B,Medium,257,B,Medium,230,B,Medium,692,2022-06-11
+0001823878,MYPS,Playstudios Inc,NASDAQ,Media,100.0,500,B,Medium,205,B,Medium,202,B,Medium,200,B,Medium,607,2022-06-11
+0001819394,MTTR,Matterport Inc,NASDAQ,Technology,480.0,1500,BB,Medium,346,BB,Medium,325,B,Medium,260,BBB,High,931,2022-06-11
+0001493594,MTSI,MACOM Technology Solutions Holdings Inc,NASDAQ,Semiconductors,500.0,1600,BB,Medium,377,BB,Medium,309,B,Medium,255,BBB,High,941,2022-04-18
+0000840715,CLRO,Clearone Inc,NASDAQ,Communications,200.0,600,BB,Medium,370,B,Medium,228,B,Medium,210,BB,Medium,808,2022-04-16
+0000749647,CLSN,Celsion Corp,NASDAQ,Biotechnology,20.0,150,B,Medium,255,B,Medium,214,BB,Medium,300,BB,Medium,769,2022-04-16
+0000885462,GURE,Gulf Resources Inc,NASDAQ,Chemicals,200.0,600,BBB,High,408,B,Medium,206,BB,Medium,300,BBB,High,914,2022-04-17
+0000944480,GVP,GSE Systems Inc,NASDAQ,Technology,200.0,800,A,High,505,BB,Medium,307,B,Medium,245,BBB,High,1057,2022-04-17
+0001589061,GYRO,Gyrodyne LLC,NASDAQ,Real Estate,100.0,400,B,Medium,240,B,Medium,206,B,Medium,240,B,Medium,686,2022-04-17
+0001434728,GWRS,Global Water Resources Inc,NASDAQ,Utilities,100.0,300,BB,Medium,367,B,Medium,297,B,Medium,235,BB,Medium,899,2022-04-17
+0001172222,HA,Hawaiian Holdings Inc,NASDAQ,Airlines,1990.0,8000,B,Medium,200,BB,Medium,321,B,Medium,200,B,Medium,721,2022-04-17
+0000827876,CLSK,CleanSpark Inc,NASDAQ,Technology,130.0,300,A,High,570,BB,Medium,326,BB,Medium,310,A,High,1206,2022-06-10
+0001539029,CLSD,Clearside Biomedical Inc,NASDAQ,Pharmaceuticals,30.0,100,B,Medium,215,B,Medium,230,B,Medium,200,B,Medium,645,2022-07-26
+0001824013,HAAC,Health Assurance Acquisition Corp,NASDAQ,Financial Services,0.0,20,B,Medium,200,B,Medium,258,BB,Medium,300,BB,Medium,758,2022-06-10
+0001109242,HAFC,Hanmi Financial Corp,NASDAQ,Banking,200.0,600,B,Medium,250,B,Medium,207,B,Medium,233,B,Medium,690,2022-04-17
+0001849867,CLST,Catalyst Bancorp Inc,NASDAQ,Financial Services,50.0,100,B,Medium,260,BB,Medium,350,B,Medium,267,BB,Medium,877,2022-06-11
+0001026662,CLWT,Euro Tech Holdings Company Ltd,NASDAQ,Trading Companies and Distributors,100.0,500,B,Medium,230,B,Medium,201,B,Medium,210,B,Medium,641,2022-04-17
+0001705843,CLXT,Calyxt Inc,NASDAQ,Biotechnology,50.0,200,A,High,535,BB,Medium,322,BB,Medium,325,BBB,High,1182,2022-06-10
+0001738177,CMBM,Cambium Networks Corp,NASDAQ,Communications,330.0,1500,A,High,505,BB,Medium,337,BB,Medium,300,BBB,High,1142,2022-06-10
+0001005229,CMCO,Columbus McKinnon Corp,NASDAQ,Machinery,550.0,2500,B,Medium,200,BB,Medium,323,B,Medium,240,BB,Medium,763,2022-04-16
+0000943184,EVK,Ever-Glory International Group Inc,NASDAQ,Textiles Apparel and Luxury Goods,50.0,300,B,Medium,200,B,Medium,211,B,Medium,210,B,Medium,621,2022-04-17
+0001466301,CLVS,Clovis Oncology Inc,NASDAQ,Biotechnology,30.0,400,B,Medium,225,B,Medium,212,BB,Medium,300,B,Medium,737,2022-04-16
+0001819615,CLVR,Clever Leaves Holdings Inc,NASDAQ,Pharmaceuticals,0.0,20,B,Medium,225,B,Medium,243,B,Medium,205,B,Medium,673,2022-06-10
+0001751876,HAPP,Happiness Development Group Ltd,NASDAQ,Consumer products,5.0,80,B,Medium,225,B,Medium,207,BB,Medium,300,B,Medium,732,2022-06-10
+0001436425,HBCP,Home Bancorp Inc,NASDAQ,Financial Services,150.0,500,B,Medium,230,B,Medium,202,B,Medium,200,B,Medium,632,2022-04-17
+0001123494,HBIO,Harvard Bioscience Inc,NASDAQ,Life Sciences Tools and Services,150.0,600,B,Medium,250,B,Medium,221,BB,Medium,300,BB,Medium,771,2022-04-17
+0000706129,HBNC,Horizon Bancorp Inc,NASDAQ,Banking,250.0,900,B,Medium,255,BB,Medium,321,B,Medium,233,BB,Medium,809,2022-04-17
+0000775215,HBT,HBT Financial Inc,NASDAQ,Banking,200.0,700,B,Medium,245,B,Medium,275,BB,Medium,300,BB,Medium,820,2022-06-10
+0001636422,HCAT,Health Catalyst Inc,NASDAQ,Health Care,300.0,1200,A,High,545,BB,Medium,324,BB,Medium,320,BBB,High,1189,2022-06-10
+0001824846,HCAR,Healthcare Services Acquisition Corp,NASDAQ,Financial Services,0.0,30,B,Medium,245,B,Medium,205,BB,Medium,300,BB,Medium,750,2022-06-10
+0001708493,HARP,Harpoon Therapeutics Inc,NASDAQ,Biotechnology,10.0,100,BBB,High,485,BB,Medium,300,BB,Medium,310,BBB,High,1095,2022-06-10
+0000858655,HAYN,Haynes International Inc,NASDAQ,Metals and Mining,430.0,1200,A,High,500,BB,Medium,301,BB,Medium,300,BBB,High,1101,2022-04-17
+0001098146,PNBK,Patriot National Bancorp Inc,NASDAQ,Banking,100.0,300,B,Medium,205,BB,Medium,302,B,Medium,210,B,Medium,717,2022-04-18
+0001784567,HCDI,Harbor Custom Development Inc,NASDAQ,Consumer products,200.0,500,B,Medium,222,B,Medium,221,B,Medium,208,B,Medium,651,2022-06-10
+0001403431,HCCI,Heritage-Crystal Clean Inc,NASDAQ,Commercial Services and Supplies,150.0,400,A,High,525,BBB,High,400,BB,Medium,300,A,High,1225,2022-04-17
+0001115055,PNFP,Pinnacle Financial Partners Inc,NASDAQ,Banking,600.0,2200,B,Medium,271,BB,Medium,328,B,Medium,250,BB,Medium,849,2022-11-08
+0001811764,PNT,POINT Biopharma Global Inc,NASDAQ,Biotechnology,0.0,20,BB,Medium,320,B,Medium,221,B,Medium,285,BB,Medium,826,2022-06-11
+0001446159,POAI,Predictive Oncology Inc,NASDAQ,Health Care,20.0,150,B,Medium,278,B,Medium,297,B,Medium,220,BB,Medium,795,2022-06-10
+0001622345,POLA,Polar Power Inc,NASDAQ,Electrical Equipment,50.0,300,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-06-05
+0001145197,PODD,Insulet Corp,NASDAQ,Health Care,298.0,2000,B,Medium,215,B,Medium,233,B,Medium,205,B,Medium,653,2022-11-07
+0000833640,POWI,Power Integrations Inc,NASDAQ,Semiconductors,580.0,1900,A,High,575,B,Medium,285,BB,Medium,305,BBB,High,1165,2022-11-08
+0001015383,POWW,Ammo Inc,NASDAQ,Leisure Products,150.0,500,B,Medium,233,B,Medium,224,B,Medium,200,B,Medium,657,2022-08-02
+0000056868,PNRG,Primeenergy Resources Corp,NASDAQ,Energy,800.0,100,B,Medium,200,B,Medium,200,B,Medium,260,B,Medium,660,2022-11-08
+0001766400,PNTG,Pennant Group Inc,NASDAQ,Health Care,800.0,8000,B,Medium,245,BB,Medium,306,B,Medium,200,BB,Medium,751,2022-06-10
+0001028918,PPBI,Pacific Premier Bancorp Inc,NASDAQ,Banking,600.0,2000,A,High,565,BB,Medium,328,BB,Medium,315,A,High,1208,2022-11-08
+0000914122,PPIH,Perma-Pipe International Holdings Inc,NASDAQ,Machinery,100.0,400,A,High,500,B,Medium,260,BB,Medium,300,BBB,High,1060,2022-06-10
+0000802481,PPC,Pilgrims Pride Corp,NASDAQ,Food Products,4000.0,50000,A,High,500,BB,Medium,302,B,Medium,220,BBB,High,1022,2022-11-08
+0001185348,PRAA,PRA Group Inc,NASDAQ,Financial Services,900.0,4000,BBB,High,473,BB,Medium,321,BB,Medium,310,BBB,High,1104,2022-11-08
+0001449792,PPSI,Pioneer Power Solutions Inc,NASDAQ,Electrical Equipment,50.0,300,B,Medium,299,BB,Medium,305,BB,Medium,315,BBB,High,919,2022-11-08
+0001689548,PRAX,Praxis Precision Medicines Inc,NASDAQ,Biotechnology,20.0,200,B,Medium,200,B,Medium,215,B,Medium,215,B,Medium,630,2022-06-10
+0001588978,PRCT,Procept Biorobotics Corp,NASDAQ,Health Care,200.0,800,B,Medium,200,B,Medium,224,BB,Medium,300,B,Medium,724,2022-06-11
+0001784535,PRCH,Porch Group Inc,NASDAQ,Retail,300.0,1500,B,Medium,225,B,Medium,227,B,Medium,215,B,Medium,667,2022-06-10
+0001876431,PRE,Artisan Acquisition Corp,NASDAQ,Healthcare,200.0,600,B,Medium,245,B,Medium,203,B,Medium,265,B,Medium,713,2022-04-22
+0001046568,PRDO,Perdoceo Education Corp,NASDAQ,Diversified Consumer Services,600.0,3500,BB,Medium,365,B,Medium,297,B,Medium,250,BBB,High,912,2022-06-10
+0001300734,SISI,Shineco Inc,NASDAQ,Consumer products,30.0,200,BB,Medium,340,BB,Medium,346,BB,Medium,305,BBB,High,991,2022-06-11
+0001451809,SITM,SiTime Corp,NASDAQ,Semiconductors,200.0,800,A,High,505,BB,Medium,304,BB,Medium,300,BBB,High,1109,2022-06-10
+0000908937,SIRI,Sirius XM Holdings Inc,NASDAQ,Media,8700.0,9500,B,Medium,240,BB,Medium,302,B,Medium,205,B,Medium,747,2022-11-08
+0001753673,SJ,Scienjoy Holding Corp,NASDAQ,Media,100.0,500,B,Medium,260,BB,Medium,320,B,Medium,240,BB,Medium,820,2022-06-10
+0001829427,POW,Powered Brands,NASDAQ,Financial Services,200.0,1000,B,Medium,235,B,Medium,231,B,Medium,250,B,Medium,716,2022-04-20
+0000080420,POWL,Powell Industries Inc,NASDAQ,Electrical Equipment,500.0,2200,A,High,500,B,Medium,240,B,Medium,215,BBB,High,955,2022-11-08
+0001627475,UPWK,Upwork Inc,NASDAQ,Professional Services,503.0,800,B,Medium,275,B,Medium,264,B,Medium,278,BB,Medium,817,2022-06-10
+0000883945,USAK,USA Truck Inc,NASDAQ,Road and Rail,600.0,2200,A,High,532,BB,Medium,311,BB,Medium,303,BBB,High,1146,2022-11-08
+0000027093,USAU,US Gold Corp,NASDAQ,Metals and Mining,5.0,50,BBB,High,400,B,Medium,240,BB,Medium,300,BBB,High,940,2022-06-10
+0000931584,USAP,Universal Stainless & Alloy Products Inc,NASDAQ,Metals and Mining,200.0,700,B,Medium,238,B,Medium,231,B,Medium,200,B,Medium,669,2022-11-08
+0000101594,USEG,US Energy Corp,NASDAQ,Energy,100.0,200,BBB,High,438,B,Medium,265,BB,Medium,315,BBB,High,1018,2022-11-08
+0001088034,USIO,Usio Inc,NASDAQ,Technology,70.0,300,B,Medium,285,B,Medium,245,B,Medium,240,BB,Medium,770,2022-06-10
+0001082554,UTHR,United Therapeutics Corp,NASDAQ,Biotechnology,1600.0,1700,B,Medium,233,B,Medium,259,BB,Medium,300,BB,Medium,792,2022-11-08
+0001668243,URGN,Urogen Pharma Ltd,NASDAQ,Biotechnology,30.0,200,B,Medium,210,B,Medium,251,B,Medium,290,BB,Medium,751,2022-06-10
+0000912615,URBN,Urban Outfitters Inc,NASDAQ,Retail,4033.0,23000,BB,Medium,335,BB,Medium,300,BB,Medium,300,BBB,High,935,2022-11-08
+0001789299,UTME,Utime Ltd,NASDAQ,Electrical Equipment,50.0,300,B,Medium,217,B,Medium,200,B,Medium,200,B,Medium,617,2022-06-10
+0001452965,UTRS,Minerva Surgical Inc,NASDAQ,Health Care,100.0,500,B,Medium,205,B,Medium,201,B,Medium,210,B,Medium,616,2022-06-11
+0001030471,UTSI,UTStarcom Holdings Corp,NASDAQ,Communications,50.0,300,BB,Medium,340,BB,Medium,310,BB,Medium,365,BBB,High,1015,2022-11-08
+0001729173,UXIN,Uxin Ltd,NASDAQ,Retail,400.0,4000,B,Medium,203,B,Medium,202,B,Medium,225,B,Medium,630,2022-06-10
+0000102212,UVSP,Univest Financial Corp,NASDAQ,Banking,250.0,800,BB,Medium,331,BB,Medium,322,BB,Medium,305,BBB,High,958,2022-11-08
+0001597835,CMCM,Cheetah Mobile Inc,NYSE,Technology,200.0,900,B,Medium,205,B,Medium,214,B,Medium,215,B,Medium,634,2022-11-07
+0000022444,CMC,Commercial Metals Co,NYSE,Metals and Mining,5543.0,15000,B,Medium,223,B,Medium,212,B,Medium,200,B,Medium,635,2022-11-07
+0000082020,USLM,United States Lime & Minerals Inc,NASDAQ,Construction,200.0,700,A,High,500,B,Medium,233,BB,Medium,300,BBB,High,1033,2022-11-08
+0000706698,UTMD,Utah Medical Products Inc,NASDAQ,Health Care,100.0,400,B,Medium,240,B,Medium,236,B,Medium,250,B,Medium,726,2022-11-08
+0001227654,CMP,Compass Minerals International Inc,NYSE,Metals and Mining,1400.0,4000,A,High,505,BB,Medium,302,BB,Medium,320,BBB,High,1127,2022-11-07
+0001824301,CND,Concord Acquisition Corp,NYSE,Financial Services,0.0,20,B,Medium,205,B,Medium,257,BB,Medium,300,BB,Medium,762,2022-11-12
+0001733868,CNF,CNFinance Holdings Ltd,NYSE,Financial Services,1500.0,5000,B,Medium,200,B,Medium,200,B,Medium,220,B,Medium,620,2022-06-10
+0000816956,CNMD,Conmed Corp,NYSE,Health Care,400.0,1500,BBB,High,441,BB,Medium,300,B,Medium,270,BBB,High,1011,2022-11-07
+0001385280,CNK,Cinemark Holdings Inc,NYSE,Media,1200.0,22000,BB,Medium,330,BB,Medium,300,BB,Medium,300,BBB,High,930,2022-11-07
+0001704720,CNNE,Cannae Holdings Inc,NYSE,Financial Services,300.0,1200,B,Medium,215,B,Medium,203,B,Medium,203,B,Medium,621,2022-06-10
+0001224608,CNO,CNO Financial Group Inc,NYSE,Insurance,1400.0,3400,A,High,500,BB,Medium,322,BB,Medium,315,BBB,High,1137,2022-11-07
+0000021175,CNA,CNA Financial Corp,NYSE,Insurance,10900.0,5800,A,High,540,BB,Medium,329,BB,Medium,340,A,High,1209,2022-11-07
+0001503584,CMRE,Costamare Inc,NYSE,Marine,500.0,800,B,Medium,242,B,Medium,204,B,Medium,200,B,Medium,646,2022-11-07
+0000861459,GVA,Granite Construction Inc,NYSE,Construction,3500.0,9000,B,Medium,200,B,Medium,200,B,Medium,200,B,Medium,600,2022-11-07
+0001408710,FN,Fabrinet,NYSE,Electrical Equipment,1800.0,8000,A,High,510,B,Medium,209,B,Medium,210,BBB,High,929,2022-11-07
+0001468174,H,Hyatt Hotels Corp,NYSE,Hotels Restaurants and Leisure,3377.0,66000,B,Medium,235,B,Medium,209,B,Medium,205,B,Medium,649,2022-11-07
+0001561894,HASI,Hannon Armstrong Sustainable Infrastructure Capital Inc,NYSE,Real Estate,300.0,250,AA,Excellent,646,BBB,High,404,BB,Medium,313,A,High,1363,2022-11-07
+0001834622,HAYW,Hayward Holdings Inc,NYSE,Building,600.0,2500,A,High,535,BB,Medium,305,BB,Medium,300,BBB,High,1140,2022-11-15
+0001709164,HBB,Hamilton Beach Brands Holding Co,NYSE,Consumer products,1700.0,4500,B,Medium,245,B,Medium,272,B,Medium,230,B,Medium,747,2022-11-15
+0001691303,HCC,Warrior Met Coal Inc,NYSE,Metals and Mining,700.0,3500,B,Medium,215,B,Medium,200,B,Medium,200,B,Medium,615,2022-11-09
+0001400810,HCI,Hci Group Inc,NYSE,Insurance,350.0,500,B,Medium,205,B,Medium,260,BB,Medium,300,BB,Medium,765,2022-11-07
+0000354707,HE,Hawaiian Electric Industries Inc,NYSE,Utilities,2700.0,7300,A,High,585,BB,Medium,348,BB,Medium,310,A,High,1243,2022-11-07
+0001528396,GWRE,Guidewire Software Inc,NYSE,Technology,820.0,3200,A,High,549,BB,Medium,321,BB,Medium,330,A,High,1200,2022-11-07
+0000313143,HAE,Haemonetics Corp,NYSE,Health Care,900.0,5500,BBB,High,448,BB,Medium,303,BB,Medium,305,BBB,High,1056,2022-11-07
+0001283140,HEP,Holly Energy Partners LP,NYSE,Energy,600.0,800,A,High,511,B,Medium,225,B,Medium,215,BBB,High,951,2022-11-07
+0001674168,HGV,Hilton Grand Vacations Inc,NYSE,Hotels Restaurants and Leisure,1300.0,7000,BB,Medium,305,B,Medium,288,B,Medium,250,BB,Medium,843,2022-11-15
+0001417398,HI,Hillenbrand Inc,NYSE,Machinery,900.0,4000,BBB,High,489,BB,Medium,349,BB,Medium,300,BBB,High,1138,2022-11-07
+0001498828,HHC,Howard Hughes Corp,NYSE,Real Estate,1200.0,1600,A,High,500,BB,Medium,300,BB,Medium,300,BBB,High,1100,2022-11-07
+0001404655,HUBS,HubSpot Inc,NYSE,Technology,1301.0,5400,BBB,High,480,BB,Medium,329,BB,Medium,320,BBB,High,1129,2022-11-07
+0001789832,HESM,Hess Midstream LP,NYSE,Energy,500.0,800,BB,Medium,307,B,Medium,257,B,Medium,255,BB,Medium,819,2022-11-15
+0000046619,HEI,HEICO Corp,NYSE,Aerospace and Defense,2100.0,7000,B,Medium,225,B,Medium,203,B,Medium,205,B,Medium,633,2022-11-07

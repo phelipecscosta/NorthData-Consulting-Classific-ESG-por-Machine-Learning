@@ -173,3 +173,39 @@ header    { visibility: hidden; }
     color: #E30613 !important;
     font-weight: 500 !important;
 }
+
+/* ── Sidebar fixa — esconde botão de recolher ── */
+[data-testid="stSidebarCollapseButton"] {
+    display: none !important;
+}
+
+[data-testid="stSidebarCollapsedControl"] {
+    display: none !important;
+}
+
+/* ── Blindagem de tema — força cores independente do tema ativo ── */
+.stApp, .stApp * {
+    color-scheme: light !important;
+}
+
+/* Textos nativos do Streamlit */
+.stCaption, [data-testid="stCaptionContainer"] p {
+    color: #1A1A1A !important;
+}
+
+/* Métricas nativas */
+[data-testid="stMetricLabel"] p,
+[data-testid="stMetricDelta"] p {
+    color: #444441 !important;
+}
+
+/* Tabelas */
+[data-testid="stDataFrame"] * {
+    color: #1A1A1A !important;
+}
+
+/* ── Texto dos selectbox na sidebar ── */
+[data-testid="stSidebar"] .stSelectbox div[data-baseweb="select"] span,
+[data-testid="stSidebar"] .stSelectbox div[data-baseweb="select"] div {
+    color: #1A1A1A !important;
+}

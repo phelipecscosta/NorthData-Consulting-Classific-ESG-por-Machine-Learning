@@ -1,0 +1,19 @@
+[ui]
+hideSidebarNavigation = false
+
+[server]
+headless = true
+
+[runner]
+fastReruns = true
+
+[theme]
+base = "light"
+backgroundColor = "#F1EFE8"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1A1A1A"
+primaryColor = "#E30613"
+
+[client]
+toolbarMode = "minimal"
+

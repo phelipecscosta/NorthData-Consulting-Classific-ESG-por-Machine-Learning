@@ -30,38 +30,23 @@ def inject_css():
         css = f.read()
     st.markdown(f"<style>{css}</style>", unsafe_allow_html=True)
 
-    st.markdown("""
-    <script>
-    (function fixSidebarButton() {
-        function applyFix() {
-            const btn = document.querySelector('[data-testid="stSidebarCollapsedControl"]');
-            if (btn) {
-                btn.style.cssText = [
-                    'visibility:visible!important',
-                    'display:flex!important',
-                    'opacity:1!important',
-                    'background-color:#E30613!important',
-                    'border-radius:0 6px 6px 0!important',
-                    'padding:8px 4px!important',
-                    'position:fixed!important',
-                    'left:0!important',
-                    'top:50%!important',
-                    'transform:translateY(-50%)!important',
-                    'z-index:999999!important',
-                    'box-shadow:2px 0 8px rgba(0,0,0,0.2)!important',
-                ].join(';');
-                const svg = btn.querySelector('svg');
-                if (svg) svg.style.cssText = 'fill:white!important;color:white!important;stroke:white!important';
-            }
-        }
-        applyFix();
-        const id = setInterval(applyFix, 300);
-        setTimeout(() => clearInterval(id), 5000);
-        new MutationObserver(applyFix).observe(document.body, { childList: true, subtree: true });
-    })();
-    </script>
+    st.markdown(f"""
+    <style>
+    /* Esconde botão de recolher IMEDIATAMENTE — antes do render */
+    [data-testid="stSidebarCollapseButton"],
+    [data-testid="stSidebarCollapsedControl"],
+    [data-testid="collapsedControl"],
+    button[aria-label="Close sidebar"],
+    button[aria-label="Open sidebar"] {{
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+        width: 0 !important;
+        height: 0 !important;
+    }}
+    </style>
     """, unsafe_allow_html=True)
-
 
 def edn_header(title: str, subtitle: str = ""):
     sub_html = f'<p class="edn-subtitle">{subtitle}</p>' if subtitle else ""

@@ -36,12 +36,12 @@ st.markdown("""
     <p class="edn-section-title">Navegação</p>
     <p style="font-size:14px;color:#444441;line-height:1.8">
         Use o menu lateral para acessar as seções do dashboard:<br>
-        <b>01 Scorecards</b> — KPIs principais, ranking e benchmarking<br>
-        <b>02 Matriz</b> — Matriz de criticidade por quadrante<br>
-        <b>03 Mapa de Riscos</b> — Risco ESG por setor e dimensão<br>
-        <b>04 Previsão</b> — Classificar uma nova empresa
+        <b>Scorecards</b> — KPIs principais, ranking e benchmarking<br>
+        <b>Matriz de Criticidade</b> — Análise de riscos das empresas<br>
+        <b>Mapa de Riscos ESG</b> — Mapa abrangente de risco ESG por setor e dimensão<br>
+        <b>Fazer Previsão</b> — Classificar uma nova empresa
     </p>
 </div>
 """, unsafe_allow_html=True)
 
-st.caption("Fonte: Kaggle ESG Ratings Dataset · Período: Abr–Nov 2022 · Modelo: Random Forest + Decision Tree (MLflow)")
+st.caption("@2026 NORTHDATA Consulting. Todos os direitos reservados")

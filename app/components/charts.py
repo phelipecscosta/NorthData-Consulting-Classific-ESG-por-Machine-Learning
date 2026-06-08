@@ -11,14 +11,14 @@ MUTED       = "#888780"
 
 RISK_COLORS = {
     "Alto Risco":     "#E24B4A",
-    "Risco Moderado": "#BA7517",
-    "Baixo Risco":    "#639922",
+    "Risco Moderado": "#F5C400",
+    "Baixo Risco":    "#75C118",
 }
 
 DIMENSION_COLORS = {
-    "Ambiental":  "#185FA5",
-    "Social":     "#1D9E75",
-    "Governança": "#534AB7",
+    "Ambiental":  "#5AD36C",
+    "Social":     "#5988E0",
+    "Governança": "#DA974C",
 }
 
 PLOTLY_LAYOUT = dict(
@@ -49,9 +49,9 @@ def chart_risk_distribution(df: pd.DataFrame) -> go.Figure:
     fig.update_layout(
         **PLOTLY_LAYOUT,
         showlegend=True,
-        legend=dict(orientation="h", y=-0.15),
+        legend=dict(orientation="h", y=-0.15, itemclick=False, itemdoubleclick=False),
         title=dict(text="Distribuição por nível de risco", font_size=13, x=0.5),
-        height=320,
+        height=400,
     )
     return fig
 
@@ -89,8 +89,8 @@ def chart_score_by_dimension(df: pd.DataFrame) -> go.Figure:
         title=dict(text="Pontuação média por dimensão e nível de risco", font_size=13, x=0),
         xaxis_title="",
         yaxis_title="Pontuação média",
-        legend=dict(orientation="h", y=1.12),
-        height=350,
+        legend=dict(orientation="h", y=-0.15, itemclick=False, itemdoubleclick=False),
+        height=400,
     )
     return fig
 

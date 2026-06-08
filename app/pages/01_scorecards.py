@@ -12,7 +12,7 @@ from components.charts import chart_risk_distribution, chart_score_by_dimension
 st.set_page_config(page_title="Scorecards | ESG Dashboard", page_icon="🔴",
                    layout="wide", initial_sidebar_state="expanded")
 inject_css()
-edn_header("Scorecards & KPIs", "Indicadores principais · Ranking · Benchmarking")
+edn_header("Scorecards & KPIs", "Principais indicadores · Ranking · Benchmarking")
 
 df = load_data()
 
@@ -37,7 +37,7 @@ pct_alto    = (dff["nivel_risco"] == "Alto Risco").mean()  * 100
 score_medio = dff["pontuacao_total"].mean()
 n_criticos  = (dff["nivel_risco"] == "Alto Risco").sum()
 
-st.markdown('<div class="edn-section"><p class="edn-section-title">Indicadores principais</p>', unsafe_allow_html=True)
+st.markdown('<div class="edn-section"><p class="edn-section-title">Principais indicadores</p>', unsafe_allow_html=True)
 c1, c2, c3, c4 = st.columns(4)
 with c1:
     render_kpi_card("Fornecedores Baixo Risco", f"{pct_baixo:.1f}%",
@@ -48,11 +48,11 @@ with c2:
                     "de 600 a 1536 pontos", "neu")
 with c3:
     render_kpi_card("Riscos críticos identificados", str(int(n_criticos)),
-                    f"{pct_alto:.1f}% da carteira",
+                    f"{pct_alto:.1f}% do total",
                     "down" if pct_alto > 30 else "neu")
 with c4:
     render_kpi_card("Empresas avaliadas", str(len(dff)),
-                    f"{len(df)} no total", "neu")
+                    f"De {len(df)} no total", "neu")
 st.markdown('</div>', unsafe_allow_html=True)
 
 st.markdown('<div class="edn-section"><p class="edn-section-title">Visão analítica</p>', unsafe_allow_html=True)
@@ -63,37 +63,8 @@ with col_b:
     st.plotly_chart(chart_score_by_dimension(dff), use_container_width=True)
 st.markdown('</div>', unsafe_allow_html=True)
 
-st.markdown('<div class="edn-section"><p class="edn-section-title">Ranking de fornecedores</p>', unsafe_allow_html=True)
-col_r1, col_r2 = st.columns([2, 1])
-with col_r1:
-    dim_rank = st.selectbox(
-        "Ordenar por",
-        ["pontuacao_total", "pontuacao_ambiental", "pontuacao_social", "pontuacao_governanca"],
-        format_func=lambda x: {
-            "pontuacao_total":       "Pontuação total",
-            "pontuacao_ambiental":   "Pontuação ambiental",
-            "pontuacao_social":      "Pontuação social",
-            "pontuacao_governanca":  "Pontuação governança",
-        }[x],
-    )
-with col_r2:
-    ordem = st.radio("Ordem", ["Maior primeiro", "Menor primeiro"], horizontal=True)
+st.markdown('<div class="edn-section"><p class="edn-section-title">Ranking de fornecedores — líderes e retardatários</p>', unsafe_allow_html=True)
 
-asc = ordem == "Menor primeiro"
-ranking = (
-    dff[["sigla", "nome", "setor", "nivel_risco", "pontuacao_total",
-         "pontuacao_ambiental", "pontuacao_social", "pontuacao_governanca"]]
-    .sort_values(dim_rank, ascending=asc)
-    .reset_index(drop=True)
-)
-ranking.index += 1
-
-ranking_display = ranking.copy()
-ranking_display["nivel_risco"] = ranking_display["nivel_risco"].apply(risk_badge)
-st.write(ranking_display.to_html(escape=False, index=True), unsafe_allow_html=True)
-st.markdown('</div>', unsafe_allow_html=True)
-
-st.markdown('<div class="edn-section"><p class="edn-section-title">Benchmarking — líderes e retardatários</p>', unsafe_allow_html=True)
 col_b1, col_b2 = st.columns(2)
 
 COLS_BENCH = ["nome", "setor", "pontuacao_total", "pontuacao_ambiental",
@@ -107,6 +78,8 @@ with col_b1:
 with col_b2:
     st.markdown("**Retardatários ESG (bottom 5)**")
     st.dataframe(bot5.reset_index(drop=True), use_container_width=True, hide_index=True)
+
+st.markdown('<div class="edn-section"><p class="edn-section-title">Benchmarking — líderes e retardatários</p>', unsafe_allow_html=True)
 
 st.markdown("**Padrões identificados:**")
 media_lid = top5[["pontuacao_ambiental", "pontuacao_social", "pontuacao_governanca"]].mean()
@@ -122,4 +95,47 @@ for col, dim, chave in zip(
     with col:
         st.metric(f"Diferença {dim}", f"+{diff[chave]:.0f} pts", "líderes vs retardatários")
 
+st.markdown('</div>', unsafe_allow_html=True)
+
+st.markdown('<div class="edn-section"><p class="edn-section-title">Ranking Geral — Lista consolidada</p>', unsafe_allow_html=True)
+
+col_r1, col_r2 = st.columns([2, 1])
+with col_r1:
+    dim_rank = st.selectbox(
+        "Ordenar por",
+        ["pontuacao_total", "pontuacao_ambiental", "pontuacao_social", "pontuacao_governanca"],
+        format_func=lambda x: {
+            "pontuacao_total":      "Pontuação total",
+            "pontuacao_ambiental":  "Pontuação ambiental",
+            "pontuacao_social":     "Pontuação social",
+            "pontuacao_governanca": "Pontuação governança",
+        }[x],
+    )
+with col_r2:
+    ordem = st.radio("Ordem", ["Maior primeiro", "Menor primeiro"], horizontal=True)
+
+asc = ordem == "Menor primeiro"
+ranking = (
+    dff[["nome", "setor", "pontuacao_total", "pontuacao_ambiental",
+         "pontuacao_social", "pontuacao_governanca", "nivel_risco"]]
+    .sort_values(dim_rank, ascending=asc)
+    .reset_index(drop=True)
+)
+ranking.index += 1
+ranking.index.name = "ranking"
+
+st.dataframe(
+    ranking,
+    use_container_width=True,
+    height=425,          # exibe ~25 linhas com scroll automático acima disso
+    column_config={
+        "nome":                st.column_config.TextColumn("Nome"),
+        "setor":               st.column_config.TextColumn("Setor"),
+        "nivel_risco":         st.column_config.TextColumn("Nível de risco"),
+        "pontuacao_total":     st.column_config.NumberColumn("Pontuação total",     format="%d"),
+        "pontuacao_ambiental": st.column_config.NumberColumn("Pontuação ambiental", format="%d"),
+        "pontuacao_social":    st.column_config.NumberColumn("Pontuação social",     format="%d"),
+        "pontuacao_governanca":st.column_config.NumberColumn("Pontuação governança", format="%d"),
+    },
+)
 st.markdown('</div>', unsafe_allow_html=True)

@@ -10,7 +10,7 @@ from components.charts import chart_criticality_matrix
 st.set_page_config(page_title="Matriz de Criticidade | ESG Dashboard", page_icon="🔴",
                    layout="wide", initial_sidebar_state="expanded")
 inject_css()
-edn_header("Matriz de Criticidade", "Classificação por impacto × probabilidade de não-conformidade")
+edn_header("Matriz de Criticidade", "Classificação por Nível de Risco")
 
 df = load_data()
 

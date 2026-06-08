@@ -23,12 +23,12 @@ with st.sidebar:
 
 dff = df[df["perfil"].isin(exchange_sel)] if exchange_sel else df
 
-st.markdown('<div class="edn-section"><p class="edn-section-title">Risco por setor de atuação</p>', unsafe_allow_html=True)
+st.markdown('<div class="edn-section"><p class="edn-section-title">Alto Risco por setor de atuação</p>', unsafe_allow_html=True)
 st.plotly_chart(chart_sector_risk(dff, top_n=top_n), use_container_width=True)
 st.caption("Percentual de empresas classificadas como Alto Risco dentro de cada setor.")
 st.markdown('</div>', unsafe_allow_html=True)
 
-st.markdown('<div class="edn-section"><p class="edn-section-title">Pontuação média por setor e dimensão ESG</p>', unsafe_allow_html=True)
+st.markdown('<div class="edn-section"><p class="edn-section-title">Pontuação média por setor x dimensão ESG</p>', unsafe_allow_html=True)
 st.plotly_chart(chart_dimension_heatmap(dff), use_container_width=True)
 st.caption("Verde = pontuação elevada (baixo risco). Vermelho = pontuação baixa (alto risco).")
 st.markdown('</div>', unsafe_allow_html=True)
@@ -41,7 +41,7 @@ planos = {
             "Auditoria presencial imediata",
             "Exigência de plano de adequação em até 30 dias",
             "Acompanhamento mensal de indicadores",
-            "Recomendação de certificação ISO 14001 / SA8000",
+            "Recomendação de certificação Ex.: ISO 14001 / SA8000",
             "Revisão de contrato com cláusulas ESG",
         ],
     },
@@ -84,7 +84,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 st.markdown('<div class="edn-section"><p class="edn-section-title">Perfil individual de empresa</p>', unsafe_allow_html=True)
 empresa_sel = st.selectbox(
-    "Selecione uma empresa",
+    "Selecione uma empresa ou escreva (sigla ou nome)",
     options=dff["sigla"].tolist(),
     format_func=lambda t: f"{t} — {dff[dff['sigla']==t]['nome'].values[0]}",
 )

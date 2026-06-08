@@ -220,12 +220,12 @@ def chart_dimension_heatmap(df: pd.DataFrame) -> go.Figure:
         z=pivot.values,
         x=pivot.columns.tolist(),
         y=pivot.index.tolist(),
-        colorscale=[[0, "#FCEBEB"], [0.5, "#FAEEDA"], [1, "#EAF3DE"]],
+        colorscale=[[0, "#FACECE"], [0.5, "#FADEAD"], [1, "#BAE089"]],
         text=pivot.values.astype(int),
         texttemplate="%{text}",
         textfont_size=10,
         showscale=True,
-        colorbar=dict(title="Pontuação", thickness=14),
+        colorbar=dict(title="Intervalo de pontuação", thickness=14, title_side="right"),
     ))
     fig.update_layout(
         **PLOTLY_LAYOUT,

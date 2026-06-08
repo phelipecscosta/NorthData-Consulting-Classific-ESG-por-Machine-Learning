@@ -33,15 +33,15 @@ st.plotly_chart(chart_dimension_heatmap(dff), use_container_width=True)
 st.caption("Verde = pontuação elevada (baixo risco). Vermelho = pontuação baixa (alto risco).")
 st.markdown('</div>', unsafe_allow_html=True)
 
-st.markdown('<div class="edn-section"><p class="edn-section-title">Plano de ação por nível de risco</p>', unsafe_allow_html=True)
+st.markdown('<div class="edn-section"><p class="edn-section-title">Recomendação de Plano de ação por nível de risco</p>', unsafe_allow_html=True)
 planos = {
     "Alto Risco": {
         "cor": "#FCEBEB", "borda": "#E24B4A",
         "acoes": [
             "Auditoria presencial imediata",
-            "Exigência de plano de adequação em até 30 dias",
+            "Exigência de plano para adequação em até 30 dias",
             "Acompanhamento mensal de indicadores",
-            "Recomendação de certificação Ex.: ISO 14001 / SA8000",
+            "Obter certificações (Ex.: ISO 14001 / SA8000)",
             "Revisão de contrato com cláusulas ESG",
         ],
     },

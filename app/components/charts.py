@@ -128,55 +128,45 @@ def chart_sector_risk(df: pd.DataFrame, top_n: int = 15) -> go.Figure:
 
 def chart_criticality_matrix(df: pd.DataFrame) -> go.Figure:
     """
-    Scatter matrix de criticidade.
-    Eixo X = pontuacao_total | Eixo Y = probabilidade de não-conformidade
+    Strip plot + Boxplot sobrepostos usando go.Box com boxpoints='all'.
     """
-    df = df.copy()
-    score_min = df["pontuacao_total"].min()
-    score_max = df["pontuacao_total"].max()
-    df["prob_nc"] = 100 - (
-        (df["pontuacao_total"] - score_min) / (score_max - score_min) * 100
-    )
+    fig = go.Figure()
 
-    fig = px.scatter(
-        df,
-        x="pontuacao_total",
-        y="prob_nc",
-        color="nivel_risco",
-        color_discrete_map=RISK_COLORS,
-        hover_name="nome",
-        hover_data={"sigla": True, "setor": True,
-                    "pontuacao_total": True, "prob_nc": ":.1f"},
-        labels={
-            "pontuacao_total": "Pontuação ESG total (impacto)",
-            "prob_nc":         "Probabilidade de não-conformidade (%)",
-            "nivel_risco":     "Nível de risco",
-        },
-        opacity=0.75,
-    )
+    ordem = ["Alto Risco", "Risco Moderado", "Baixo Risco"]
 
-    mid_x = df["pontuacao_total"].median()
-    fig.add_vline(x=mid_x, line_dash="dash", line_color=MUTED, line_width=1)
-    fig.add_hline(y=50,    line_dash="dash", line_color=MUTED, line_width=1)
+    for nivel in ordem:
+        grupo = df[df["nivel_risco"] == nivel]["pontuacao_total"]
+        r = int(RISK_COLORS[nivel][1:3], 16)
+        g = int(RISK_COLORS[nivel][3:5], 16)
+        b = int(RISK_COLORS[nivel][5:7], 16)
 
-    anots = [
-        (score_min + 30, 90, "Alto impacto<br>Alto risco",   RISK_COLORS["Alto Risco"]),
-        (mid_x + 30,     90, "Baixo impacto<br>Alto risco",  RISK_COLORS["Risco Moderado"]),
-        (score_min + 30, 10, "Alto impacto<br>Baixo risco",  RISK_COLORS["Risco Moderado"]),
-        (mid_x + 30,     10, "Baixo impacto<br>Baixo risco", RISK_COLORS["Baixo Risco"]),
-    ]
-    for ax, ay, txt, cor in anots:
-        fig.add_annotation(x=ax, y=ay, text=txt, showarrow=False,
-                           font=dict(size=10, color=cor), align="left")
+        fig.add_trace(go.Box(
+            y=grupo,
+            name=nivel,
+            boxpoints="all",        # mostra todas as bolinhas
+            jitter=0.4,             # espalha horizontalmente
+            pointpos=0,             # bolinhas centralizadas
+            marker=dict(
+                color=RISK_COLORS[nivel],
+                size=5,
+                opacity=0.5,
+                line=dict(width=0),
+            ),
+            line_color=RISK_COLORS[nivel],
+            fillcolor=f"rgba({r},{g},{b},0.15)",
+            boxmean=True,
+        ))
 
     fig.update_layout(
         **PLOTLY_LAYOUT,
-        title=dict(text="Matriz de criticidade", font_size=13, x=0),
-        height=480,
-        legend=dict(orientation="h", y=-0.15),
+        title=dict(text="Distribuição de pontuação ESG por nível de risco", font_size=13, x=0),
+        yaxis_title="Pontuação ESG total",
+        xaxis_title="",
+        height=520,
+        showlegend=True,
+        legend=dict(orientation="h", y=-0.12),
     )
     return fig
-
 
 def chart_esg_radar(row: pd.Series) -> go.Figure:
     """Radar chart para uma empresa individual."""

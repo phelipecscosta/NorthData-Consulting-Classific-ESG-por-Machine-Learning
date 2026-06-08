@@ -16,7 +16,7 @@ COLUNAS_PT_PARA_EN = {
     "cnpj":                    "cik",
     "sigla":                   "ticker",
     "nome":                    "name",
-    "bolsa":                   "exchange",
+    "perfil":                   "exchange",
     "setor":                   "industry",
     "faturamento":             "revenue_M",
     "tamanho":                 "employees",
@@ -34,6 +34,15 @@ COLUNAS_PT_PARA_EN = {
 }
 
 COLUNAS_EN_PARA_PT = {v: k for k, v in COLUNAS_PT_PARA_EN.items()}
+
+# ── Mapeamento de bolsa (exchange) ───────────────────────────
+BOLSA_EN_PARA_PT = {
+    "NYSE":   "Tradicional",
+    "NASDAQ": "Inovador",
+}
+
+BOLSA_PT_PARA_EN = {v: k for k, v in BOLSA_EN_PARA_PT.items()}
+
 
 # ── Mapeamento de setores ────────────────────────────────────
 SETOR_PT_PARA_EN = {
@@ -184,7 +193,7 @@ def traduzir_entrada_para_modelo(dados_pt: dict) -> dict:
     e retorna um dicionário pronto para o modelo de ML (EN).
 
     Campos esperados no dicionário de entrada:
-        cnpj, sigla, nome, bolsa, setor,
+        cnpj, sigla, nome, perfil, setor,
         faturamento, tamanho,
         confiabilidade_ambiental, maturidade_ambiental,
         confiabilidade_social, maturidade_social,
@@ -202,7 +211,7 @@ def traduzir_entrada_para_modelo(dados_pt: dict) -> dict:
     gov_grade  = derivar_grade(d["maturidade_governanca"], d["confiabilidade_governanca"])
 
     return {
-        "exchange":           d["bolsa"],
+        "exchange":           BOLSA_PT_PARA_EN.get(d["perfil"], d["perfil"]),
         "industry":           SETOR_PT_PARA_EN.get(d["setor"], d["setor"]),
         "revenue_M":          float(d["faturamento"]),
         "employees":          int(d["tamanho"]),
@@ -233,7 +242,7 @@ def traduzir_linha_para_dashboard(linha_en: dict) -> dict:
         "cnpj":                      formatar_cnpj(d.get("cik", 0)),
         "sigla":                     d.get("ticker", ""),
         "nome":                      d.get("name", ""),
-        "bolsa":                     d.get("exchange", ""),
+        "perfil":                    BOLSA_EN_PARA_PT.get(d.get("exchange", ""), d.get("exchange", "")),
         "setor":                     SETOR_EN_PARA_PT.get(d.get("industry", ""), d.get("industry", "")),
         "faturamento":               d.get("revenue_M", 0),
         "tamanho":                   d.get("employees", 0),

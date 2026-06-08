@@ -37,7 +37,7 @@ NEW_CO   = GOLD_DIR / "new_companies.csv"
 
 # ── Colunas do Gold em PT-BR (ordem final) ───────────────────
 GOLD_COLS_PT = [
-    "cnpj", "sigla", "nome", "bolsa", "setor",
+    "cnpj", "sigla", "nome", "perfil", "setor",
     "faturamento", "tamanho",
     "confiabilidade_ambiental", "maturidade_ambiental", "pontuacao_ambiental",
     "confiabilidade_social",    "maturidade_social",    "pontuacao_social",

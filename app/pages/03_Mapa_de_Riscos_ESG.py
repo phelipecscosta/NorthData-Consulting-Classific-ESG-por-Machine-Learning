@@ -18,10 +18,10 @@ df = load_data()
 with st.sidebar:
     st.markdown("### Filtros")
     top_n        = st.slider("Top N setores", 5, len(df["setor"].unique()), 15)
-    exchange_sel = st.multiselect("Bolsa", df["bolsa"].unique().tolist(),
-                                  default=df["bolsa"].unique().tolist())
+    exchange_sel = st.multiselect("Perfil", df["perfil"].unique().tolist(),
+                                  default=df["perfil"].unique().tolist())
 
-dff = df[df["bolsa"].isin(exchange_sel)] if exchange_sel else df
+dff = df[df["perfil"].isin(exchange_sel)] if exchange_sel else df
 
 st.markdown('<div class="edn-section"><p class="edn-section-title">Risco por setor de atuação</p>', unsafe_allow_html=True)
 st.plotly_chart(chart_sector_risk(dff, top_n=top_n), use_container_width=True)
@@ -100,7 +100,7 @@ with col_i:
     <div style="padding:1rem">
         <p style="font-size:13px;color:#888780;text-transform:uppercase;letter-spacing:.06em">Empresa</p>
         <p style="font-size:18px;font-weight:500">{row['nome']} ({row['sigla']})</p>
-        <p style="font-size:13px;color:#888780">Setor: {row['setor']} · Bolsa: {row['bolsa']}</p>
+        <p style="font-size:13px;color:#888780">Setor: {row['setor']} · Perfil: {row['perfil']}</p>
         <hr style="border-color:#F1EFE8">
         <p style="font-size:13px;color:#888780;text-transform:uppercase">Nível de risco</p>
         <p style="font-size:22px;font-weight:500;color:{cor}">{nivel}</p>

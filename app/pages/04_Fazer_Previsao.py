@@ -75,7 +75,7 @@ with st.form("form_previsao"):
         cnpj  = st.text_input("CNPJ (somente números)", max_chars=14, placeholder="00000000000000")
         sigla = st.text_input("Sigla (ticker)", max_chars=10).upper()
         nome  = st.text_input("Nome da empresa")
-        bolsa = st.selectbox("Bolsa", ["NYSE", "NASDAQ"])
+        perfil = st.selectbox("Perfil", ["Tradicional", "Inovador"])
         setor = st.selectbox("Setor", SETORES_PT)
 
     with c2:
@@ -110,7 +110,7 @@ if submitted:
 
     dados_pt = {
         "cnpj": cnpj_fmt, "sigla": sigla, "nome": nome,
-        "bolsa": bolsa, "setor": setor,
+        "perfil": perfil, "setor": setor,
         "faturamento": faturamento, "tamanho": tamanho,
         "maturidade_ambiental": mat_amb, "confiabilidade_ambiental": conf_amb,
         "maturidade_social": mat_soc,    "confiabilidade_social": conf_soc,
@@ -140,7 +140,7 @@ if submitted:
 
     linha_en = {
         "cik": cnpj_fmt, "ticker": sigla, "name": nome,
-        "exchange": bolsa, "industry": entrada_en["industry"],
+        "exchange": perfil, "industry": entrada_en["industry"],
         "revenue_M": faturamento, "employees": tamanho,
         "environment_grade": entrada_en["environment_grade"],
         "social_grade":      entrada_en["social_grade"],
@@ -162,7 +162,7 @@ if submitted:
         <div style="padding:1rem">
             <p style="font-size:13px;color:#888780;text-transform:uppercase">Empresa prevista</p>
             <p style="font-size:20px;font-weight:500">{nome} ({sigla})</p>
-            <p style="font-size:13px;color:#888780">{setor} · {bolsa}</p>
+            <p style="font-size:13px;color:#888780">{setor} · {perfil}</p>
             <hr style="border-color:#F1EFE8;margin:1rem 0">
             <p style="font-size:13px;color:#888780;text-transform:uppercase">Nível de risco previsto</p>
             <p style="font-size:28px;font-weight:500;color:{cor_risco}">{nivel_risco}</p>

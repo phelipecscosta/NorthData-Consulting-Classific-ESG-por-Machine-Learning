@@ -20,15 +20,15 @@ with st.sidebar:
     st.markdown("### Filtros")
     setores = ["Todos"] + sorted(df["setor"].dropna().unique().tolist())
     setor_sel    = st.selectbox("Setor", setores)
-    exchange_sel = st.multiselect("Bolsa", df["bolsa"].unique().tolist(),
-                                  default=df["bolsa"].unique().tolist())
+    exchange_sel = st.multiselect("Perfil", df["perfil"].unique().tolist(),
+                                  default=df["perfil"].unique().tolist())
     risco_sel    = st.multiselect("Nível de risco", RISK_ORDER, default=RISK_ORDER)
 
 dff = df.copy()
 if setor_sel != "Todos":
     dff = dff[dff["setor"] == setor_sel]
 if exchange_sel:
-    dff = dff[dff["bolsa"].isin(exchange_sel)]
+    dff = dff[dff["perfil"].isin(exchange_sel)]
 if risco_sel:
     dff = dff[dff["nivel_risco"].isin(risco_sel)]
 

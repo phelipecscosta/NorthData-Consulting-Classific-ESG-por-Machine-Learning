@@ -213,6 +213,21 @@ No terminal, execute o script de transformação silver:
  python src/silver_transform.py
 ```
 
+## Para rodar o MLflow
+
+De forma estável, para que envontre o caminho dos experimentos:
+```
+$env:MLFLOW_ALLOW_FILE_STORE="true"
+```
+e depois
+
+```
+mlflow ui
+```
+
+
+
+
 ## FASE III - Transformando os Dados para Gold (necessário na primeira vez)
 python src/build_gold.py
 

@@ -44,22 +44,20 @@ edn_header("Previsão de Risco ESG", "Classificar uma nova empresa usando o mode
 ROOT = Path(__file__).parent.parent.parent
 TEMPLATE_PATH = ROOT / "data" / "template" / "modelo_cadastro_novas_empresas.xlsx"
 GOLD_PATH     = ROOT / "data" / "gold" / "data_gold.csv"
-MLRUNS_URI = f"file:///{(ROOT / 'mlruns').as_posix()}"
-mlflow.set_tracking_uri(MLRUNS_URI)
 
-RUN_IDS = {
-    "environment_score": "b23461d65eb64d68b7a27c4e60273390",
-    "social_score":      "cb491194b7a741068bc3255cb6ebe80f",
-    "governance_score":  "be02e22e22884c9e930283b62eaef881",
-}
 
 @st.cache_resource
 def load_models():
     modelos = {}
-    for target, run_id in RUN_IDS.items():
-        uri = f"runs:/{run_id}/model"
+    nomes = {
+        "environment_score": "Random Forest_environment_score.pkl",
+        "social_score":      "Random Forest_social_score.pkl",
+        "governance_score":  "Random Forest_governance_score.pkl",
+    }
+    for target, arquivo in nomes.items():
         try:
-            modelos[target] = mlflow.sklearn.load_model(uri)
+            import joblib
+            modelos[target] = joblib.load(ROOT / "models" / arquivo)
         except Exception as e:
             st.error(f"Erro ao carregar modelo {target}: {e}")
     return modelos

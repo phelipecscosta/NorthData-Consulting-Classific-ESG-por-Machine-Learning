@@ -33,7 +33,7 @@ from translator import traduzir_dataframe_para_dashboard, formatar_cnpj
 SILVER   = ROOT / "data" / "silver" / "data_silver.csv"
 GOLD_DIR = ROOT / "data" / "gold"
 GOLD     = GOLD_DIR / "data_gold.csv"
-NEW_CO   = GOLD_DIR / "new_companies.csv"
+
 
 # ── Colunas do Gold em PT-BR (ordem final) ───────────────────
 GOLD_COLS_PT = [
@@ -84,13 +84,6 @@ def build_gold():
         pct = count / len(df_gold) * 100
         print(f"  {nivel:<18} {count:>4} empresas ({pct:.1f}%)")
 
-    # ── Criar new_companies.csv vazio (só cabeçalho) se não existir
-    if not NEW_CO.exists():
-        pd.DataFrame(columns=GOLD_COLS_PT).to_csv(NEW_CO, index=False, encoding="utf-8")
-        print(f"\nCriado: {NEW_CO} (vazio — aguardando novas previsões)")
-    else:
-        n = len(pd.read_csv(NEW_CO))
-        print(f"\nNew companies existente: {n} previsões acumuladas")
 
     print("\nBuild Gold concluído com sucesso!")
 

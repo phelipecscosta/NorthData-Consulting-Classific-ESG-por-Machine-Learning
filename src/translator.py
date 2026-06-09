@@ -227,7 +227,7 @@ def traduzir_entrada_para_modelo(dados_pt: dict) -> dict:
 def traduzir_linha_para_dashboard(linha_en: dict) -> dict:
     """
     Recebe um dicionário no formato EN (Gold interno) e retorna
-    um dicionário no formato PT para o dashboard e new_companies.csv.
+    um dicionário no formato PT para o dashboard 
 
     Converte setor, maturidade (level) e decompõe grade em
     maturidade + confiabilidade.

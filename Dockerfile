@@ -1,21 +1,10 @@
 # ============================================================
 # Dockerfile — ESG Risk Dashboard (NorthData Consulting)
 # ============================================================
-#
-# O que é um Dockerfile?
-# É uma receita de bolo. Cada instrução é um passo que o Docker
-# executa em ordem para criar uma "imagem" — um snapshot do ambiente
-# completo da nossa aplicação, com Python, bibliotecas e código.
-#
-# Como usar:
-#   1. Construir a imagem:  docker build -t esg-dashboard .
-#   2. Rodar o container:   docker run -p 8501:8501 esg-dashboard
-#   3. Acessar no browser:  http://localhost:8501
-# ============================================================
+# Aqui estarão as instruções o Docker executar em ordem, para criar uma "imagem" — um snapshot do ambiente da aplicação, com Python, bibliotecas e código.
 
-# ── FROM: escolhemos a imagem base ───────────────────────────
-# python:3.11-slim é uma imagem oficial do Python, versão "slim"
-# (sem pacotes desnecessários), o que mantém o container leve.
+# Escolha da imagem base ───────────────────────────
+# python:3.11-slim é a imagem oficial do Python, versão "slim" (sem pacotes desnecessários, o que mantém o container leve).
 FROM python:3.11-slim
 
 # ── LABEL: metadados opcionais da imagem ─────────────────────
@@ -45,10 +34,10 @@ RUN pip install --upgrade pip --no-cache-dir \
 COPY . .
 
 # ── RUN: gera o arquivo Gold de base dentro do container ─────
-# O build_gold.py cria data/gold/data_gold.csv e new_companies.csv
-# Fazemos isso durante o build para que o container já inicie
+# O build_gold.py cria data/gold/data_gold.csv
+# Faz-se isso durante o build para que o container já inicie
 # com os dados prontos.
-RUN python build_gold.py
+RUN python src/build_gold.py
 
 # ── EXPOSE: documenta a porta que a aplicação usa ────────────
 # Isso NÃO abre a porta — é só documentação. A porta é aberta
@@ -68,7 +57,4 @@ HEALTHCHECK --interval=30s --timeout=10s --retries=3 \
 # --server.port: porta interna do container
 # --server.address: escuta em todas as interfaces (obrigatório no Docker)
 # --server.headless: desativa aviso de "abrir browser" (não há browser no container)
-CMD ["streamlit", "run", "app/Home.py",
-     "--server.port=8501",
-     "--server.address=0.0.0.0",
-     "--server.headless=true"]
+CMD ["streamlit", "run", "app/Home.py", "--server.port=8501", "--server.address=0.0.0.0", "--server.headless=true"]

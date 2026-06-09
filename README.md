@@ -223,6 +223,67 @@ streamlit run app/Home.py
 
 ## FASE V - Rodar com Docker
 
+### Passo 1 — Baixar e instalar o Docker
+
+É necessário estar com o docker instalado e configurado em sua máquina.
+
+Para baixar: https://www.docker.com/products/docker-desktop
+
+Para verificar se a versão foi instalada, digitar via Terminal:
+
+```
+ docker --version
+```
+
+### Passo 2 — Executar o Docker Desktop
+Caso não esteja configurado para iniciar automaticamente, abra o Docker. Pode haver um tempo de espera. Após isto, será aberta a tela principal e no canto inferior esquerdo, deve aparecer a mensagem "Engine Running" em verde.
+
+>O Docker Desktop deve ser mantido aberto durante todo o uso da aplicação
+
+### Passo 3 — Construir a imagem (container)
+Estando na pasta raiz do projeto, digite no Terminal:
+
+```
+docker build -t esg-dashboard .
+```
+>o Docker irá ler o Dockerfile linha por linha e montar o container. Ele irá baixar o Python, instalar as bibliotecas do requirements.txt e copiar o projeto para dentro do container, o que pode demorar 5 a 15 minutos na primeira vez porque precisa baixar tudo. Nas próximas vezes será mais rápido por causa do cache.
+> O ***esg-dashboard*** é o nome que terá o container.
+
+>**<u>POSSÍVEIS ERROS</u>**
+> No processo de instalação das bibliotecas durante o desenvolvimento do projeto, é possível que algumas exclusivas para o windows tenham sido gravadas no requirements.txt . 
+> Como o Docker roda internamente em Linux, ele não irá reconhecer algumas destas. Se for o caso, abrir o arquivo requirements.txt , procurar e deletar manualmente as bibliotecas abaixo e depois salvar:
+> pywin32 == 311
+> pywinpty == 3.0.3
+> colorama == 0.4.6
+
+### Passo 4 - Rodar o container
+
+Executar o seguinte comando:
+```
+docker run -p 8501:8501 --name esg-dashboard esg-dashboard
+```
+=> A porta 8501 é o meio no qual a sua máquina consegue acessar o container
+
+
+### Passo 5 - Acessar o dashboard
+
+Via navegador, digitar:
+
+http://localhost:8501
+
+### Passo 6 - Paar o container
+
+Com o cursor no Terminal, fazer `Ctrl+C`
+
+### Passo N - Manutenções e atualização
+
+Sempre que fizer alterações no código, estas precisam ir para o container. 
+ 1 - Se o container estiver em execução, parar digitando no Terminal `Ctrl+C`
+ 2 - Reconstruir a imagem digitando no Terminal `docker build -t esg-dashboard .`
+ 3 - Subir novamente `docker run -p 8501:8501 --name esg-dashboard esg-dashboard`
+
+
+
 ```bash
 # 1. Construir a imagem
 docker build -t esg-dashboard .

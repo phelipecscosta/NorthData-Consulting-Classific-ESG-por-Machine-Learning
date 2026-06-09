@@ -11,6 +11,7 @@ os.environ["MLFLOW_ALLOW_FILE_STORE"] = "true"
 
 import streamlit as st
 import pandas as pd
+from datetime import date
 import mlflow.sklearn
 
 from components.utils import (
@@ -47,9 +48,9 @@ MLRUNS_URI = f"file:///{(ROOT / 'mlruns').as_posix()}"
 mlflow.set_tracking_uri(MLRUNS_URI)
 
 RUN_IDS = {
-    "environment_score": "ad716cdf9b4e",
-    "social_score":      "9c9dbca8c8dd",
-    "governance_score":  "2815fb1d2881",
+    "environment_score": "b23461d65eb64d68b7a27c4e60273390",
+    "social_score":      "cb491194b7a741068bc3255cb6ebe80f",
+    "governance_score":  "be02e22e22884c9e930283b62eaef881",
 }
 
 @st.cache_resource
@@ -132,18 +133,43 @@ with aba1:
             st.stop()
 
         cnpj_fmt = formatar_cnpj(cnpj)
+        sigla_up = sigla.upper()
+
+        dup_sigla = sigla_up in df_gold["sigla"].str.upper().tolist()
+        dup_cnpj  = cnpj_fmt in df_gold["cnpj"].astype(str).tolist()
+
+        if dup_sigla or dup_cnpj:
+            campo = "sigla" if dup_sigla else "cnpj"
+            valor = sigla_up if dup_sigla else cnpj_fmt
+            st.warning(f"⚠️ A empresa {campo.upper()} **{valor}** já cadastrada. Deseja sobrescrever e reavaliar?")
+            col_sim, col_nao = st.columns(2)
+            with col_sim:
+                if st.button("✅ Sim, sobrescrever", use_container_width=True, key="ind_sim"):
+                    st.session_state["ind_sobrescrever"] = sigla_up
+            with col_nao:
+                if st.button("❌ Não, cancelar", use_container_width=True, key="ind_nao"):
+                    st.session_state.pop("ind_sobrescrever", None)
+                    st.info("Operação cancelada.")
+                    st.stop()
 
         if sigla in df_gold["sigla"].str.upper().values:
             st.warning(f"A sigla '{sigla}' já existe no dataset.")
             st.stop()
 
         dados_pt = {
-            "cnpj": cnpj_fmt, "sigla": sigla, "nome": nome,
-            "perfil": perfil, "setor": setor,
-            "faturamento": faturamento, "tamanho": tamanho,
-            "maturidade_ambiental": mat_amb, "confiabilidade_ambiental": conf_amb,
-            "maturidade_social": mat_soc,    "confiabilidade_social": conf_soc,
-            "maturidade_governanca": mat_gov,"confiabilidade_governanca": conf_gov,
+            "cnpj": cnpj_fmt, 
+            "sigla": sigla,
+            "nome": nome,
+            "perfil": perfil, 
+            "setor": setor,
+            "faturamento": faturamento, 
+            "tamanho": tamanho,
+            "maturidade_ambiental": mat_amb, 
+            "confiabilidade_ambiental": conf_amb,
+            "maturidade_social": mat_soc,    
+            "confiabilidade_social": conf_soc,
+            "maturidade_governanca": mat_gov,
+            "confiabilidade_governanca": conf_gov,
         }
 
         try:
@@ -168,8 +194,11 @@ with aba1:
             nivel_risco = "Baixo Risco"
 
         linha_en = {
-            "cik": cnpj_fmt, "ticker": sigla, "name": nome,
-            "exchange": perfil, "industry": entrada_en["industry"],
+            "cik": cnpj_fmt, 
+            "ticker": sigla, 
+            "name": nome,
+            "exchange": BOLSA_PT_PARA_EN.get(perfil, perfil),
+            "industry": entrada_en["industry"],
             "revenue_M": faturamento, "employees": tamanho,
             "environment_grade": entrada_en["environment_grade"],
             "social_grade":      entrada_en["social_grade"],
@@ -179,6 +208,7 @@ with aba1:
             "governance_score":  scores["governance_score"],
             "total_score":       total_score,
             "risk_level":        nivel_risco,
+            "last_processing_date": date.today().strftime("%d/%m/%Y"),
         }
         linha_pt = traduzir_linha_para_dashboard(linha_en)
 

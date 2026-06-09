@@ -42,7 +42,7 @@ GOLD_COLS_PT = [
     "confiabilidade_ambiental", "maturidade_ambiental", "pontuacao_ambiental",
     "confiabilidade_social",    "maturidade_social",    "pontuacao_social",
     "confiabilidade_governanca","maturidade_governanca", "pontuacao_governanca",
-    "pontuacao_total", "nivel_risco",
+    "pontuacao_total", "nivel_risco", "data_inclusao",
 ]
 
 
@@ -62,6 +62,8 @@ def build_gold():
 
     # ── Calcular nivel_risco antes de traduzir ────────────────
     df["risk_level"] = df["total_score"].apply(calcular_nivel_risco)
+
+    df["last_processing_date"] = pd.to_datetime(df["last_processing_date"], dayfirst=True, errors="coerce") #mantém a coluna last_processing_date
 
     # ── Traduzir DataFrame EN → PT ────────────────────────────
     df_pt = traduzir_dataframe_para_dashboard(df)

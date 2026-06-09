@@ -139,3 +139,6 @@ st.dataframe(
     },
 )
 st.markdown('</div>', unsafe_allow_html=True)
+
+
+st.caption("@2026 NORTHDATA Consulting. Todos os direitos reservados")

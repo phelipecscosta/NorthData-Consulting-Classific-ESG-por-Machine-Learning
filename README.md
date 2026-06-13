@@ -111,21 +111,31 @@ Se aparecer `Ambiente OK!` no terminal, está pronto.
 
 ```
 NorthData-Consulting-Classific-ESG-por-Machine-Learning/
-│
 ├── data/
-│   ├── bronze/       # Dado bruto original (nunca modificado)
-│   ├── silver/       # Dado limpo e tratado
-│   └── gold/         # Dado agregado para ML e BI
-│
-├── docs/             # Relatórios e documentação formal
-├── notebooks/        # EDA e experimentos
-├── src/              # Código reutilizável
-├── app/              # Dashboard
-├── mlruns/           # Experimentos MLflow
-├── venv/             # Ambiente virtual (não versionar)
-├── Dockerfile
-├── requirements.txt
-└── README.md
+│   ├── bronze/          # Dados brutos ingeridos do Kaggle (data.csv + metadata.json)
+│   ├── silver/          # Dados limpos e padronizados (data_silver.csv)
+│   └── gold/            # Dados prontos para consumo pelo dashboard e ML (data_gold.csv)
+│   └── templates/       # Arquivos de suporte 
+├── notebooks/           # Jupyter Notebooks de EDA e modelagem
+├── docs/                # Documentos úteis do projeto (mídias, relatórios etc) 
+├── src/
+│   ├── ingest_data.py   # Ingestão via Kaggle API com hash MD5
+│   ├── silver_transform.py  # Transformações da camada Silver
+│   └── build_gold.py    # Construção da camada Gold com feature engineering
+│   └── translator.py    # Conexão entre dataset do modelo e linguagem do cliente
+
+├── models/              # Modelos serializados via joblib (.pkl)
+├── app/
+│   ├── Home.py          # Página inicial do dashboard
+│   ├── pages/           # Páginas do Streamlit (Scorecards, Matriz, Mapa, Previsão)
+│   ├── components/      # Funções auxiliares e de visualização reutilizáveis
+│   └── style/           # CSS com identidade visual do cliente
+├── mlruns/              # Artefatos e experimentos rastreados pelo MLflow
+├── Dockerfile           # Instruções Docker
+├── requirements.txt     # Lista de bibliotecas para serem instaladas
+├── README.md            # Você está aqui!
+└── rodar_dashboard.bat  # Clicável para rodar o Docker
+
 ```
 
 > **LEMBRE-SE:** A pasta venv não é baixada no pacote, mas sim criada posteriormente, conforme explicado nos passos 3 e 4 acima.
@@ -229,9 +239,11 @@ mlflow ui
 
 
 ## FASE III - Transformando os Dados para Gold (necessário na primeira vez)
+```
 python src/build_gold.py
+```
 
-## FASE IV Iniciar o dashboard
+## FASE IV Iniciar o dashboard (sem o docker)
 ```
 streamlit run app/Home.py
 ```
@@ -273,10 +285,20 @@ docker build -t esg-dashboard .
 
 ### Passo 4 - Rodar o container
 
-Executar o seguinte comando:
+Para rodar o container, foi criado o arquivo `rodar_dashboard.bat` . Ele irá automaticamente informar o diretório dos arquivos gold para poder os atualizar, em máquina local. Basta clicar no arquivo.
+
+> Os seguintes cuidados devem ser tomados:
+> 1. Garantir que o Docker Desktop está aberto (ícone da baleia na bandeja do sistema)
+> 2. Abrir o terminal na raiz do projeto
+
+Se preferir, executar via terminal o seguinte comando:
 ```
-docker run -p 8501:8501 --name esg-dashboard esg-dashboard
+docker run -p 8501:8501 --name esg-dashboard \
+  -v "%cd%\data:/app/data" \
+  esg-dashboard
 ```
+> Substituir o trecho %cd% pelo diretório onde está instalado o projeto.
+
 => A porta 8501 é o meio no qual a sua máquina consegue acessar o container
 
 
@@ -286,47 +308,19 @@ Via navegador, digitar:
 
 http://localhost:8501
 
-### Passo 6 - Paar o container
+### Passo 6 - Parar o container
 
 Com o cursor no Terminal, fazer `Ctrl+C`
 
-### Passo N - Manutenções e atualização
+### Manutenções e atualização
 
 Sempre que fizer alterações no código, estas precisam ir para o container. 
  1 - Se o container estiver em execução, parar digitando no Terminal `Ctrl+C`
+ 2 - Garantir limpeza total do histórico `docker rm esg-dashboard` e depois `docker rmi esg-dashboard`
  2 - Reconstruir a imagem digitando no Terminal `docker build -t esg-dashboard .`
  3 - Subir novamente `docker run -p 8501:8501 --name esg-dashboard esg-dashboard`
 
 
 
-```bash
-# 1. Construir a imagem
-docker build -t esg-dashboard .
-
-# 2. Rodar o container
-docker run -p 8501:8501 esg-dashboard
-
-# 3. Acessar no browser
-# http://localhost:8501
-```
-
-## Fluxo do tradutor
-
-```
-Dataset cliente (PT-BR)
-    → src/translator.py → entrada EN → modelo ML → scores EN
-        → src/translator.py → resultado PT-BR
-            → data/gold/new_companies.csv → dashboard PT-BR
-
-
-## Modelos MLflow
-
-Os modelos precisam estar disponíveis no diretório `mlruns/`.
-Os run_ids configurados em `app/pages/04_previsao.py` devem existir.
-Se os run_ids mudarem, atualizar o dicionário `RUN_IDS` no arquivo.
-
-
-
-
 # Nosso site
-**Google site:** https://sites.google.com/cesar.school/projetos3-edenred *(em revisão)*
+**Google site:** https://sites.google.com/cesar.school/projetos3-edenred

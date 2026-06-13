@@ -304,7 +304,7 @@ def calcular_nivel_risco_lote(total: float) -> str:
 def ler_planilha(arquivo) -> tuple:
     erros = []
     try:
-        df = pd.read_excel(arquivo, dtype=str, skiprows=1)
+        df = pd.read_excel(arquivo, dtype=str, header=0, sheet_name="Cadastro")
         df.columns = df.columns.str.strip()
     except Exception as e:
         return pd.DataFrame(), [f"Erro ao ler planilha: {e}"]
